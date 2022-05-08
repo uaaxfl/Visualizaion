@@ -1,0 +1,904 @@
+digraph {
+	{
+		rank=same
+		1988
+		"P88-1020" [label="eduard1988Planning
+172" color=red penwidth=10 style=solid]
+		"P88-1022" [label="eduard1988Two
+22" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		1989
+		"J89-2012" [label="eduard1989Book
+???" color=red style=dashed]
+		"H89-2015" [label="eduard1989New
+2" color=red style=solid]
+		"H89-2065" [label="eduard1989The
+0" color=red style=solid]
+		"H89-1021" [label="william1989The
+0" color=black style=solid]
+	}
+	{
+		rank=same
+		1990
+		"W90-0117" [label="eduard1990Parsimonious
+58" color=red penwidth=3 style=solid]
+		"H90-1011" [label="robert1990Performing
+6" color=black style=solid]
+		"H90-1072" [label="yorick1990Machine
+2" color=black style=solid]
+	}
+	{
+		rank=same
+		1991
+		"H91-1106" [label="eduard1991The
+0" color=red style=solid]
+	}
+	{
+		rank=same
+		1992
+		"H92-1052" [label="eduard1992Approximating
+27" color=red penwidth=3 style=solid]
+		"H92-1124" [label="eduard1992In-Depth
+0" color=red style=solid]
+	}
+	{
+		rank=same
+		1993
+		"W93-0210" [label="eduard1993In
+???" color=red style=dashed]
+		"H93-1115" [label="eduard1993The
+0" color=red style=solid]
+	}
+	{
+		rank=same
+		1994
+		"W94-0328" [label="julia1994Toward
+0" color=black style=solid]
+		"H94-1023" [label="eduard1994Session
+0" color=red style=solid]
+		"H94-1025" [label="akitoshi1994Building
+31" color=black penwidth=3 style=solid]
+		"H94-1121" [label="eduard1994{PANGLOSS}:
+3" color=red style=solid]
+		"1994.amta-1.10" [label="robert1994Integrating
+???" color=black style=dashed]
+		"1994.amta-1.18" [label="kevin1994Integrating
+48" color=red penwidth=3 style=solid]
+		"1994.amta-1.23" [label="akitoshi1994Lexicon-to-Ontology
+???" color=black style=dashed]
+		"1994.amta-1.27" [label="kenneth1994Is
+???" color=black style=dashed]
+		"1994.amta-1.41" [label="jaime1994{PANGLOSS}
+0" color=black style=solid]
+	}
+	{
+		rank=same
+		1995
+		"J95-1009" [label="eduard1995Book
+???" color=red style=dashed]
+	}
+	{
+		rank=same
+		1996
+		"W96-0508" [label="hercules1996On
+6" color=black style=solid]
+		"W96-0401" [label="leo1996The
+37" color=black penwidth=3 style=solid]
+		"1996.amta-1.24" [label="eduard1996Panel:
+???" color=red style=dashed]
+		"1996.amta-1.31" [label="kevin1996{JAPANGLOSS}:
+???" color=red style=dashed]
+	}
+	{
+		rank=same
+		1997
+		"W97-0704" [label="eduard1997Automated
+367" color=red penwidth=10 style=solid]
+		"A97-1042" [label="chinyew1997Identifying
+242" color=red penwidth=10 style=solid]
+		"1997.tmi-1.6" [label="eduard1997{MT}
+???" color=red style=dashed]
+		"1997.mtsummit-workshop.7" [label="latifur1997Improving
+8" color=black style=solid]
+		"1997.mtsummit-tutorials.1" [label="eduard1997A
+???" color=red style=dashed]
+	}
+	{
+		rank=same
+		1998
+		"X98-1026" [label="eduard1998Automated
+160" color=red penwidth=10 style=solid]
+		"1998.amta-tutorials.7" [label="eduard1998Multilingual
+???" color=red style=dashed]
+		"gerber-hovy-1998-improving" [label="laurie1998Improving
+12" color=black penwidth=3 style=solid]
+		"1998.amta-panels.1" [label="eduard1998A
+???" color=red style=dashed]
+	}
+	{
+		rank=same
+		1999
+		"1999.mtsummit-1.31" [label="margaret1999{MT}
+???" color=black style=dashed]
+	}
+	{
+		rank=same
+		2000
+		"C00-1072" [label="chinyew2000The
+401" color=red penwidth=10 style=solid]
+		"2000.amta-tutorials.2" [label="eduard2000A
+???" color=red style=dashed]
+	}
+	{
+		rank=same
+		2001
+		"W01-1313" [label="elena2001Assigning
+116" color=black penwidth=10 style=solid]
+		"H01-1069" [label="eduard2001Toward
+124" color=red penwidth=10 style=solid]
+	}
+	{
+		rank=same
+		2002
+		"W02-2108" [label="michael2002Towards
+21" color=red penwidth=3 style=solid]
+		"W02-1105" [label="eduard2002Building
+2" color=red style=solid]
+		"W02-0406" [label="chinyew2002Manual
+126" color=red penwidth=10 style=solid]
+		"P02-1006" [label="deepak2002Learning
+688" color=red penwidth=10 style=solid]
+		"P02-1058" [label="chinyew2002From
+200" color=red penwidth=10 style=solid]
+		"hovy-etal-2002-computer" [label="eduard2002Computer-Aided
+7" color=red style=solid]
+		"J02-4001" [label="dragomir2002Introduction
+319" color=black penwidth=10 style=solid]
+		"C02-1042" [label="eduard2002Using
+13" color=red penwidth=3 style=solid]
+		"C02-1130" [label="michael2002Fine
+158" color=red penwidth=10 style=solid]
+	}
+	{
+		rank=same
+		2003
+		"W03-1209" [label="deepak2003Statistical
+39" color=red penwidth=3 style=solid]
+		"W03-1007" [label="michael2003Maximum
+61" color=red penwidth=3 style=solid]
+		"W03-0510" [label="chinyew2003The
+53" color=red penwidth=3 style=solid]
+		"P03-2021" [label="anton2003i{N}e{ATS}:
+34" color=red penwidth=3 style=solid]
+		"P03-1001" [label="michael2003Offline
+120" color=red penwidth=10 style=solid]
+		"N03-2008" [label="michael2003A
+11" color=red penwidth=3 style=solid]
+		"N03-1020" [label="chinyew2003Automatic
+1005" color=red penwidth=10 style=solid]
+		"N03-1037" [label="liang2003A
+26" color=red penwidth=3 style=solid]
+		"2003.mtsummit-plenaries.8" [label="eduard2003Holy
+???" color=red style=dashed]
+		"2003.mtsummit-papers.12" [label="dinh2003{BTL}:
+???" color=black style=dashed]
+		"2003.mtsummit-papers.30" [label="margaret2003{FEMTI}:
+???" color=black style=dashed]
+	}
+	{
+		rank=same
+		2004
+		"W04-3256" [label="liang2004Multi-Document
+???" color=red style=dashed]
+		"W04-2709" [label="stephen2004Interlingual
+20" color=black penwidth=3 style=solid]
+		"W04-1010" [label="liang2004Template-Filtered
+12" color=red penwidth=3 style=solid]
+		"W04-0832" [label="namhee2004Senseval
+6" color=red style=solid]
+		"W04-0701" [label="michael2004Multi-Document
+60" color=red penwidth=3 style=solid]
+		"C04-1111" [label="patrick2004Towards
+10" color=red style=solid]
+		"C04-1179" [label="namhee2004{F}rame{N}et-based
+14" color=red penwidth=3 style=solid]
+		"C04-1200" [label="soomin2004Determining
+1103" color=red penwidth=10 style=solid]
+		"reeder-etal-2004-interlingual" [label="florence2004Interlingual
+7" color=black style=solid]
+	}
+	{
+		rank=same
+		2005
+		"W05-1520" [label="rahul2005Statistical
+15" color=red penwidth=3 style=solid]
+		"P05-1037" [label="liang2005Digesting
+57" color=red penwidth=3 style=solid]
+		"P05-1077" [label="deepak2005Randomized
+187" color=red penwidth=10 style=solid]
+		"I05-7009" [label="andrew2005The
+60" color=black penwidth=3 style=solid]
+		"I05-2011" [label="soomin2005Automatic
+135" color=red penwidth=10 style=solid]
+		"H05-2003" [label="liang2005{C}lassummary:
+1" color=red style=solid]
+		"H05-1075" [label="donghui2005Handling
+3" color=red style=solid]
+		"2005.sigdial-1.25" [label="david2005Dealing
+4" color=black style=solid]
+	}
+	{
+		rank=same
+		2006
+		"W06-1610" [label="liang2006Re-evaluating
+86" color=red penwidth=3 style=solid]
+		"W06-0301" [label="soomin2006Extracting
+358" color=red penwidth=10 style=solid]
+		"P06-2063" [label="soomin2006Automatic
+154" color=red penwidth=10 style=solid]
+		"N06-2015" [label="eduard2006{O}nto{N}otes:
+537" color=red penwidth=10 style=solid]
+		"N06-1026" [label="soomin2006Identifying
+173" color=red penwidth=10 style=solid]
+		"N06-1027" [label="donghui2006Learning
+50" color=red penwidth=3 style=solid]
+		"N06-1057" [label="liang2006{P}ara{E}val:
+87" color=red penwidth=3 style=solid]
+		"hovy-etal-2006-automated" [label="eduard2006Automated
+143" color=red penwidth=10 style=solid]
+		"zhou-etal-2006-summarizing" [label="liang2006Summarizing
+5" color=red style=solid]
+		"rambow-etal-2006-parallel" [label="owen2006Parallel
+10" color=black style=solid]
+		"2006.amta-tutorials.1" [label="eduard2006A
+???" color=red style=dashed]
+	}
+	{
+		rank=same
+		2007
+		"P07-1129" [label="liangchih2007Topic
+3" color=red style=solid]
+		"N07-2055" [label="liang2007A
+7" color=red style=solid]
+		"N07-1071" [label="patrick2007{ISP}:
+87" color=black penwidth=3 style=solid]
+		"D07-1017" [label="rahul2007{LEDIR}:
+49" color=red penwidth=3 style=solid]
+		"D07-1082" [label="jingbo2007Active
+129" color=red penwidth=10 style=solid]
+		"D07-1088" [label="donghui2007Extracting
+20" color=red penwidth=3 style=solid]
+		"D07-1113" [label="soomin2007{C}rystal:
+84" color=red penwidth=3 style=solid]
+		"2007.mtsummit-aptme.3" [label="eduard2007Investigating
+???" color=red style=dashed]
+	}
+	{
+		rank=same
+		2008
+		"W08-0628" [label="donghui2008Adaptive
+1" color=red style=solid]
+		"P08-1119" [label="zornitsa2008Semantic
+191" color=red penwidth=10 style=solid]
+		"O08-6002" [label="liangchih2008Corpus
+0" color=red style=solid]
+		"hartholt-etal-2008-common" [label="arno2008A
+20" color=black penwidth=3 style=solid]
+		"I08-2124" [label="donghui2008Towards
+3" color=red style=solid]
+		"I08-1048" [label="jingbo2008Learning
+32" color=red penwidth=3 style=solid]
+		"C08-1133" [label="liangchih2008{O}nto{N}otes:
+5" color=red style=solid]
+		"C08-1142" [label="jingbo2008Multi-Criteria-Based
+33" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2009
+		"D09-1099" [label="eduard2009Toward
+33" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2010
+		"W10-3401" [label="eduard2010Distributional
+0" color=red style=solid]
+		"W10-2111" [label="eduard2010Injecting
+0" color=red style=solid]
+		"W10-0903" [label="anselmo2010Semantic
+14" color=red penwidth=3 style=solid]
+		"S10-1049" [label="stephen2010{ISI}:
+7" color=red style=solid]
+		"P10-5004" [label="eduard2010Annotation
+172" color=red penwidth=10 style=solid]
+		"P10-1070" [label="stephen2010A
+49" color=red penwidth=3 style=solid]
+		"P10-1144" [label="marta2010Coreference
+19" color=black penwidth=3 style=solid]
+		"P10-1150" [label="zornitsa2010Learning
+48" color=red penwidth=3 style=solid]
+		"N10-2002" [label="congxing2010Summarizing
+1" color=red style=solid]
+		"N10-1087" [label="zornitsa2010Not
+35" color=red penwidth=3 style=solid]
+		"recasens-etal-2010-typology" [label="marta2010A
+21" color=black penwidth=3 style=solid]
+		"D10-1108" [label="zornitsa2010A
+120" color=red penwidth=10 style=solid]
+		"C10-2052" [label="dirk2010What{'}s
+26" color=red penwidth=3 style=solid]
+		"C10-2113" [label="anselmo2010Filling
+19" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2011
+		"W11-3701" [label="eduard2011Invited
+???" color=red style=dashed]
+		"W11-0704" [label="stephan2011Contextual
+???" color=black style=dashed]
+		"W11-0206" [label="sandeep2011The
+4" color=black style=solid]
+		"W11-0102" [label="eduard2011A
+2" color=red style=solid]
+		"W11-0143" [label="rutu2011Granularity
+16" color=black penwidth=3 style=solid]
+		"P11-2056" [label="dirk2011Models
+8" color=red style=solid]
+		"P11-2096" [label="donald2011An
+13" color=red penwidth=3 style=solid]
+		"P11-1147" [label="dirk2011Unsupervised
+13" color=red penwidth=3 style=solid]
+		"P11-1162" [label="zornitsa2011Insights
+5" color=red style=solid]
+		"D11-1116" [label="stephen2011A
+55" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2012
+		"W12-6102" [label="hiroshi2012Optimization
+2" color=black style=solid]
+		"W12-1905" [label="dirk2012Exploiting
+4" color=red style=solid]
+		"N12-1083" [label="donald2012Structured
+73" color=red penwidth=3 style=solid]
+		"penas-etal-2012-evaluating" [label="anselmo2012Evaluating
+5" color=red style=solid]
+	}
+	{
+		rank=same
+		2013
+		"W13-3203" [label="kartik2013A
+7" color=red style=solid]
+		"W13-1203" [label="eduard2013Events
+25" color=red penwidth=3 style=solid]
+		"W13-0907" [label="dirk2013Identifying
+34" color=red penwidth=3 style=solid]
+		"R13-1030" [label="hiroshi2013Automatic
+1" color=black style=solid]
+		"P13-2083" [label="kartik2013A
+13" color=red penwidth=3 style=solid]
+		"P13-1037" [label="stephen2013Automatic
+4" color=red style=solid]
+		"N13-1132" [label="dirk2013Learning
+96" color=red penwidth=3 style=solid]
+		"J13-3001" [label="rahul2013{S}quibs:
+65" color=red penwidth=3 style=solid]
+		"D13-1144" [label="shashank2013A
+27" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2014
+		"W14-3349" [label="hiroshi2014Application
+2" color=black style=solid]
+		"W14-2910" [label="jun2014Evaluation
+???" color=black style=dashed]
+		"W14-2303" [label="marc2014Metaphor
+17" color=black penwidth=3 style=solid]
+		"P14-2005" [label="xiaoqiang2014An
+14" color=black penwidth=3 style=solid]
+		"P14-2006" [label="sameer2014Scoring
+67" color=black penwidth=3 style=solid]
+		"P14-1016" [label="jiwei2014Weakly
+56" color=red penwidth=3 style=solid]
+		"P14-1060" [label="shashank2014Vector
+4" color=red style=solid]
+		"P14-1147" [label="jiwei2014Towards
+133" color=red penwidth=10 style=solid]
+		"jain-etal-2014-corpus" [label="siddharth2014A
+3" color=black style=solid]
+		"liu-etal-2014-supervised" [label="zhengzhong2014Supervised
+22" color=red penwidth=3 style=solid]
+		"araki-etal-2014-detecting" [label="jun2014Detecting
+16" color=black penwidth=3 style=solid]
+		"D14-1053" [label="jiwei2014Sentiment
+11" color=red penwidth=3 style=solid]
+		"D14-1214" [label="jiwei2014Major
+53" color=red penwidth=3 style=solid]
+		"D14-1218" [label="jiwei2014A
+65" color=red penwidth=3 style=solid]
+		"D14-1220" [label="jiwei2014Recursive
+78" color=red penwidth=3 style=solid]
+		"C14-1066" [label="sujay2014Inducing
+1" color=red style=solid]
+		"C14-1123" [label="kartik2014Unsupervised
+4" color=red style=solid]
+		"C14-1134" [label="pradeep2014Modeling
+8" color=red style=solid]
+	}
+	{
+		rank=same
+		2015
+		"W15-0802" [label="nicolas2015Word
+5" color=black style=solid]
+		"W15-0807" [label="zhengzhong2015Evaluation
+???" color=red style=dashed]
+		"N15-1070" [label="sujay2015Ontologically
+58" color=red penwidth=3 style=solid]
+		"N15-1184" [label="manaal2015Retrofitting
+247" color=black penwidth=10 style=solid]
+		"D15-1154" [label="xuezhe2015Efficient
+5" color=red style=solid]
+		"D15-1278" [label="jiwei2015When
+41" color=red penwidth=3 style=solid]
+		"D15-1284" [label="diyi2015Humor
+41" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2016
+		"W16-6005" [label="dheeraj2016Unsupervised
+2" color=red style=solid]
+		"P16-1045" [label="sujay2016Tables
+17" color=red penwidth=3 style=solid]
+		"P16-1101" [label="xuezhe2016End-to-end
+528" color=red penwidth=10 style=solid]
+		"P16-1126" [label="shomir2016The
+33" color=black penwidth=3 style=solid]
+		"P16-1228" [label="zhiting2016Harnessing
+31" color=black penwidth=3 style=solid]
+		"N16-1082" [label="jiwei2016Visualizing
+174" color=red penwidth=10 style=solid]
+		"N16-1116" [label="xuezhe2016Unsupervised
+5" color=red style=solid]
+		"N16-1174" [label="zichao2016Hierarchical
+1037" color=red penwidth=10 style=solid]
+		"L16-1206" [label="diyi2016Edit
+5" color=red style=solid]
+	}
+	{
+		rank=same
+		2017
+		"W17-5538" [label="hyeju2017Finding
+2" color=black style=solid]
+		"W17-4902" [label="harsh2017Shakespearizing
+13" color=red penwidth=3 style=solid]
+		"W17-4415" [label="bahar2017Huntsville,
+3" color=black style=solid]
+		"W17-2703" [label="evangelia2017Event
+3" color=red style=solid]
+		"S17-1025" [label="sujay2017Embedded
+3" color=red style=solid]
+		"P17-1088" [label="qizhe2017An
+14" color=red penwidth=3 style=solid]
+		"P17-1191" [label="pradeep2017Ontology-Aware
+3" color=red style=solid]
+		"I17-3016" [label="jiarui2017{STCP}:
+1" color=black style=solid]
+		"I17-1007" [label="xuezhe2017Neural
+11" color=red penwidth=3 style=solid]
+		"D17-1082" [label="guokun2017{RACE}:
+143" color=black penwidth=10 style=solid]
+		"D17-1213" [label="diyi2017Identifying
+11" color=red penwidth=3 style=solid]
+		"D17-1292" [label="dongyeop2017Detecting
+3" color=red style=solid]
+		"D17-1315" [label="varun2017{C}harmanteau:
+3" color=red style=solid]
+	}
+	{
+		rank=same
+		2018
+		"P18-1130" [label="xuezhe2018Stack-Pointer
+1" color=red style=solid]
+		"P18-1154" [label="harsh2018Learning
+4" color=red style=solid]
+		"P18-1155" [label="zihang2018From
+1" color=red style=solid]
+		"P18-1225" [label="dongyeop2018{A}dv{E}ntu{R}e:
+11" color=red penwidth=3 style=solid]
+		"N18-1149" [label="dongyeop2018A
+16" color=red penwidth=3 style=solid]
+		"D18-1154" [label="zhengzhong2018Automatic
+2" color=red style=solid]
+		"D18-1257" [label="qizhe2018Large-scale
+12" color=red penwidth=3 style=solid]
+		"C18-1007" [label="aldrian2018Low-resource
+2" color=black style=solid]
+		"C18-1309" [label="zhengzhong2018Graph
+2" color=red style=solid]
+	}
+	{
+		rank=same
+		2019
+		"W19-5009" [label="dheeraj2019Domain
+1" color=red style=solid]
+		"W19-4502" [label="yohan2019A
+1" color=red style=solid]
+		"P19-1329" [label="aakanksha2019Exploring
+4" color=black style=solid]
+		"P19-1461" [label="naoki2019Toward
+0" color=red style=solid]
+		"P19-1562" [label="zhisong2019An
+1" color=red style=solid]
+		"N19-1186" [label="hiroshi2019Word
+0" color=black style=solid]
+		"N19-1253" [label="wasi2019On
+18" color=black penwidth=3 style=solid]
+		"N19-1273" [label="pradeep2019Iterative
+7" color=red style=solid]
+		"N19-1364" [label="diyi2019Let{'}s
+4" color=red style=solid]
+		"K19-1033" [label="abhilasha2019{EQUATE}:
+5" color=red style=solid]
+		"J19-4002" [label="mrinmaya2019Discourse
+???" color=black style=dashed]
+		"D19-5316" [label="vaibhav2019Do
+1" color=black style=solid]
+		"D19-1179" [label="dongyeop2019(Male,
+3" color=red style=solid]
+		"D19-1327" [label="taehee2019Earlier
+2" color=black style=solid]
+		"D19-1437" [label="xuezhe2019{F}low{S}eq:
+3" color=red style=solid]
+		"D19-1589" [label="dongyeop2019Linguistic
+0" color=red style=solid]
+	}
+	{
+		rank=same
+		2020
+		"2020.tacl-1.39" [label="takashi2020Nested
+???" color=black style=dashed]
+		"2020.starsem-1.10" [label="abhilasha2020On
+???" color=red style=dashed]
+		"2020.sdp-1.1" [label="muthu2020Overview
+???" color=black style=dashed]
+		"2020.sdp-1.24" [label="muthu2020Overview
+???" color=black style=dashed]
+		"2020.lrec-1.127" [label="yohan2020Machine-Aided
+???" color=red style=dashed]
+		"2020.findings-emnlp.160" [label="zhisong2020An
+???" color=red style=dashed]
+		"2020.findings-emnlp.300" [label="dheeraj2020What-if
+0" color=red style=solid]
+		"2020.findings-emnlp.344" [label="salvador2020Event-Related
+???" color=black style=dashed]
+		"2020.emnlp-main.1" [label="yohan2020Detecting
+???" color=red style=dashed]
+		"2020.emnlp-main.2" [label="yohan2020Extracting
+???" color=red style=dashed]
+		"2020.emnlp-main.79" [label="xiang2020Incorporating
+???" color=black style=dashed]
+		"2020.emnlp-main.520" [label="niket2020A
+???" color=red style=dashed]
+		"2020.emnlp-main.529" [label="dongyeop2020Plan
+???" color=red style=dashed]
+		"2020.deelio-1.4" [label="steven2020{G}en{A}ug:
+???" color=red style=dashed]
+		"2020.coling-main.273" [label="evangelia2020Definition
+???" color=red style=dashed]
+		"2020.blackboxnlp-1.1" [label="varun2020{BERT}ering
+???" color=red style=dashed]
+		"2020.blackboxnlp-1.20" [label="andrew2020Exploring
+???" color=black style=dashed]
+		"2020.acl-main.473" [label="shi2020Measuring
+???" color=black style=dashed]
+		"2020.acl-main.502" [label="xiang2020{SCDE}:
+0" color=black style=solid]
+		"2020.acl-main.667" [label="zhisong2020A
+???" color=red style=dashed]
+	}
+	{
+		rank=same
+		2021
+		"2021.spnlp-1.8" [label="zhisong2021Comparing
+???" color=red style=dashed]
+		"2021.sigmorphon-1.22" [label="maria2021Comparative
+???" color=black style=dashed]
+		"2021.naacl-main.171" [label="yiwei2021{S}tyle{PTB}:
+???" color=black style=dashed]
+		"2021.inlg-1.21" [label="steven2021{SAPPHIRE}:
+???" color=red style=dashed]
+		"2021.findings-emnlp.264" [label="yohan2021Knowledge-Enhanced
+???" color=red style=dashed]
+		"2021.findings-acl.84" [label="steven2021A
+???" color=red style=dashed]
+		"2021.findings-acl.357" [label="varun2021Improving
+???" color=red style=dashed]
+		"2021.findings-acl.456" [label="aman2021Could
+???" color=black style=dashed]
+		"2021.emnlp-main.64" [label="dheeraj2021{SELFEXPLAIN}:
+???" color=red style=dashed]
+		"2021.emnlp-main.503" [label="zhisong2021On
+???" color=red style=dashed]
+		"2021.emnlp-main.508" [label="aman2021Think
+???" color=black style=dashed]
+		"2021.emnlp-main.592" [label="harsh2021Investigating
+???" color=red style=dashed]
+		"2021.eacl-main.259" [label="abhilasha2021{N}oise{QA}:
+???" color=red style=dashed]
+		"2021.eacl-main.295" [label="abhilasha2021Probing
+???" color=red style=dashed]
+		"2021.acl-long.94" [label="rishabh2021More
+???" color=black style=dashed]
+		"2021.acl-long.185" [label="dongyeop2021Style
+???" color=red style=dashed]
+		"2021.acl-long.494" [label="ruifan2021Dual
+???" color=black style=dashed]
+	}
+	1988 -> 1989 [arrowsize=0]
+	1989 -> 1990 [arrowsize=0]
+	1990 -> 1991 [arrowsize=0]
+	1991 -> 1992 [arrowsize=0]
+	1992 -> 1993 [arrowsize=0]
+	1993 -> 1994 [arrowsize=0]
+	1994 -> 1995 [arrowsize=0]
+	1995 -> 1996 [arrowsize=0]
+	1996 -> 1997 [arrowsize=0]
+	1997 -> 1998 [arrowsize=0]
+	1998 -> 1999 [arrowsize=0]
+	1999 -> 2000 [arrowsize=0]
+	2000 -> 2001 [arrowsize=0]
+	2001 -> 2002 [arrowsize=0]
+	2002 -> 2003 [arrowsize=0]
+	2003 -> 2004 [arrowsize=0]
+	2004 -> 2005 [arrowsize=0]
+	2005 -> 2006 [arrowsize=0]
+	2006 -> 2007 [arrowsize=0]
+	2007 -> 2008 [arrowsize=0]
+	2008 -> 2009 [arrowsize=0]
+	2009 -> 2010 [arrowsize=0]
+	2010 -> 2011 [arrowsize=0]
+	2011 -> 2012 [arrowsize=0]
+	2012 -> 2013 [arrowsize=0]
+	2013 -> 2014 [arrowsize=0]
+	2014 -> 2015 [arrowsize=0]
+	2015 -> 2016 [arrowsize=0]
+	2016 -> 2017 [arrowsize=0]
+	2017 -> 2018 [arrowsize=0]
+	2018 -> 2019 [arrowsize=0]
+	2019 -> 2020 [arrowsize=0]
+	2020 -> 2021 [arrowsize=0]
+	"1994.amta-1.23" -> "1994.amta-1.18"
+	"H92-1052" -> "1994.amta-1.23"
+	"1994.amta-1.23" -> "1997.mtsummit-workshop.7"
+	"P88-1020" -> "1997.tmi-1.6"
+	"1994.amta-1.18" -> "1997.tmi-1.6"
+	"2003.mtsummit-papers.12" -> "2003.mtsummit-papers.12"
+	"N19-1364" -> "2020.acl-main.473"
+	"D18-1257" -> "2020.acl-main.502"
+	"D17-1082" -> "2020.acl-main.502"
+	"araki-etal-2014-detecting" -> "2020.blackboxnlp-1.1"
+	"P18-1225" -> "2020.deelio-1.4"
+	"W19-4502" -> "2020.emnlp-main.2"
+	"2020.lrec-1.127" -> "2020.emnlp-main.2"
+	"D19-1589" -> "2020.emnlp-main.529"
+	"N16-1082" -> "2020.findings-emnlp.344"
+	"W19-4502" -> "2020.lrec-1.127"
+	"2020.sdp-1.24" -> "2020.sdp-1.1"
+	"2020.sdp-1.1" -> "2020.sdp-1.24"
+	"P16-1101" -> "2020.tacl-1.39"
+	"D19-1327" -> "2021.acl-long.185"
+	"D19-1179" -> "2021.acl-long.185"
+	"C04-1200" -> "2021.acl-long.185"
+	"K19-1033" -> "2021.eacl-main.295"
+	"2021.findings-acl.456" -> "2021.emnlp-main.508"
+	"2021.findings-acl.357" -> "2021.emnlp-main.592"
+	"N16-1082" -> "2021.emnlp-main.64"
+	"2020.deelio-1.4" -> "2021.findings-acl.84"
+	"P18-1225" -> "2021.findings-acl.84"
+	"D11-1116" -> "araki-etal-2014-detecting"
+	"W13-1203" -> "araki-etal-2014-detecting"
+	"P13-2083" -> "araki-etal-2014-detecting"
+	"W97-0704" -> "C00-1072"
+	"P02-1006" -> "C02-1042"
+	"C00-1072" -> "C02-1130"
+	"P03-1001" -> "C04-1111"
+	"W03-1007" -> "C04-1179"
+	"N06-2015" -> "C08-1133"
+	"D07-1082" -> "C08-1133"
+	"N06-2015" -> "C08-1142"
+	"D07-1082" -> "C08-1142"
+	"I08-1048" -> "C08-1142"
+	"P13-2083" -> "C14-1066"
+	"D11-1116" -> "C14-1066"
+	"N06-2015" -> "C14-1123"
+	"N13-1132" -> "C14-1134"
+	"araki-etal-2014-detecting" -> "C18-1309"
+	"W13-1203" -> "C18-1309"
+	"liu-etal-2014-supervised" -> "C18-1309"
+	"D11-1116" -> "C18-1309"
+	"N07-1071" -> "D07-1017"
+	"N06-2015" -> "D07-1082"
+	"C04-1200" -> "D07-1113"
+	"C02-1130" -> "D09-1099"
+	"P08-1119" -> "D09-1099"
+	"P08-1119" -> "D10-1108"
+	"D09-1099" -> "D10-1108"
+	"C10-2052" -> "D11-1116"
+	"P10-1070" -> "D11-1116"
+	"W13-0907" -> "D13-1144"
+	"D11-1116" -> "D13-1144"
+	"C04-1200" -> "D14-1053"
+	"W06-0301" -> "D14-1053"
+	"P10-1150" -> "D14-1214"
+	"N10-1087" -> "D14-1214"
+	"P08-1119" -> "D14-1214"
+	"P14-1016" -> "D14-1214"
+	"P88-1020" -> "D14-1218"
+	"W15-0802" -> "D15-1154"
+	"D14-1218" -> "D15-1278"
+	"D14-1220" -> "D15-1278"
+	"N15-1070" -> "D15-1284"
+	"N03-1020" -> "D17-1082"
+	"araki-etal-2014-detecting" -> "D18-1154"
+	"liu-etal-2014-supervised" -> "D18-1154"
+	"recasens-etal-2010-typology" -> "D18-1154"
+	"P17-1191" -> "D18-1257"
+	"W17-4902" -> "D19-1179"
+	"N03-1020" -> "D19-1179"
+	"N18-1149" -> "D19-1327"
+	"A97-1042" -> "D19-1327"
+	"C00-1072" -> "D19-1327"
+	"P18-1130" -> "D19-1437"
+	"N18-1149" -> "D19-1589"
+	"D17-1292" -> "D19-1589"
+	"P18-1225" -> "D19-1589"
+	"N16-1174" -> "D19-1589"
+	"W97-0704" -> "gerber-hovy-1998-improving"
+	"X98-1026" -> "gerber-hovy-1998-improving"
+	"P03-1001" -> "H05-1075"
+	"C02-1042" -> "H05-1075"
+	"P02-1006" -> "H05-1075"
+	"W04-3256" -> "H05-1075"
+	"P05-1037" -> "H05-2003"
+	"H92-1052" -> "H94-1025"
+	"W05-1520" -> "hartholt-etal-2008-common"
+	"I05-7009" -> "hartholt-etal-2008-common"
+	"N03-1020" -> "hovy-etal-2006-automated"
+	"W02-0406" -> "hovy-etal-2006-automated"
+	"W04-2709" -> "I05-7009"
+	"reeder-etal-2004-interlingual" -> "I05-7009"
+	"W03-1007" -> "I05-7009"
+	"P03-1001" -> "I05-7009"
+	"N06-2015" -> "I08-1048"
+	"D07-1082" -> "I08-1048"
+	"I05-7009" -> "I08-1048"
+	"D07-1088" -> "I08-2124"
+	"P02-1006" -> "I08-2124"
+	"W15-0802" -> "I17-1007"
+	"D15-1154" -> "I17-1007"
+	"P16-1101" -> "I17-1007"
+	"N16-1116" -> "I17-1007"
+	"A97-1042" -> "J02-4001"
+	"P02-1058" -> "J02-4001"
+	"W97-0704" -> "J02-4001"
+	"W02-0406" -> "J02-4001"
+	"D11-1116" -> "liu-etal-2014-supervised"
+	"W13-1203" -> "liu-etal-2014-supervised"
+	"P13-2083" -> "liu-etal-2014-supervised"
+	"W02-0406" -> "N03-1020"
+	"C00-1072" -> "N03-1037"
+	"W03-1209" -> "N06-1026"
+	"P05-1037" -> "N06-1027"
+	"N03-1020" -> "N06-1057"
+	"I05-7009" -> "N06-2015"
+	"reeder-etal-2004-interlingual" -> "N06-2015"
+	"N03-1020" -> "N07-2055"
+	"P08-1119" -> "N10-1087"
+	"P02-1058" -> "N10-2002"
+	"C00-1072" -> "N10-2002"
+	"P10-1070" -> "N13-1132"
+	"P10-5004" -> "N13-1132"
+	"N15-1184" -> "N15-1070"
+	"N06-2015" -> "N16-1116"
+	"N16-1174" -> "N19-1364"
+	"N06-2015" -> "O08-6002"
+	"D07-1113" -> "O08-6002"
+	"D07-1082" -> "O08-6002"
+	"C02-1042" -> "P02-1006"
+	"C00-1072" -> "P02-1058"
+	"C02-1130" -> "P03-1001"
+	"P02-1006" -> "P03-1001"
+	"P02-1058" -> "P03-2021"
+	"C04-1200" -> "P06-2063"
+	"I05-2011" -> "P06-2063"
+	"N06-1026" -> "P06-2063"
+	"A97-1042" -> "P06-2063"
+	"C02-1130" -> "P08-1119"
+	"N06-2015" -> "P10-1144"
+	"P08-1119" -> "P10-1150"
+	"C02-1130" -> "P10-1150"
+	"D09-1099" -> "P10-1150"
+	"W03-1007" -> "P11-1147"
+	"W10-0903" -> "P11-1147"
+	"P10-1150" -> "P11-1162"
+	"N10-1087" -> "P11-1162"
+	"P08-1119" -> "P11-1162"
+	"P02-1006" -> "P11-1162"
+	"C10-2052" -> "P11-2056"
+	"P10-1070" -> "P13-1037"
+	"D11-1116" -> "P13-1037"
+	"W13-1203" -> "P13-2083"
+	"W13-3203" -> "P13-2083"
+	"D11-1116" -> "P13-2083"
+	"D13-1144" -> "P14-1060"
+	"W13-0907" -> "P14-1060"
+	"W13-3203" -> "P14-1060"
+	"N06-2015" -> "P14-2005"
+	"P14-2005" -> "P14-2006"
+	"N15-1184" -> "P16-1045"
+	"P16-1228" -> "P16-1101"
+	"D15-1154" -> "P16-1101"
+	"N16-1116" -> "P16-1101"
+	"P16-1101" -> "P16-1228"
+	"N15-1184" -> "P17-1191"
+	"N15-1070" -> "P17-1191"
+	"W15-0802" -> "P18-1130"
+	"D15-1154" -> "P18-1130"
+	"P16-1101" -> "P18-1130"
+	"I17-1007" -> "P18-1130"
+	"N16-1116" -> "P18-1130"
+	"N15-1184" -> "P18-1225"
+	"D17-1292" -> "P18-1225"
+	"N13-1132" -> "P19-1461"
+	"P16-1101" -> "P19-1562"
+	"I17-1007" -> "P19-1562"
+	"P18-1130" -> "P19-1562"
+	"W12-6102" -> "R13-1030"
+	"W04-2709" -> "rambow-etal-2006-parallel"
+	"W04-2709" -> "reeder-etal-2004-interlingual"
+	"N06-2015" -> "S17-1025"
+	"N15-1070" -> "S17-1025"
+	"W02-0406" -> "W03-0510"
+	"N03-1020" -> "W03-0510"
+	"P03-1001" -> "W04-0701"
+	"W03-1007" -> "W04-0832"
+	"N03-1020" -> "W04-1010"
+	"P03-1001" -> "W04-2709"
+	"N03-1020" -> "W04-3256"
+	"N03-1037" -> "W04-3256"
+	"W05-1520" -> "W05-1520"
+	"W03-1007" -> "W06-0301"
+	"C04-1200" -> "W06-0301"
+	"N03-1020" -> "W06-1610"
+	"D07-1088" -> "W08-0628"
+	"I08-2124" -> "W08-0628"
+	"P02-1006" -> "W08-0628"
+	"C10-2052" -> "W12-1905"
+	"P11-2056" -> "W12-1905"
+	"C08-1142" -> "W12-1905"
+	"N13-1132" -> "W13-0907"
+	"D11-1116" -> "W13-0907"
+	"P10-1144" -> "W13-1203"
+	"D11-1116" -> "W13-3203"
+	"W13-0907" -> "W14-2303"
+	"W13-1203" -> "W14-2910"
+	"D13-1144" -> "W14-2910"
+	"P13-2083" -> "W15-0802"
+	"D11-1116" -> "W15-0802"
+	"liu-etal-2014-supervised" -> "W16-6005"
+	"D17-1315" -> "W17-4902"
+	"W13-0907" -> "W17-5538"
+	"P88-1020" -> "W90-0117"
+	"P88-1022" -> "W90-0117"
+	"W96-0508" -> "W96-0401"
+	"A97-1042" -> "W97-0704"
+	"A97-1042" -> "X98-1026"
+	"A97-1042" -> "zhou-etal-2006-summarizing"
+}

@@ -1,0 +1,1218 @@
+[
+    [
+        {
+            "id": "2017",
+            "citation_count": 0,
+            "name": 0,
+            "cx": 28.5975,
+            "cy": -385.831,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2018",
+            "citation_count": 7,
+            "name": 7,
+            "cx": 28.5975,
+            "cy": -296.09,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "W17-0601",
+            "name": "Synchronized Mediawiki based analyzer dictionary development",
+            "publication_data": 2017,
+            "citation": 0,
+            "abstract": "None",
+            "cx": 887.597,
+            "cy": -385.831,
+            "rx": 101.233,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "L18-1138",
+            "name": "Combining Concepts and Their Translations from Structured Dictionaries of Uralic Minority Languages",
+            "publication_data": 2018,
+            "citation": 0,
+            "abstract": "None",
+            "cx": 454.597,
+            "cy": -296.09,
+            "rx": 92.7622,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2020.sltu-1.35",
+            "name": "{FST} Morphology for the Endangered {S}kolt {S}ami Language",
+            "publication_data": 2020,
+            "citation": 0,
+            "abstract": "We present advances in the development of a FST-based morphological analyzer and generator for Skolt Sami. Like other minority Uralic languages, Skolt Sami exhibits a rich morphology, on the one hand, and there is little golden standard material for it, on the other. This makes NLP approaches for its study difficult without a solid morphological analysis. The language is severely endangered and the work presented in this paper forms a part of a greater whole in its revitalization efforts. Furthermore, we intersperse our description with facilitation and description practices not well documented in the infrastructure. Currently, the analyzer covers over 30,000 Skolt Sami words in 148 inflectional paradigms and over 12 derivational forms.",
+            "cx": 826.597,
+            "cy": -116.61,
+            "rx": 74.4932,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2020.paclic-1.60",
+            "name": "Speech Recognition for Endangered and Extinct Samoyedic languages",
+            "publication_data": 2020,
+            "citation": "???",
+            "abstract": "None",
+            "cx": 1140.6,
+            "cy": -116.61,
+            "rx": 77.1494,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2020.coling-demos.1",
+            "name": "Ve{'}rdd. Narrowing the Gap between Paper Dictionaries, Low-Resource {NLP} and Community Involvement",
+            "publication_data": 2020,
+            "citation": "???",
+            "abstract": "We present an open-source online dictionary editing system, Ve\u00e2\u0080\u00b2rdd, that offers a chance to re-evaluate and edit grassroots dictionaries that have been exposed to multiple amateur editors. The idea is to incorporate community activities into a state-of-the-art finite-state language description of a seriously endangered minority language, Skolt Sami. Problems involve getting the community to take part in things above the pencil-and-paper level. At times, it seems that the native speakers and the dictionary oriented are lacking technical understanding to utilize the infrastructures which might make their work more meaningful in the future, i.e. multiple reuse of all of their input. Therefore, our system integrates with the existing tools and infrastructures for Uralic language masking the technical complexities behind a user-friendly UI.",
+            "cx": 1366.6,
+            "cy": -116.61,
+            "rx": 93.1765,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2019",
+            "citation_count": 0,
+            "name": 0,
+            "cx": 28.5975,
+            "cy": -206.35,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "W18-6525",
+            "name": "Poem Machine - a Co-creative {NLG} Web Application for Poem Writing",
+            "publication_data": 2018,
+            "citation": 0,
+            "abstract": "We present Poem Machine, an interactive online tool for co-authoring Finnish poetry with a computationally creative agent. Poem Machine can produce poetry of its own and assist the user in authoring poems. The main target group for the system is primary school children, and its use as a part of teaching is currently under study.",
+            "cx": 2155.6,
+            "cy": -296.09,
+            "rx": 72.25,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "D19-1617",
+            "name": "Generating Modern Poetry Automatically in {F}innish",
+            "publication_data": 2019,
+            "citation": 0,
+            "abstract": "We present a novel approach for generating poetry automatically for the morphologically rich Finnish language by using a genetic algorithm. The approach improves the state of the art of the previous Finnish poem generators by introducing a higher degree of freedom in terms of structural creativity. Our approach is evaluated and described within the paradigm of computational creativity, where the fitness functions of the genetic algorithm are assimilated with the notion of aesthetics. The output is considered to be a poem 81.5{\\%} of the time by human evaluators.",
+            "cx": 2155.6,
+            "cy": -206.35,
+            "rx": 91.8478,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2021.nodalida-main.17",
+            "name": "Neural Morphology Dataset and Models for Multiple Languages, from the Large to the Endangered",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "We train neural models for morphological analysis, generation and lemmatization for morphologically rich languages. We present a method for automatically extracting substantially large amount of training data from FSTs for 22 languages, out of which 17 are endangered. The neural models follow the same tagset as the FSTs in order to make it possible to use them as fallback systems together with the FSTs. The source code, models and datasets have been released on Zenodo.",
+            "cx": 707.597,
+            "cy": -26.8701,
+            "rx": 74.9067,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "W18-6534",
+            "name": "A Master-Apprentice Approach to Automatic Creation of Culturally Satirical Movie Titles",
+            "publication_data": 2018,
+            "citation": 5,
+            "abstract": "Satire has played a role in indirectly expressing critique towards an authority or a person from time immemorial. We present an autonomously creative master-apprentice approach consisting of a genetic algorithm and an NMT model to produce humorous and culturally apt satire out of movie titles automatically. Furthermore, we evaluate the approach in terms of its creativity and its output. We provide a solid definition for creativity to maximize the objectiveness of the evaluation.",
+            "cx": 1781.6,
+            "cy": -296.09,
+            "rx": 60.623,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "W19-8637",
+            "name": "Let{'}s {FACE} it. {F}innish Poetry Generation with Aesthetics and Framing",
+            "publication_data": 2019,
+            "citation": 0,
+            "abstract": "We present a creative poem generator for the morphologically rich Finnish language. Our method falls into the master-apprentice paradigm, where a computationally creative genetic algorithm teaches a BRNN model to generate poetry. We model several parts of poetic aesthetics in the fitness function of the genetic algorithm, such as sonic features, semantic coherence, imagery and metaphor. Furthermore, we justify the creativity of our method based on the FACE theory on computational creativity and take additional care in evaluating our system by automatic metrics for concepts together with human evaluation for aesthetics, framing and expressions.",
+            "cx": 1929.6,
+            "cy": -206.35,
+            "rx": 77.5641,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "W19-4105",
+            "name": "Co-Operation as an Asymmetric Form of Human-Computer Creativity. Case: Peace Machine",
+            "publication_data": 2019,
+            "citation": 0,
+            "abstract": "This theoretical paper identifies a need for a definition of asymmetric co-creativity where creativity is expected from the computational agent but not from the human user. Our co-operative creativity framework takes into account that the computational agent has a message to convey in a co-operative fashion, which introduces a trade-off on how creative the computer can be. The requirements of co-operation are identified from an interdisciplinary point of view. We divide co-operative creativity in message creativity, contextual creativity and communicative creativity. Finally these notions are applied in the context of the Peace Machine system concept.",
+            "cx": 1647.6,
+            "cy": -206.35,
+            "rx": 103.889,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2021.humeval-1.8",
+            "name": "The Great Misalignment Problem in Human Evaluation of {NLP} Methods",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "We outline the Great Misalignment Problem in natural language processing research, this means simply that the problem definition is not in line with the method proposed and the human evaluation is not in line with the definition nor the method. We study this misalignment problem by surveying 10 randomly sampled papers published in ACL 2020 that report results with human evaluation. Our results show that only one paper was fully in line in terms of problem definition, method and evaluation. Only two papers presented a human evaluation that was in line with what was modeled in the method. These results highlight that the Great Misalignment Problem is a major one and it affects the validity and reproducibility of results obtained by a human evaluation.",
+            "cx": 1770.6,
+            "cy": -26.8701,
+            "rx": 65.1077,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021.gem-1.9",
+            "name": "Human Evaluation of Creative {NLG} Systems: An Interdisciplinary Survey on Recent Papers",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "We survey human evaluation in papers presenting work on creative natural language generation that have been published in INLG 2020 and ICCC 2020. The most typical human evaluation method is a scaled survey, typically on a 5 point scale, while many other less common methods exist. The most commonly evaluated parameters are meaning, syntactic correctness, novelty, relevance and emotional value, among many others. Our guidelines for future evaluation include clearly defining the goal of the generative system, asking questions as concrete as possible, testing the evaluation setup, using multiple different evaluation setups, reporting the entire evaluation process and potential biases clearly, and finally analyzing the evaluation results in a more profound way than merely reporting the most typical statistics.",
+            "cx": 1931.6,
+            "cy": -26.8701,
+            "rx": 77.5641,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "W18-4510",
+            "name": "Normalizing Early {E}nglish Letters to Present-day {E}nglish Spelling",
+            "publication_data": 2018,
+            "citation": "???",
+            "abstract": "This paper presents multiple methods for normalizing the most deviant and infrequent historical spellings in a corpus consisting of personal correspondence from the 15th to the 19th century. The methods include machine translation (neural and statistical), edit distance and rule-based FST. Different normalization methods are compared and evaluated. All of the methods have their own strengths in word normalization. This calls for finding ways of combining the results from these methods to leverage their individual strengths.",
+            "cx": 993.597,
+            "cy": -296.09,
+            "rx": 96.7474,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "W19-6006",
+            "name": "Finding {S}ami Cognates with a Character-Based {NMT} Approach",
+            "publication_data": 2019,
+            "citation": 0,
+            "abstract": "We approach the problem of expanding the set of cognate relations with a sequence-to-sequence NMT model. The language pair of interest, Skolt Sami and North Sami, has too limited a set of parallel data for an NMT model as such. We solve this problem on the one hand, by training the model with North Sami cognates with other Uralic languages and, on the other, by generating more synthetic training data with an SMT model. The cognates found using our method are made publicly available in the Online Dictionary of Uralic Languages.",
+            "cx": 691.597,
+            "cy": -206.35,
+            "rx": 79.3924,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "W19-2509",
+            "name": "Revisiting {NMT} for Normalization of Early {E}nglish Letters",
+            "publication_data": 2019,
+            "citation": 0,
+            "abstract": "This paper studies the use of NMT (neural machine translation) as a normalization method for an early English letter corpus. The corpus has previously been normalized so that only less frequent deviant forms are left out without normalization. This paper discusses different methods for improving the normalization of these deviant forms by using different approaches. Adding features to the training data is found to be unhelpful, but using a lexicographical resource to filter the top candidates produced by the NMT model together with lemmatization improves results.",
+            "cx": 877.597,
+            "cy": -206.35,
+            "rx": 88.2768,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "R19-1051",
+            "name": "From the Paft to the Fiiture: a Fully Automatic {NMT} and Word Embeddings Method for {OCR} Post-Correction",
+            "publication_data": 2019,
+            "citation": 0,
+            "abstract": "A great deal of historical corpora suffer from errors introduced by the OCR (optical character recognition) methods used in the digitization process. Correcting these errors manually is a time-consuming process and a great part of the automatic approaches have been relying on rules or supervised machine learning. We present a fully automatic unsupervised way of extracting parallel data for training a character-based sequence-to-sequence NMT (neural machine translation) model to conduct OCR error correction.",
+            "cx": 1092.6,
+            "cy": -206.35,
+            "rx": 71.3357,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "D19-5519",
+            "name": "Dialect Text Normalization to Normative Standard {F}innish",
+            "publication_data": 2019,
+            "citation": 0,
+            "abstract": "We compare different LSTMs and transformer models in terms of their effectiveness in normalizing dialectal Finnish into the normative standard Finnish. As dialect is the common way of communication for people online in Finnish, such a normalization is a necessary step to improve the accuracy of the existing Finnish NLP tools that are tailored for normative Finnish text. We work on a corpus consisting of dialectal data of 23 distinct Finnish dialects. The best functioning BRNN approach lowers the initial word error rate of the corpus from 52.89 to 5.73.",
+            "cx": 1370.6,
+            "cy": -206.35,
+            "rx": 74.9067,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2021.jeptalnrecital-taln.18",
+            "name": "Lemmatization of Historical Old Literary {F}innish Texts in Modern Orthography",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "Texts written in Old Literary Finnish represent the first literary work ever written in Finnish starting from the 16th century. There have been several projects in Finland that have digitized old publications and made them available for research use. However, using modern NLP methods in such data poses great challenges. In this paper we propose an approach for simultaneously normalizing and lemmatizing Old Literary Finnish into modern spelling. Our best model reaches to 96.3{\\%} accuracy in texts written by Agricola and 87.7{\\%} accuracy in other contemporary out-of-domain text. Our method has been made freely available on Zenodo and Github.",
+            "cx": 907.597,
+            "cy": -26.8701,
+            "rx": 106.547,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "W18-0205",
+            "name": "Development of an Open Source Natural Language Generation Tool for {F}innish",
+            "publication_data": 2018,
+            "citation": 2,
+            "abstract": "None",
+            "cx": 1964.6,
+            "cy": -296.09,
+            "rx": 101.233,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2021.nlp4if-1.6",
+            "name": "Never guess what {I} heard... Rumor Detection in {F}innish News: a Dataset and a Baseline",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "This study presents a new dataset on rumor detection in Finnish language news headlines. We have evaluated two different LSTM based models and two different BERT models, and have found very significant differences in the results. A fine-tuned FinBERT reaches the best overall accuracy of 94.3{\\%} and rumor label accuracy of 96.0{\\%} of the time. However, a model fine-tuned on Multilingual BERT reaches the best factual label accuracy of 97.2{\\%}. Our results suggest that the performance difference is due to a difference in the original training data. Furthermore, we find that a regular LSTM model works better than one trained with a pretrained word2vec model. These findings suggest that more work needs to be done for pretrained models in Finnish language as they have been trained on small and biased corpora.",
+            "cx": 2320.6,
+            "cy": -26.8701,
+            "rx": 72.6644,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "W19-6139",
+            "name": "Morphosyntactic Disambiguation in an Endangered Language Setting",
+            "publication_data": 2019,
+            "citation": "???",
+            "abstract": "Endangered Uralic languages present a high variety of inflectional forms in their morphology. This results in a high number of homonyms in inflections, which introduces a lot of morphological ambiguity in sentences. Previous research has employed constraint grammars to address this problem, however CGs are often unable to fully disambiguate a sentence, and their development is labour intensive. We present an LSTM based model for automatically ranking morphological readings of sentences based on their quality. This ranking can be used to evaluate the existing CG disambiguators or to directly morphologically disambiguate sentences. Our approach works on a morphological abstraction and it can be trained with a very small dataset.",
+            "cx": 445.597,
+            "cy": -206.35,
+            "rx": 111.032,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2020",
+            "citation_count": 0,
+            "name": 0,
+            "cx": 28.5975,
+            "cy": -116.61,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2021.maiworkshop-1.9",
+            "name": "!`{Q}u{\\\\'e} maravilla! Multimodal Sarcasm Detection in {S}panish: a Dataset and a Baseline",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "We construct the first ever multimodal sarcasm dataset for Spanish. The audiovisual dataset consists of sarcasm annotated text that is aligned with video and audio. The dataset represents two varieties of Spanish, a Latin American variety and a Peninsular Spanish variety, which ensures a wider dialectal coverage for this global language. We present several models for sarcasm detection that will serve as baselines in the future research. Our results show that results with text only (89{\\%}) are worse than when combining text with audio (91.9{\\%}). Finally, the best results are obtained when combining all the modalities: text, audio and video (93.1{\\%}). Our dataset will be published on Zenodo with access granted by request.",
+            "cx": 2128.6,
+            "cy": -26.8701,
+            "rx": 101.233,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2020.sltu-1.5",
+            "name": "Morphological Disambiguation of {S}outh {S}{\\\\'a}mi with {FST}s and Neural Networks",
+            "publication_data": 2020,
+            "citation": 0,
+            "abstract": "We present a method for conducting morphological disambiguation for South S{\\'a}mi, which is an endangered language. Our method uses an FST-based morphological analyzer to produce an ambiguous set of morphological readings for each word in a sentence. These readings are disambiguated with a Bi-RNN model trained on the related North S{\\'a}mi UD Treebank and some synthetically generated South S{\\'a}mi data. The disambiguation is done on the level of morphological tags ignoring word forms and lemmas; this makes it possible to use North S{\\'a}mi training data for South S{\\'a}mi without the need for a bilingual dictionary or aligned word embeddings. Our approach requires only minimal resources for South S{\\'a}mi, which makes it usable and applicable in the contexts of any other endangered language as well.",
+            "cx": 182.597,
+            "cy": -116.61,
+            "rx": 107.46,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2020.nlposs-1.13",
+            "name": "Open-Source Morphology for Endangered Mordvinic Languages",
+            "publication_data": 2020,
+            "citation": "???",
+            "abstract": "This document describes shared development of finite-state description of two closely related but endangered minority languages, Erzya and Moksha. It touches upon morpholexical unity and diversity of the two languages and how this provides a motivation for shared open-source FST development. We describe how we have designed the transducers so that they can benefit from existing open-source infrastructures and are as reusable as possible.",
+            "cx": 445.597,
+            "cy": -116.61,
+            "rx": 99.9045,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021.americasnlp-1.4",
+            "name": "{A}purin{\\\\~a} {U}niversal {D}ependencies Treebank",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "This paper presents and discusses the first Universal Dependencies treebank for the Apurin{\\~a} language. The treebank contains 76 fully annotated sentences, applies 14 parts-of-speech, as well as seven augmented or new features {---} some of which are unique to Apurin{\\~a}. The construction of the treebank has also served as an opportunity to develop finite-state description of the language and facilitate the transfer of open-source infrastructure possibilities to an endangered language of the Amazon. The source materials used in the initial treebank represent fieldwork practices where not all tokens of all sentences are equally annotated. For this reason, establishing regular annotation practices for the entire Apurin{\\~a} treebank is an ongoing project.",
+            "cx": 250.597,
+            "cy": -26.8701,
+            "rx": 105.218,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021.nodalida-main.24",
+            "name": "An Unsupervised method for {OCR} Post-Correction and Spelling Normalisation for {F}innish",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "Historical corpora are known to contain errors introduced by OCR (optical character recognition) methods used in the digitization process, often said to be degrading the performance of NLP systems. Correcting these errors manually is a time-consuming process and a great part of the automatic approaches have been relying on rules or supervised machine learning. We build on previous work on fully automatic unsupervised extraction of parallel data to train a character-based sequence-to-sequence NMT (neural machine translation) model to conduct OCR error correction designed for English, and adapt it to Finnish by proposing solutions that take the rich morphology of the language into account. Our new method shows increased performance while remaining fully unsupervised, with the added benefit of spelling normalisation. The source code and models are available on GitHub and Zenodo.",
+            "cx": 1093.6,
+            "cy": -26.8701,
+            "rx": 61.5366,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021.lchange-1.4",
+            "name": "Linguistic change and historical periodization of Old Literary {F}innish",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "In this study, we have normalized and lemmatized an Old Literary Finnish corpus using a lemmatization model trained on texts from Agricola. We analyse the error types that occur and appear in different decades, and use word error rate (WER) and different error types as a proxy for measuring linguistic innovation and change. We show that the proposed approach works, and the errors are connected to accumulating changes and innovations, which also results in a continuous decrease in the accuracy of the model. The described error types also guide further work in improving these models, and document the currently observed issues. We also have trained word embeddings for four centuries of lemmatized Old Literary Finnish, which are available on Zenodo.",
+            "cx": 1259.6,
+            "cy": -26.8701,
+            "rx": 86.0347,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021.iwclul-1.8",
+            "name": "The Current State of {F}innish {NLP}",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "None",
+            "cx": 1622.6,
+            "cy": -26.8701,
+            "rx": 65.1077,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021.emnlp-main.692",
+            "name": "{F}innish Dialect Identification: The Effect of Audio and Text",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "Finnish is a language with multiple dialects that not only differ from each other in terms of accent (pronunciation) but also in terms of morphological forms and lexical choice. We present the first approach to automatically detect the dialect of a speaker based on a dialect transcript and transcript with audio recording in a dataset consisting of 23 different dialects. Our results show that the best accuracy is received by combining both of the modalities, as text only reaches to an overall accuracy of 57{\\%}, where as text and audio reach to 85{\\%}. Our code, models and data have been released openly on Github and Zenodo.",
+            "cx": 1451.6,
+            "cy": -26.8701,
+            "rx": 87.8629,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021",
+            "citation_count": 0,
+            "name": 0,
+            "cx": 28.5975,
+            "cy": -26.8701,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2020.iwclul-1.4",
+            "name": "On Editing Dictionaries for Uralic Languages in an Online Environment",
+            "publication_data": 2020,
+            "citation": 0,
+            "abstract": "None",
+            "cx": 667.597,
+            "cy": -116.61,
+            "rx": 66.4361,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        }
+    ],
+    [
+        {
+            "source": "2017",
+            "target": "2018",
+            "d": "M28.5975,-367.496C28.5975,-352.135 28.5975,-329.821 28.5975,-314.452"
+        },
+        {
+            "source": "W17-0601",
+            "target": "L18-1138",
+            "d": "M806.697,-369.657C742.569,-357.481 650.732,-339.713 570.597,-322.96 559.428,-320.625 547.672,-318.092 536.103,-315.555"
+        },
+        {
+            "source": "W17-0601",
+            "target": "2020.sltu-1.35",
+            "d": "M812.302,-367.826C744.399,-348.064 648.514,-308.114 603.597,-233.22 591.313,-212.737 588.978,-198.368 603.597,-179.48 642.658,-129.015 681.198,-160.876 742.597,-143.48 748.764,-141.733 755.168,-139.863 761.565,-137.957"
+        },
+        {
+            "source": "W17-0601",
+            "target": "2020.paclic-1.60",
+            "d": "M974.171,-371.857C1014.73,-362.821 1062.22,-347.766 1099.6,-322.96 1142.44,-294.53 1155.38,-281.666 1172.6,-233.22 1180.6,-210.715 1178.24,-202.688 1172.6,-179.48 1170.33,-170.161 1166.4,-160.677 1162.05,-152.026"
+        },
+        {
+            "source": "W17-0601",
+            "target": "2020.coling-demos.1",
+            "d": "M979.952,-374.779C1030.47,-366.326 1092.72,-350.911 1142.6,-322.96 1221.41,-278.792 1218.73,-239.117 1286.6,-179.48 1298.72,-168.832 1312.44,-157.858 1325.06,-148.164"
+        },
+        {
+            "source": "2018",
+            "target": "2019",
+            "d": "M28.5975,-277.756C28.5975,-262.395 28.5975,-240.081 28.5975,-224.712"
+        },
+        {
+            "source": "W18-6525",
+            "target": "D19-1617",
+            "d": "M2155.6,-268.765C2155.6,-260.799 2155.6,-251.908 2155.6,-243.419"
+        },
+        {
+            "source": "W18-6525",
+            "target": "2021.nodalida-main.17",
+            "d": "M2105.13,-276.723C2095.13,-273.726 2084.62,-271.018 2074.6,-269.22 1988.33,-253.753 1358.43,-283.444 1286.6,-233.22 1229.95,-193.613 1282.5,-130.386 1226.6,-89.7401 1148.14,-32.701 886.837,-72.1222 791.597,-53.7401 784.593,-52.3882 777.346,-50.6673 770.177,-48.7573"
+        },
+        {
+            "source": "W18-6534",
+            "target": "W19-8637",
+            "d": "M1817.05,-274.074C1836.73,-262.408 1861.45,-247.749 1882.71,-235.145"
+        },
+        {
+            "source": "W18-6534",
+            "target": "W19-4105",
+            "d": "M1748.47,-273.402C1731.82,-262.499 1711.38,-249.116 1693.27,-237.254"
+        },
+        {
+            "source": "W18-6534",
+            "target": "2021.humeval-1.8",
+            "d": "M1780.52,-268.982C1778.55,-221.088 1774.35,-119.096 1772.1,-64.3697"
+        },
+        {
+            "source": "W18-6534",
+            "target": "2021.gem-1.9",
+            "d": "M1794.6,-269.654C1806.73,-246.11 1825.48,-210.211 1842.6,-179.48 1865.31,-138.708 1892.64,-92.5541 1910.97,-61.9926"
+        },
+        {
+            "source": "W18-4510",
+            "target": "W19-6006",
+            "d": "M928.341,-276.139C886.185,-263.895 830.148,-247.618 780.597,-233.22 774.057,-231.32 767.246,-229.341 760.433,-227.361"
+        },
+        {
+            "source": "W18-4510",
+            "target": "W19-2509",
+            "d": "M961.285,-270.65C947.835,-260.477 932.077,-248.557 917.883,-237.822"
+        },
+        {
+            "source": "W18-4510",
+            "target": "R19-1051",
+            "d": "M1021.7,-270.182C1032.96,-260.208 1046.04,-248.614 1057.88,-238.121"
+        },
+        {
+            "source": "W18-4510",
+            "target": "D19-5519",
+            "d": "M1066.29,-278.173C1133.25,-262.59 1232.03,-239.598 1298.73,-224.076"
+        },
+        {
+            "source": "W18-4510",
+            "target": "2021.jeptalnrecital-taln.18",
+            "d": "M991.211,-268.953C988.599,-245.24 983.54,-209.501 974.597,-179.48 962.255,-138.045 941.323,-93.0263 926.135,-62.9016"
+        },
+        {
+            "source": "W18-0205",
+            "target": "W18-6525",
+            "d": "M2066.07,-296.09C2068.39,-296.09 2070.71,-296.09 2073.03,-296.09"
+        },
+        {
+            "source": "W18-0205",
+            "target": "W19-8637",
+            "d": "M1954.29,-269.24C1950.94,-260.85 1947.17,-251.397 1943.6,-242.45"
+        },
+        {
+            "source": "W18-0205",
+            "target": "D19-1617",
+            "d": "M2013.78,-272.495C2039.59,-260.641 2071.35,-246.051 2098.27,-233.687"
+        },
+        {
+            "source": "W18-0205",
+            "target": "2021.nlp4if-1.6",
+            "d": "M1986.85,-269.596C1996.24,-258.581 2007.17,-245.44 2016.6,-233.22 2034.47,-210.061 2032.93,-199.133 2054.6,-179.48 2117.91,-122.057 2206.63,-76.956 2263.86,-51.3526"
+        },
+        {
+            "source": "L18-1138",
+            "target": "W19-6139",
+            "d": "M451.897,-268.765C451.08,-260.799 450.168,-251.908 449.297,-243.419"
+        },
+        {
+            "source": "2019",
+            "target": "2020",
+            "d": "M28.5975,-188.016C28.5975,-172.655 28.5975,-150.341 28.5975,-134.972"
+        },
+        {
+            "source": "W19-8637",
+            "target": "2021.maiworkshop-1.9",
+            "d": "M1945.91,-179.604C1962.7,-154.518 1990.71,-116.37 2021.6,-89.7401 2036.61,-76.795 2054.73,-65.1348 2071.75,-55.5184"
+        },
+        {
+            "source": "W19-8637",
+            "target": "2021.jeptalnrecital-taln.18",
+            "d": "M1872.74,-187.855C1786.33,-162.009 1616.37,-114.062 1468.6,-89.7401 1272.37,-57.443 1219.2,-83.637 1022.6,-53.7401 1012.63,-52.2247 1002.24,-50.3347 991.964,-48.2703"
+        },
+        {
+            "source": "W19-8637",
+            "target": "2021.humeval-1.8",
+            "d": "M1907.15,-180.298C1878.82,-148.673 1830.06,-94.2406 1799.11,-59.7018"
+        },
+        {
+            "source": "W19-8637",
+            "target": "2021.gem-1.9",
+            "d": "M1929.89,-179.162C1930.24,-148.665 1930.81,-98.1136 1931.19,-63.9219"
+        },
+        {
+            "source": "W19-6139",
+            "target": "2020.sltu-1.5",
+            "d": "M382.268,-184.223C343.934,-171.434 294.917,-155.081 255.043,-141.779"
+        },
+        {
+            "source": "W19-6139",
+            "target": "2020.sltu-1.35",
+            "d": "M527.949,-188.292C613.997,-170.453 737.306,-144.843 742.597,-143.48 749.15,-141.793 755.953,-139.913 762.723,-137.96"
+        },
+        {
+            "source": "W19-6139",
+            "target": "2020.nlposs-1.13",
+            "d": "M445.597,-179.025C445.597,-171.059 445.597,-162.168 445.597,-153.679"
+        },
+        {
+            "source": "W19-6139",
+            "target": "2021.nodalida-main.17",
+            "d": "M496.675,-182.318C516.077,-172.104 537.58,-158.888 554.597,-143.48 576.282,-123.847 570.691,-109.126 592.597,-89.7401 609.526,-74.759 630.713,-62.0621 650.273,-52.1427"
+        },
+        {
+            "source": "W19-6139",
+            "target": "2021.americasnlp-1.4",
+            "d": "M394.52,-182.318C375.118,-172.104 353.615,-158.888 336.597,-143.48 314.913,-123.847 316.012,-113.244 298.597,-89.7401 291.72,-80.4569 284.118,-70.5188 277.032,-61.3838"
+        },
+        {
+            "source": "W19-2509",
+            "target": "R19-1051",
+            "d": "M966.201,-206.35C981.044,-206.35 995.887,-206.35 1010.73,-206.35"
+        },
+        {
+            "source": "W19-2509",
+            "target": "D19-5519",
+            "d": "M932.067,-227.593C958.628,-236.842 991.309,-246.611 1021.6,-251.22 1098.49,-262.923 1119.44,-261.009 1196.6,-251.22 1233.06,-246.595 1272.81,-236.724 1305.1,-227.415"
+        },
+        {
+            "source": "W19-2509",
+            "target": "2021.jeptalnrecital-taln.18",
+            "d": "M894.221,-179.948C900.332,-169.165 906.51,-156.17 909.597,-143.48 915.935,-117.432 915.116,-87.0986 912.883,-64.0401"
+        },
+        {
+            "source": "R19-1051",
+            "target": "D19-5519",
+            "d": "M1164.27,-206.35C1204.72,-206.35 1245.18,-206.35 1285.64,-206.35"
+        },
+        {
+            "source": "R19-1051",
+            "target": "2020.paclic-1.60",
+            "d": "M1106.48,-179.972C1111.22,-171.318 1116.59,-161.488 1121.66,-152.233"
+        },
+        {
+            "source": "R19-1051",
+            "target": "2021.nodalida-main.24",
+            "d": "M1072.89,-180.36C1065.64,-169.64 1058.3,-156.581 1054.6,-143.48 1048.1,-120.496 1047.97,-112.686 1054.6,-89.7401 1057.48,-79.7679 1062.5,-69.8554 1067.99,-60.9814"
+        },
+        {
+            "source": "D19-5519",
+            "target": "2020.coling-demos.1",
+            "d": "M1369.4,-179.025C1369.03,-171.059 1368.63,-162.168 1368.24,-153.679"
+        },
+        {
+            "source": "D19-5519",
+            "target": "2021.lchange-1.4",
+            "d": "M1420.73,-186.169C1439.2,-176.366 1458.15,-162.422 1468.6,-143.48 1480.13,-122.564 1482.89,-108.876 1468.6,-89.7401 1466.42,-86.8278 1391.53,-65.1119 1332.01,-48.2203"
+        },
+        {
+            "source": "D19-5519",
+            "target": "2021.iwclul-1.8",
+            "d": "M1427.09,-188.649C1456.32,-178.39 1491.64,-163.369 1519.6,-143.48 1551.48,-120.801 1580.4,-86.5405 1599.43,-61.1979"
+        },
+        {
+            "source": "D19-5519",
+            "target": "2021.emnlp-main.692",
+            "d": "M1433.32,-191.476C1459.08,-182.356 1486.39,-167.488 1501.6,-143.48 1514.38,-123.305 1509.56,-112.259 1501.6,-89.7401 1497.9,-79.2728 1491.59,-69.2783 1484.68,-60.492"
+        },
+        {
+            "source": "D19-1617",
+            "target": "2021.humeval-1.8",
+            "d": "M2107.62,-183.231C2034.84,-149.681 1897.11,-86.1889 1822.22,-51.6691"
+        },
+        {
+            "source": "2020",
+            "target": "2021",
+            "d": "M28.5975,-98.2755C28.5975,-82.9146 28.5975,-60.601 28.5975,-45.2319"
+        },
+        {
+            "source": "2020.sltu-1.5",
+            "target": "2021.americasnlp-1.4",
+            "d": "M202.632,-89.7598C209.48,-80.924 217.243,-70.9077 224.497,-61.547"
+        },
+        {
+            "source": "2020.sltu-1.35",
+            "target": "2020.coling-demos.1",
+            "d": "M884.971,-133.391C967.117,-154.608 1121.26,-185.624 1250.6,-161.48 1270.3,-157.802 1290.96,-150.893 1309.3,-143.579"
+        },
+        {
+            "source": "2020.iwclul-1.4",
+            "target": "2020.sltu-1.35",
+            "d": "M734.365,-116.61C736.848,-116.61 739.33,-116.61 741.813,-116.61"
+        },
+        {
+            "source": "2020.iwclul-1.4",
+            "target": "2020.coling-demos.1",
+            "d": "M702.027,-139.677C716.912,-148.323 734.943,-157.106 752.597,-161.48 860.017,-188.092 1141.81,-181.787 1250.6,-161.48 1270.3,-157.802 1290.96,-150.893 1309.3,-143.579"
+        },
+        {
+            "source": "2021.nodalida-main.17",
+            "target": "2021.lchange-1.4",
+            "d": "M745.983,-50.1938C762.222,-58.7649 781.723,-67.425 800.597,-71.7401 877.502,-89.3226 1078.34,-87.6956 1155.6,-71.7401 1172.98,-68.1495 1191.04,-61.5109 1207.13,-54.4208"
+        },
+        {
+            "source": "2021.lchange-1.4",
+            "target": "2021.emnlp-main.692",
+            "d": "M1346.22,-26.8701C1348.56,-26.8701 1350.9,-26.8701 1353.25,-26.8701"
+        },
+        {
+            "source": "2021.jeptalnrecital-taln.18",
+            "target": "2021.emnlp-main.692",
+            "d": "M959.894,-50.3574C981.609,-58.8962 1007.36,-67.4891 1031.6,-71.7401 1100.33,-83.7927 1277.21,-85.6176 1345.6,-71.7401 1363.28,-68.152 1381.67,-61.5142 1398.08,-54.4239"
+        },
+        {
+            "source": "2021.humeval-1.8",
+            "target": "2021.gem-1.9",
+            "d": "M1835.69,-26.8701C1838.31,-26.8701 1840.93,-26.8701 1843.56,-26.8701"
+        }
+    ],
+    [
+        {
+            "id": "2017",
+            "name": "2017",
+            "x": "28.5975",
+            "y": "-382.131"
+        },
+        {
+            "id": "2018",
+            "name": "2018",
+            "x": "28.5975",
+            "y": "-292.39"
+        },
+        {
+            "id": "W17-0601",
+            "name": "jack2017Synchronized",
+            "x": "887.597",
+            "y": "-389.631"
+        },
+        {
+            "id": "W17-0601",
+            "name": "0",
+            "x": "887.597",
+            "y": "-374.631"
+        },
+        {
+            "id": "L18-1138",
+            "name": "mika2018Combining",
+            "x": "454.597",
+            "y": "-299.89"
+        },
+        {
+            "id": "L18-1138",
+            "name": "0",
+            "x": "454.597",
+            "y": "-284.89"
+        },
+        {
+            "id": "2020.sltu-1.35",
+            "name": "jack2020{FST}",
+            "x": "826.597",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.sltu-1.35",
+            "name": "0",
+            "x": "826.597",
+            "y": "-105.41"
+        },
+        {
+            "id": "2020.paclic-1.60",
+            "name": "niko2020Speech",
+            "x": "1140.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.paclic-1.60",
+            "name": "???",
+            "x": "1140.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2020.coling-demos.1",
+            "name": "khalid2020Ve{'}rdd.",
+            "x": "1366.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.coling-demos.1",
+            "name": "???",
+            "x": "1366.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2019",
+            "name": "2019",
+            "x": "28.5975",
+            "y": "-202.65"
+        },
+        {
+            "id": "W18-6525",
+            "name": "mika2018Poem",
+            "x": "2155.6",
+            "y": "-299.89"
+        },
+        {
+            "id": "W18-6525",
+            "name": "0",
+            "x": "2155.6",
+            "y": "-284.89"
+        },
+        {
+            "id": "D19-1617",
+            "name": "mika2019Generating",
+            "x": "2155.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "D19-1617",
+            "name": "0",
+            "x": "2155.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "2021.nodalida-main.17",
+            "name": "mika2021Neural",
+            "x": "707.597",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.nodalida-main.17",
+            "name": "???",
+            "x": "707.597",
+            "y": "-15.6701"
+        },
+        {
+            "id": "W18-6534",
+            "name": "khalid2018A",
+            "x": "1781.6",
+            "y": "-299.89"
+        },
+        {
+            "id": "W18-6534",
+            "name": "5",
+            "x": "1781.6",
+            "y": "-284.89"
+        },
+        {
+            "id": "W19-8637",
+            "name": "mika2019Let{'}s",
+            "x": "1929.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "W19-8637",
+            "name": "0",
+            "x": "1929.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "W19-4105",
+            "name": "mika2019Co-Operation",
+            "x": "1647.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "W19-4105",
+            "name": "0",
+            "x": "1647.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "2021.humeval-1.8",
+            "name": "mika2021The",
+            "x": "1770.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.humeval-1.8",
+            "name": "???",
+            "x": "1770.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2021.gem-1.9",
+            "name": "mika2021Human",
+            "x": "1931.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.gem-1.9",
+            "name": "???",
+            "x": "1931.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "W18-4510",
+            "name": "mika2018Normalizing",
+            "x": "993.597",
+            "y": "-299.89"
+        },
+        {
+            "id": "W18-4510",
+            "name": "???",
+            "x": "993.597",
+            "y": "-284.89"
+        },
+        {
+            "id": "W19-6006",
+            "name": "mika2019Finding",
+            "x": "691.597",
+            "y": "-210.15"
+        },
+        {
+            "id": "W19-6006",
+            "name": "0",
+            "x": "691.597",
+            "y": "-195.15"
+        },
+        {
+            "id": "W19-2509",
+            "name": "mika2019Revisiting",
+            "x": "877.597",
+            "y": "-210.15"
+        },
+        {
+            "id": "W19-2509",
+            "name": "0",
+            "x": "877.597",
+            "y": "-195.15"
+        },
+        {
+            "id": "R19-1051",
+            "name": "mika2019From",
+            "x": "1092.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "R19-1051",
+            "name": "0",
+            "x": "1092.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "D19-5519",
+            "name": "niko2019Dialect",
+            "x": "1370.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "D19-5519",
+            "name": "0",
+            "x": "1370.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "2021.jeptalnrecital-taln.18",
+            "name": "mika2021Lemmatization",
+            "x": "907.597",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.jeptalnrecital-taln.18",
+            "name": "???",
+            "x": "907.597",
+            "y": "-15.6701"
+        },
+        {
+            "id": "W18-0205",
+            "name": "mika2018Development",
+            "x": "1964.6",
+            "y": "-299.89"
+        },
+        {
+            "id": "W18-0205",
+            "name": "2",
+            "x": "1964.6",
+            "y": "-284.89"
+        },
+        {
+            "id": "2021.nlp4if-1.6",
+            "name": "mika2021Never",
+            "x": "2320.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.nlp4if-1.6",
+            "name": "???",
+            "x": "2320.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "W19-6139",
+            "name": "jeff2019Morphosyntactic",
+            "x": "445.597",
+            "y": "-210.15"
+        },
+        {
+            "id": "W19-6139",
+            "name": "???",
+            "x": "445.597",
+            "y": "-195.15"
+        },
+        {
+            "id": "2020",
+            "name": "2020",
+            "x": "28.5975",
+            "y": "-112.91"
+        },
+        {
+            "id": "2021.maiworkshop-1.9",
+            "name": "khalid2021!`{Q}u{\\'e}",
+            "x": "2128.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.maiworkshop-1.9",
+            "name": "???",
+            "x": "2128.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2020.sltu-1.5",
+            "name": "mika2020Morphological",
+            "x": "182.597",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.sltu-1.5",
+            "name": "0",
+            "x": "182.597",
+            "y": "-105.41"
+        },
+        {
+            "id": "2020.nlposs-1.13",
+            "name": "jack2020Open-Source",
+            "x": "445.597",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.nlposs-1.13",
+            "name": "???",
+            "x": "445.597",
+            "y": "-105.41"
+        },
+        {
+            "id": "2021.americasnlp-1.4",
+            "name": "jack2021{A}purin{\\~a}",
+            "x": "250.597",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.americasnlp-1.4",
+            "name": "???",
+            "x": "250.597",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2021.nodalida-main.24",
+            "name": "quan2021An",
+            "x": "1093.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.nodalida-main.24",
+            "name": "???",
+            "x": "1093.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2021.lchange-1.4",
+            "name": "niko2021Linguistic",
+            "x": "1259.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.lchange-1.4",
+            "name": "???",
+            "x": "1259.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2021.iwclul-1.8",
+            "name": "mika2021The",
+            "x": "1622.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.iwclul-1.8",
+            "name": "???",
+            "x": "1622.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2021.emnlp-main.692",
+            "name": "mika2021{F}innish",
+            "x": "1451.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.emnlp-main.692",
+            "name": "???",
+            "x": "1451.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2021",
+            "name": "2021",
+            "x": "28.5975",
+            "y": "-23.1701"
+        },
+        {
+            "id": "2020.iwclul-1.4",
+            "name": "khalid2020On",
+            "x": "667.597",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.iwclul-1.4",
+            "name": "0",
+            "x": "667.597",
+            "y": "-105.41"
+        }
+    ],
+    [
+        "28.5975,-314.09 28.5975,-314.09 28.5975,-314.09 28.5975,-314.09",
+        "536.522,-312.064 526.003,-313.329 535.016,-318.9 536.522,-312.064",
+        "763.01,-141.178 771.578,-134.946 760.994,-134.474 763.01,-141.178",
+        "1165.03,-150.177 1157.22,-143.012 1158.85,-153.48 1165.03,-150.177",
+        "1327.32,-150.837 1333.16,-141.994 1323.08,-145.267 1327.32,-150.837",
+        "28.5975,-224.35 28.5975,-224.35 28.5975,-224.35 28.5975,-224.35",
+        "2159.1,-243.354 2155.6,-233.354 2152.1,-243.354 2159.1,-243.354",
+        "771.055,-45.3685 760.482,-46.0524 769.174,-52.111 771.055,-45.3685",
+        "1884.77,-237.994 1891.59,-229.884 1881.2,-231.973 1884.77,-237.994",
+        "1694.87,-234.12 1684.59,-231.571 1691.04,-239.977 1694.87,-234.12",
+        "1775.59,-63.9323 1771.68,-54.0848 1768.59,-64.2203 1775.59,-63.9323",
+        "1913.97,-63.7925 1916.12,-53.4182 1907.97,-60.187 1913.97,-63.7925",
+        "761.061,-223.898 750.482,-224.468 759.107,-230.62 761.061,-223.898",
+        "919.824,-234.901 909.737,-231.66 915.601,-240.484 919.824,-234.901",
+        "1060.28,-240.665 1065.45,-231.413 1055.64,-235.426 1060.28,-240.665",
+        "1299.79,-227.422 1308.74,-221.747 1298.21,-220.605 1299.79,-227.422",
+        "929.086,-60.9845 921.423,-53.6676 922.851,-64.1659 929.086,-60.9845",
+        "2073.2,-299.591 2083.2,-296.09 2073.2,-292.591 2073.2,-299.591",
+        "1946.79,-241.007 1939.84,-233.016 1940.29,-243.601 1946.79,-241.007",
+        "2099.94,-236.769 2107.57,-229.414 2097.02,-230.408 2099.94,-236.769",
+        "2265.39,-54.5048 2273.12,-47.2591 2262.56,-48.1029 2265.39,-54.5048",
+        "452.767,-242.945 448.265,-233.354 445.804,-243.659 452.767,-242.945",
+        "28.5975,-134.61 28.5975,-134.61 28.5975,-134.61 28.5975,-134.61",
+        "2073.46,-58.5721 2080.53,-50.6799 2070.08,-52.4416 2073.46,-58.5721",
+        "992.661,-44.8404 982.16,-46.2442 991.244,-51.6956 992.661,-44.8404",
+        "1801.7,-57.3379 1792.42,-52.2251 1796.48,-62.0088 1801.7,-57.3379",
+        "1934.69,-63.915 1931.3,-53.8762 1927.69,-63.8361 1934.69,-63.915",
+        "255.971,-138.399 245.378,-138.554 253.756,-145.039 255.971,-138.399",
+        "763.98,-141.238 772.585,-135.057 762.004,-134.523 763.98,-141.238",
+        "449.098,-153.614 445.597,-143.614 442.098,-153.614 449.098,-153.614",
+        "651.994,-55.1967 659.421,-47.6408 648.903,-48.9161 651.994,-55.1967",
+        "279.611,-58.9995 270.705,-53.262 274.089,-63.3016 279.611,-58.9995",
+        "1011.01,-209.85 1021.01,-206.35 1011.01,-202.85 1011.01,-209.85",
+        "1306.26,-230.722 1314.88,-224.55 1304.29,-224.005 1306.26,-230.722",
+        "916.351,-63.5561 911.778,-53.9991 909.393,-64.322 916.351,-63.5561",
+        "1285.64,-209.85 1295.64,-206.35 1285.64,-202.85 1285.64,-209.85",
+        "1124.85,-153.688 1126.58,-143.235 1118.71,-150.328 1124.85,-153.688",
+        "1071.01,-62.7661 1073.59,-52.4899 1065.16,-58.9149 1071.01,-62.7661",
+        "1371.73,-153.444 1367.78,-143.614 1364.74,-153.763 1371.73,-153.444",
+        "1332.81,-44.8076 1322.23,-45.4481 1330.9,-51.5423 1332.81,-44.8076",
+        "1602.37,-63.1011 1605.49,-52.975 1596.74,-58.9474 1602.37,-63.1011",
+        "1487.32,-58.2 1478.22,-52.7836 1481.96,-62.6962 1487.32,-58.2",
+        "1823.52,-48.4115 1812.97,-47.4035 1820.59,-54.7685 1823.52,-48.4115",
+        "28.5975,-44.8701 28.5975,-44.8701 28.5975,-44.8701 28.5975,-44.8701",
+        "227.347,-63.5838 230.706,-53.5357 221.814,-59.2957 227.347,-63.5838",
+        "1310.75,-146.77 1318.66,-139.732 1308.08,-140.296 1310.75,-146.77",
+        "742.019,-120.11 752.019,-116.61 742.019,-113.11 742.019,-120.11",
+        "1310.75,-146.77 1318.66,-139.732 1308.08,-140.296 1310.75,-146.77",
+        "1208.72,-57.5465 1216.36,-50.2136 1205.81,-51.1771 1208.72,-57.5465",
+        "1353.51,-30.3702 1363.51,-26.8701 1353.51,-23.3702 1353.51,-30.3702",
+        "1399.78,-57.4941 1407.48,-50.2167 1396.93,-51.1039 1399.78,-57.4941",
+        "1843.67,-30.3702 1853.67,-26.8701 1843.67,-23.3702 1843.67,-30.3702"
+    ]
+]

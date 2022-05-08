@@ -1,0 +1,496 @@
+digraph {
+	{
+		rank=same
+		1992
+		"H92-1014" [label="francis1992{BBN}
+13" color=black penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		1994
+		"C94-2178" [label="pascale1994K-vec:
+129" color=red penwidth=10 style=solid]
+		"A94-1030" [label="dekai1994Improving
+55" color=black penwidth=3 style=solid]
+		"1994.amta-1.11" [label="pascale1994Aligning
+24" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		1995
+		"W95-0114" [label="pascale1995Compiling
+141" color=red penwidth=10 style=solid]
+		"P95-1032" [label="pascale1995A
+81" color=red penwidth=3 style=solid]
+		"1995.tmi-1.18" [label="pascale1995Coerced
+5" color=red style=solid]
+	}
+	{
+		rank=same
+		1997
+		"W97-0406" [label="pascale1997Dealing
+1" color=red style=solid]
+		"W97-0119" [label="pascale1997Finding
+119" color=red penwidth=10 style=solid]
+	}
+	{
+		rank=same
+		1998
+		"P98-1069" [label="pascale1998An
+353" color=red penwidth=10 style=solid]
+		"C98-1066" [label="pascale1998An
+353" color=red penwidth=10 style=solid]
+		"fung-1998-statistical" [label="pascale1998A
+???" color=red style=dashed]
+	}
+	{
+		rank=same
+		1999
+		"P99-1043" [label="pascale1999Mixed
+19" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2002
+		"W02-1104" [label="pascale2002Semantic
+0" color=red style=solid]
+		"C02-1162" [label="grace2002Identifying
+22" color=black penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2003
+		"W03-1203" [label="pascale2003Combining
+31" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2004
+		"W04-3208" [label="pascale2004Mining
+46" color=red penwidth=3 style=solid]
+		"N04-4008" [label="benfeng2004Automatic
+16" color=black penwidth=3 style=solid]
+		"N04-4010" [label="lufeng2004Using
+27" color=black penwidth=3 style=solid]
+		"C04-1134" [label="pascale2004{B}i{F}rame{N}et:
+35" color=red penwidth=3 style=solid]
+		"C04-1151" [label="pascale2004Multi-level
+64" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2005
+		"I05-1023" [label="dekai2005Inversion
+51" color=black penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2006
+		"P06-2031" [label="pascale2006Robust
+3" color=red style=solid]
+	}
+	{
+		rank=same
+		2007
+		"N07-2054" [label="jian2007Speech
+38" color=red penwidth=3 style=solid]
+		"2007.tmi-papers.10" [label="pascale2007Learning
+26" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2009
+		"W09-3105" [label="jian2009Active
+5" color=red style=solid]
+		"N09-2004" [label="dekai2009Semantic
+93" color=black penwidth=3 style=solid]
+		"2009.eamt-1.30" [label="dekai2009Can
+44" color=black penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2010
+		"liu-etal-2010-large" [label="yi2010A
+0" color=black style=solid]
+		"C10-1023" [label="yuncong2010Unsupervised
+3" color=black style=solid]
+		"C10-1146" [label="jian2010A
+2" color=red style=solid]
+	}
+	{
+		rank=same
+		2011
+		"P11-1133" [label="emmanuel2011Rare
+38" color=black penwidth=3 style=solid]
+		"I11-1047" [label="simon2011Mining
+0" color=black style=solid]
+	}
+	{
+		rank=same
+		2012
+		"W12-5010" [label="anik2012Using
+1" color=red style=solid]
+		"zuo-etal-2012-multilingual" [label="xin2012A
+2" color=black style=solid]
+		"li-etal-2012-mandarin" [label="ying2012A
+11" color=red penwidth=3 style=solid]
+		"D12-1070" [label="ping2012Cross-Lingual
+1" color=black style=solid]
+		"C12-1102" [label="ying2012Code-Switch
+32" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2014
+		"W14-3907" [label="thamar2014Overview
+46" color=black penwidth=3 style=solid]
+		"auguin-fung-2014-co" [label="nicolas2014Co-Training
+0" color=black style=solid]
+		"dey-fung-2014-hindi" [label="anik2014A
+27" color=red penwidth=3 style=solid]
+		"D14-1098" [label="ying2014Language
+15" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2015
+		"S15-2004" [label="dario2015{HLTC}-{HKUST}:
+7" color=red style=solid]
+	}
+	{
+		rank=same
+		2016
+		"N16-3018" [label="pascale2016{Z}ara
+11" color=red penwidth=3 style=solid]
+		"N16-1016" [label="dario2016A
+16" color=red penwidth=3 style=solid]
+		"L16-1079" [label="dario2016Deep
+11" color=red penwidth=3 style=solid]
+		"L16-1312" [label="naziba2016A
+1" color=black style=solid]
+		"D16-1110" [label="dario2016Real-Time
+26" color=red penwidth=3 style=solid]
+		"C16-2058" [label="pascale2016{Z}ara:
+4" color=red style=solid]
+	}
+	{
+		rank=same
+		2017
+		"W17-3006" [label="ji2017One-step
+10" color=red style=solid]
+		"P17-4021" [label="farhad2017{Z}ara
+5" color=red style=solid]
+	}
+	{
+		rank=same
+		2018
+		"W18-6243" [label="peng2018{E}mo2{V}ec:
+2" color=black style=solid]
+		"W18-3207" [label="genta2018Code-Switching
+3" color=red style=solid]
+		"W18-3214" [label="genta2018Bilingual
+0" color=red style=solid]
+		"S18-1039" [label="ji2018{P}lus{E}mo2{V}ec
+2" color=red style=solid]
+		"P18-2096" [label="onno2018Investigating
+8" color=black style=solid]
+		"P18-1136" [label="andrea2018{M}em2{S}eq:
+46" color=red penwidth=3 style=solid]
+		"D18-1143" [label="nayeon2018Improving
+3" color=red style=solid]
+		"D18-1302" [label="ji2018Reducing
+12" color=red penwidth=3 style=solid]
+	}
+	{
+		rank=same
+		2019
+		"W19-5508" [label="zhaojiang2019Learning
+???" color=red style=dashed]
+		"W19-5327" [label="zihan2019Incorporating
+5" color=red style=solid]
+		"W19-4320" [label="genta2019Learning
+6" color=red style=solid]
+		"W19-4331" [label="elham2019Modality-based
+0" color=red style=solid]
+		"W19-3638" [label="nayeon2019Understanding
+???" color=red style=dashed]
+		"W19-3655" [label="nayeon2019Exploring
+???" color=red style=dashed]
+		"S19-2021" [label="genta2019{CA}i{RE}{\\_}{HKUST}
+0" color=red style=solid]
+		"S19-2184" [label="nayeon2019Team
+7" color=red style=solid]
+		"P19-1078" [label="chiensheng2019Transferable
+24" color=red penwidth=3 style=solid]
+		"P19-1542" [label="andrea2019Personalizing
+18" color=red penwidth=3 style=solid]
+		"N19-1106" [label="elham2019A
+0" color=red style=solid]
+		"K19-1026" [label="genta2019Code-Switched
+0" color=red style=solid]
+		"D19-5827" [label="dan2019Generalizing
+1" color=red style=solid]
+		"D19-1012" [label="zhaojiang2019{M}o{EL}:
+1" color=red style=solid]
+		"D19-1129" [label="zihan2019Zero-shot
+9" color=red style=solid]
+		"D19-1303" [label="peng2019Clickbait?
+0" color=black style=solid]
+		"D19-1360" [label="genta2019Hierarchical
+1" color=red style=solid]
+	}
+	{
+		rank=same
+		2020
+		"2020.semeval-1.272" [label="wenliang2020Kungfupanda
+0" color=red style=solid]
+		"2020.sdp-1.35" [label="tiezheng2020Dimsum
+???" color=red style=dashed]
+		"2020.repl4nlp-1.1" [label="zihan2020Zero-Resource
+1" color=red style=solid]
+		"2020.nlpcovid19-2.14" [label="dan2020{CA}i{RE}-{COVID}:
+0" color=red style=solid]
+		"2020.lrec-1.73" [label="chiensheng2020Getting
+???" color=red style=dashed]
+		"2020.findings-emnlp.41" [label="zhaojiang2020Exploring
+0" color=red style=solid]
+		"2020.findings-emnlp.215" [label="andrea2020Learning
+???" color=red style=dashed]
+		"2020.findings-emnlp.219" [label="andrea2020Plug-and-Play
+???" color=red style=dashed]
+		"2020.findings-emnlp.416" [label="dan2020Multi-hop
+???" color=red style=dashed]
+		"2020.emnlp-main.226" [label="peng2020{MEGATRON}-{CNTRL}:
+???" color=black style=dashed]
+		"2020.emnlp-main.273" [label="zhaojiang2020{M}in{TL}:
+???" color=red style=dashed]
+		"2020.emnlp-main.587" [label="zihan2020Cross-lingual
+???" color=red style=dashed]
+		"2020.cl-2.1" [label="marta2020Multilingual
+0" color=black style=solid]
+		"2020.acl-main.3" [label="zihan2020{C}oach:
+1" color=red style=solid]
+		"2020.acl-main.348" [label="genta2020Meta-Transfer
+0" color=red style=solid]
+		"2020.aacl-main.30" [label="wenliang2020Modality-Transferable
+???" color=red style=dashed]
+		"2020.aacl-main.85" [label="bryan2020{I}ndo{NLU}:
+???" color=black style=dashed]
+	}
+	{
+		rank=same
+		2021
+		"2021.sigdial-1.27" [label="etsuko2021{ERICA}:
+???" color=red style=dashed]
+		"2021.sigdial-1.57" [label="yejin2021Assessing
+???" color=black style=dashed]
+		"2021.repl4nlp-1.8" [label="zihan2021Preserving
+???" color=red style=dashed]
+		"2021.repl4nlp-1.13" [label="zihan2021{X}2{P}arser:
+???" color=red style=dashed]
+		"2021.nlp4convai-1.10" [label="zhaojiang2021{XP}ersona:
+???" color=red style=dashed]
+		"2021.naacl-main.158" [label="nayeon2021Towards
+???" color=red style=dashed]
+		"2021.naacl-main.417" [label="wenliang2021Multimodal
+???" color=red style=dashed]
+		"2021.naacl-main.432" [label="nayeon2021On
+???" color=red style=dashed]
+		"2021.naacl-main.471" [label="tiezheng2021{A}dapt{S}um:
+???" color=red style=dashed]
+		"2021.mrl-1.1" [label="genta2021Language
+???" color=red style=dashed]
+		"2021.findings-acl.239" [label="zihan2021Continual
+???" color=red style=dashed]
+		"2021.findings-acl.275" [label="dan2021Improve
+???" color=red style=dashed]
+		"2021.emnlp-main.326" [label="tiezheng2021Vision
+???" color=red style=dashed]
+		"2021.emnlp-main.590" [label="andrea2021Continual
+???" color=red style=dashed]
+		"2021.emnlp-main.622" [label="zhaojiang2021Zero-Shot
+???" color=red style=dashed]
+		"2021.emnlp-main.699" [label="samuel2021{I}ndo{NLG}:
+???" color=red style=dashed]
+		"2021.dialdoc-1.6" [label="yan2021{CA}i{RE}
+???" color=red style=dashed]
+		"2021.calcs-1.20" [label="genta2021Are
+???" color=red style=dashed]
+		"2021.acl-long.66" [label="weijen2021Adapting
+???" color=black style=dashed]
+	}
+	1992 -> 1994 [arrowsize=0]
+	1994 -> 1995 [arrowsize=0]
+	1995 -> 1997 [arrowsize=0]
+	1997 -> 1998 [arrowsize=0]
+	1998 -> 1999 [arrowsize=0]
+	1999 -> 2002 [arrowsize=0]
+	2002 -> 2003 [arrowsize=0]
+	2003 -> 2004 [arrowsize=0]
+	2004 -> 2005 [arrowsize=0]
+	2005 -> 2006 [arrowsize=0]
+	2006 -> 2007 [arrowsize=0]
+	2007 -> 2009 [arrowsize=0]
+	2009 -> 2010 [arrowsize=0]
+	2010 -> 2011 [arrowsize=0]
+	2011 -> 2012 [arrowsize=0]
+	2012 -> 2014 [arrowsize=0]
+	2014 -> 2015 [arrowsize=0]
+	2015 -> 2016 [arrowsize=0]
+	2016 -> 2017 [arrowsize=0]
+	2017 -> 2018 [arrowsize=0]
+	2018 -> 2019 [arrowsize=0]
+	2019 -> 2020 [arrowsize=0]
+	2020 -> 2021 [arrowsize=0]
+	"C94-2178" -> "1994.amta-1.11"
+	"P95-1032" -> "1995.tmi-1.18"
+	"1994.amta-1.11" -> "1995.tmi-1.18"
+	"A94-1030" -> "1995.tmi-1.18"
+	"2020.acl-main.3" -> "2020.aacl-main.30"
+	"P19-1542" -> "2020.aacl-main.30"
+	"D19-1129" -> "2020.aacl-main.30"
+	"P19-1078" -> "2020.aacl-main.30"
+	"W18-6243" -> "2020.aacl-main.30"
+	"D19-1129" -> "2020.acl-main.3"
+	"2020.repl4nlp-1.1" -> "2020.acl-main.3"
+	"C12-1102" -> "2020.acl-main.348"
+	"W19-5508" -> "2020.acl-main.348"
+	"P19-1542" -> "2020.acl-main.348"
+	"W18-3207" -> "2020.acl-main.348"
+	"K19-1026" -> "2020.acl-main.348"
+	"D19-1129" -> "2020.emnlp-main.587"
+	"P19-1078" -> "2020.emnlp-main.587"
+	"2020.acl-main.3" -> "2020.emnlp-main.587"
+	"2020.findings-emnlp.41" -> "2020.findings-emnlp.219"
+	"P19-1542" -> "2020.findings-emnlp.219"
+	"P19-1542" -> "2020.findings-emnlp.41"
+	"P18-1136" -> "2020.lrec-1.73"
+	"P19-1542" -> "2020.lrec-1.73"
+	"P19-1078" -> "2020.lrec-1.73"
+	"D19-5827" -> "2020.nlpcovid19-2.14"
+	"S19-2184" -> "2020.repl4nlp-1.1"
+	"W19-5327" -> "2020.repl4nlp-1.1"
+	"D19-1129" -> "2020.repl4nlp-1.1"
+	"S19-2184" -> "2020.semeval-1.272"
+	"W17-3006" -> "2020.semeval-1.272"
+	"D19-5827" -> "2020.semeval-1.272"
+	"2020.aacl-main.85" -> "2021.calcs-1.20"
+	"2020.acl-main.348" -> "2021.calcs-1.20"
+	"W19-4320" -> "2021.calcs-1.20"
+	"D19-1360" -> "2021.calcs-1.20"
+	"S19-2021" -> "2021.calcs-1.20"
+	"W18-3207" -> "2021.calcs-1.20"
+	"K19-1026" -> "2021.calcs-1.20"
+	"W18-3214" -> "2021.calcs-1.20"
+	"D19-1129" -> "2021.dialdoc-1.6"
+	"2020.findings-emnlp.215" -> "2021.dialdoc-1.6"
+	"2020.findings-emnlp.219" -> "2021.dialdoc-1.6"
+	"D19-5827" -> "2021.dialdoc-1.6"
+	"2020.emnlp-main.226" -> "2021.dialdoc-1.6"
+	"2021.naacl-main.417" -> "2021.emnlp-main.326"
+	"2020.aacl-main.30" -> "2021.emnlp-main.326"
+	"2021.naacl-main.471" -> "2021.emnlp-main.326"
+	"2020.emnlp-main.273" -> "2021.emnlp-main.622"
+	"P19-1078" -> "2021.emnlp-main.622"
+	"W19-5327" -> "2021.findings-acl.239"
+	"2021.calcs-1.20" -> "2021.findings-acl.239"
+	"2021.naacl-main.471" -> "2021.findings-acl.239"
+	"2021.naacl-main.471" -> "2021.findings-acl.275"
+	"D19-1129" -> "2021.mrl-1.1"
+	"2021.repl4nlp-1.13" -> "2021.mrl-1.1"
+	"2020.findings-emnlp.215" -> "2021.mrl-1.1"
+	"2020.emnlp-main.273" -> "2021.mrl-1.1"
+	"2020.aacl-main.85" -> "2021.mrl-1.1"
+	"2021.calcs-1.20" -> "2021.mrl-1.1"
+	"K19-1026" -> "2021.mrl-1.1"
+	"2020.aacl-main.30" -> "2021.naacl-main.417"
+	"2020.semeval-1.272" -> "2021.naacl-main.417"
+	"D19-1129" -> "2021.naacl-main.471"
+	"2020.repl4nlp-1.1" -> "2021.naacl-main.471"
+	"2020.acl-main.3" -> "2021.naacl-main.471"
+	"D19-1129" -> "2021.repl4nlp-1.13"
+	"2020.acl-main.3" -> "2021.repl4nlp-1.13"
+	"P19-1078" -> "2021.repl4nlp-1.13"
+	"S19-2184" -> "2021.sigdial-1.57"
+	"W19-3655" -> "2021.sigdial-1.57"
+	"P98-1069" -> "C02-1162"
+	"C98-1066" -> "C02-1162"
+	"C02-1162" -> "C04-1134"
+	"W97-0119" -> "C04-1151"
+	"P99-1043" -> "C04-1151"
+	"N04-4010" -> "C04-1151"
+	"P98-1069" -> "C04-1151"
+	"C98-1066" -> "C04-1151"
+	"W03-1203" -> "C10-1146"
+	"I05-1023" -> "C12-1102"
+	"N16-3018" -> "C16-2058"
+	"C94-2178" -> "C98-1066"
+	"W97-0119" -> "C98-1066"
+	"W95-0114" -> "C98-1066"
+	"P95-1032" -> "C98-1066"
+	"P18-1136" -> "D18-1143"
+	"P19-1542" -> "D19-1012"
+	"P18-1136" -> "D19-1012"
+	"S19-2184" -> "D19-1012"
+	"S19-2021" -> "D19-1012"
+	"W18-6243" -> "D19-1012"
+	"D16-1110" -> "D19-1012"
+	"S19-2184" -> "D19-1129"
+	"W19-5327" -> "D19-1129"
+	"W19-4320" -> "D19-1129"
+	"W18-6243" -> "D19-1129"
+	"S18-1039" -> "D19-1303"
+	"S19-2184" -> "D19-1303"
+	"W18-6243" -> "D19-1303"
+	"S19-2021" -> "D19-1303"
+	"W04-3208" -> "I05-1023"
+	"P99-1043" -> "I05-1023"
+	"P11-1133" -> "I11-1047"
+	"C12-1102" -> "K19-1026"
+	"W19-4320" -> "K19-1026"
+	"W18-3207" -> "K19-1026"
+	"W18-3214" -> "K19-1026"
+	"D14-1098" -> "K19-1026"
+	"C02-1162" -> "N04-4008"
+	"2007.tmi-papers.10" -> "N09-2004"
+	"L16-1079" -> "N16-1016"
+	"C04-1134" -> "P06-2031"
+	"P99-1043" -> "P06-2031"
+	"C02-1162" -> "P06-2031"
+	"N16-3018" -> "P17-4021"
+	"D16-1110" -> "P17-4021"
+	"P18-1136" -> "P19-1078"
+	"P18-1136" -> "P19-1542"
+	"C94-2178" -> "P95-1032"
+	"1994.amta-1.11" -> "P95-1032"
+	"C94-2178" -> "P98-1069"
+	"W97-0119" -> "P98-1069"
+	"W95-0114" -> "P98-1069"
+	"P95-1032" -> "P98-1069"
+	"P98-1069" -> "P99-1043"
+	"W97-0119" -> "P99-1043"
+	"C98-1066" -> "P99-1043"
+	"2007.tmi-papers.10" -> "S15-2004"
+	"D16-1110" -> "S19-2021"
+	"S18-1039" -> "S19-2021"
+	"P17-4021" -> "S19-2021"
+	"W18-6243" -> "S19-2021"
+	"D18-1143" -> "S19-2184"
+	"W97-0119" -> "W04-3208"
+	"P98-1069" -> "W04-3208"
+	"li-etal-2012-mandarin" -> "W14-3907"
+	"C12-1102" -> "W18-3207"
+	"D14-1098" -> "W18-3207"
+	"W18-3207" -> "W19-4320"
+	"W18-3214" -> "W19-4320"
+	"P18-2096" -> "W19-4331"
+	"S19-2184" -> "W19-5327"
+	"S18-1039" -> "W19-5327"
+	"S19-2021" -> "W19-5327"
+	"P19-1542" -> "W19-5508"
+	"S19-2021" -> "W19-5508"
+	"P95-1032" -> "W95-0114"
+	"C94-2178" -> "W95-0114"
+	"1994.amta-1.11" -> "W95-0114"
+	"A94-1030" -> "W95-0114"
+}

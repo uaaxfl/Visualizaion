@@ -1,0 +1,3620 @@
+[
+    [
+        {
+            "id": "1994",
+            "citation_count": 208,
+            "name": 208,
+            "cx": 28.5975,
+            "cy": -2001.15,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "1995",
+            "citation_count": 227,
+            "name": 227,
+            "cx": 28.5975,
+            "cy": -1911.41,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "C94-2178",
+            "name": "K-vec: A New Approach for Aligning Parallel Texts",
+            "publication_data": 1994,
+            "citation": 129,
+            "abstract": "Various methods have been proposed for aligning texts in two or more languages such as the Canadian Parliamentary Debates (Hansards). Some of these methods generate a bilingual lexicon as a by-product. We present an alternative alignment strategy which we call K-vec, that starts by estimating the lexicon. For example, it discovers that the English word fisheries is similar to the French peches by noting that the distribution of fisheries in the English text is similar to the distribution of p&ecirc'ches in the French. K-vec does not depend on sentence boundaries.",
+            "cx": 1257.6,
+            "cy": -2001.15,
+            "rx": 86.0347,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "10",
+            "dasharray": null
+        },
+        {
+            "id": "1994.amta-1.11",
+            "name": "Aligning Noisy Parallel Corpora Across Language Groups: Word Pair Feature Matching by Dynamic Time Warping",
+            "publication_data": 1994,
+            "citation": 24,
+            "abstract": "We propose a new algorithm called DK-vec for aligning pairs of Asian/Indo-European noisy parallel texts without sentence boundaries. DK-vec improves on previous alignment algorithms in that it handles better the non-linear nature of noisy corpora. The algorithm uses frequency, position and recency information as features for pattern matching. Dynamic Time Warping is used as the matching technique between word pairs. This algorithm produces a small bilingual lexicon which provides anchor points for alignment.",
+            "cx": 1454.6,
+            "cy": -2001.15,
+            "rx": 92.7622,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "W95-0114",
+            "name": "Compiling Bilingual Lexicon Entries From a Non-Parallel {E}nglish-{C}hinese Corpus",
+            "publication_data": 1995,
+            "citation": 141,
+            "abstract": "We propose a novel context heterogeneity similarity measure between words and their translations in helping to compile bilingual lexicon entries from a non-parallel English-Chinese corpus. Current algorithms for bilingual lexicon compilation rely on occurrence frequencies, length or positional statistics derived from parallel texts. There is little correlation between such statistics of a word and its translation in non-parallel corpora. On the other hand, we suggest that words with productive context in one language translate to words with productive context in another language, and words with rigid context translate into words With rigid context. Context heterogeneity measures how productive the context of a word is in a given domain, independent of its absolute occurrence frequency in the text. Based on this information, we derive statistics of bilingual word pairs from a non-parallel corpus. These statistics can be used to bootstrap a bilingual dictionary compilation algorithm.",
+            "cx": 1454.6,
+            "cy": -1911.41,
+            "rx": 101.233,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "10",
+            "dasharray": null
+        },
+        {
+            "id": "P95-1032",
+            "name": "A Pattern Matching Method for Finding Noun and Proper Noun Translations from Noisy Parallel Corpora",
+            "publication_data": 1995,
+            "citation": 81,
+            "abstract": "We present a pattern matching method for compiling a bilingual lexicon of nouns and proper nouns from unaligned, noisy parallel texts of Asian/Indo-European language pairs. Tagging information of one language is used. Word frequency and position information for high and low frequency words are represented in two different vector forms for pattern matching. New anchor point finding and noise elimination techniques are introduced. We obtained a 73.1% precision. We also show how the results can be used in the compilation of domain-specific noun phrases.",
+            "cx": 1268.6,
+            "cy": -1911.41,
+            "rx": 67.3507,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "P98-1069",
+            "name": "An {IR} Approach for Translating New Words from Nonparallel, Comparable Texts",
+            "publication_data": 1998,
+            "citation": 353,
+            "abstract": "None",
+            "cx": 959.597,
+            "cy": -1731.93,
+            "rx": 71.3357,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "10",
+            "dasharray": null
+        },
+        {
+            "id": "C98-1066",
+            "name": "An {IR} Approach for Translating New Words from Nonparallel, Comparable Texts",
+            "publication_data": 1998,
+            "citation": 353,
+            "abstract": "None",
+            "cx": 1268.6,
+            "cy": -1731.93,
+            "rx": 71.3357,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "10",
+            "dasharray": null
+        },
+        {
+            "id": "A94-1030",
+            "name": "Improving {C}hinese Tokenization With Linguistic Filters on Statistical Lexical Acquisition",
+            "publication_data": 1994,
+            "citation": 55,
+            "abstract": "The first step in Chinese NLP is to tokenize or segment character sequences into words, since the text contains no word delimiters. Recent heavy activity in this area has shown the biggest stumbling block to be words that are absent from the lexicon, since successful tokenizers to date have been based on dictionary lookup (e.g., Chang & Chen 1993; Chiang et al. 1992; Lin et al. 1993; Wu & Tseng 1993; Sproat et al. 1994).We present empirical evidence for four points concerning tokenization of Chinese text: (1) More rigorous blind evaluation methodology is needed to avoid inflated accuracy measurements; we introduce the nk-blind method. (2) The extent of the unknown-word problem is far more serious than generally thought, when tokenizing unrestricted texts in realistic domains. (3) Statistical lexical acquisition is a practical means to greatly improve tokenization accuracy with unknown words, reducing error rates as much as 32.0%. (4) When augmenting the lexicon, linguistic constraints can provide simple inexpensive filters yielding significantly better precision, reducing error rates as much as 49.4%.",
+            "cx": 1662.6,
+            "cy": -2001.15,
+            "rx": 92.7622,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "1995.tmi-1.18",
+            "name": "Coerced {M}arkov Models for Cross-Lingual Lexical-Tag Relations",
+            "publication_data": 1995,
+            "citation": 5,
+            "abstract": "We introduce the Coerced Markov Model (CMM) to model the relationship between the lexical sequence of a source language and the tag sequence of a target language, with the objective of constraining search in statistical transfer-based machine translation systems. CMMs differ from standard hidden Markov models in that state sequence assignments can take on values coerced from external sources. Given a Chinese sentence, a CMM can be used to predict the corresponding English tag sequence, thus constraining the English lexical sequence produced by a translation model. The CMM can also be used to score competing translation hypotheses in N-best models. Three fundamental problems for CMM designed are discussed. Their solutions lead to the training and testing stages of CMM.",
+            "cx": 1667.6,
+            "cy": -1911.41,
+            "rx": 94.0904,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "1997",
+            "citation_count": 119,
+            "name": 119,
+            "cx": 28.5975,
+            "cy": -1821.67,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "1998",
+            "citation_count": 706,
+            "name": 706,
+            "cx": 28.5975,
+            "cy": -1731.93,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "W97-0119",
+            "name": "Finding Terminology Translations from Non-parallel Corpora",
+            "publication_data": 1997,
+            "citation": 119,
+            "abstract": "We present a statistical word feature, the Word Relation Matrix, which can be used to find translated pairs of words and terms from non-parallel corpora, across language groups. Online dictionary entries are used as seed words to generate Word Relation Matrices for the unknown words according to correlation measures. Word Relation Matrices are then mapped across the corpora to find translation pairs. Translation accuracies are around 30% when only the top candidate is counted. Nevertheless, top 20 candidate output give a 50.9% average increase in accuracy on human translator performance.",
+            "cx": 1094.6,
+            "cy": -1821.67,
+            "rx": 89.6056,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "10",
+            "dasharray": null
+        },
+        {
+            "id": "P99-1043",
+            "name": "Mixed Language Query Disambiguation",
+            "publication_data": 1999,
+            "citation": 19,
+            "abstract": "We propose a mixed language query disambiguation approach by using co-occurrence information from monolingual data only. A mixed language query consists of words in a primary language and a secondary language. Our method translates the query into monolingual queries in either language. Two novel features for disambiguation, namely contextual word voting and 1-best contextual word, are introduced and compared to a baseline feature, the nearest neighbor. Average query translation accuracy for the two features are 81.37% and 83.72%, compared to the baseline accuracy of 75.50%.",
+            "cx": 980.597,
+            "cy": -1642.19,
+            "rx": 84.7059,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "W04-3208",
+            "name": "Mining Very-Non-Parallel Corpora: Parallel Sentence and Lexicon Extraction via Bootstrapping and {E}",
+            "publication_data": 2004,
+            "citation": 46,
+            "abstract": "None",
+            "cx": 573.597,
+            "cy": -1372.97,
+            "rx": 86.9483,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "C04-1151",
+            "name": "Multi-level Bootstrapping For Extracting Parallel Sentences From a Quasi-Comparable Corpus",
+            "publication_data": 2004,
+            "citation": 64,
+            "abstract": "We propose a completely unsupervised method for mining parallel sentences from quasi-comparable bilingual texts which have very different sizes, and which include both in-topic and off-topic documents. We discuss and analyze different bilingual corpora with various levels of comparability. We propose that while better document matching leads to better parallel sentence extraction, better sentence matching also leads to better document matching. Based on this, we use multi-level bootstrapping to improve the alignments between documents, sentences, and bilingual word pairs, iteratively. Our method is the first method that does not rely on any supervised training data, such as a sentence-aligned corpus, or temporal information, such as the publishing date of a news article. It is validated by experimental results that show a 23% improvement over a method without multilevel bootstrapping.",
+            "cx": 1585.6,
+            "cy": -1372.97,
+            "rx": 101.233,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "1999",
+            "citation_count": 19,
+            "name": 19,
+            "cx": 28.5975,
+            "cy": -1642.19,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "C02-1162",
+            "name": "Identifying Concepts Across Languages: A First Step towards a Corpus-based Approach to Automatic Ontology Alignment",
+            "publication_data": 2002,
+            "citation": 22,
+            "abstract": "The growing importance of multilingual information retrieval and machine translation has made multilingual ontologies an extremely valuable resource. Since the construction of an ontology from scratch is a very expensive and time consuming undertaking, it is attractive to consider ways of automatically aligning monolingual ontologies, which already exist for many of the world's major languages.",
+            "cx": 895.597,
+            "cy": -1552.45,
+            "rx": 94.0904,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "2002",
+            "citation_count": 22,
+            "name": 22,
+            "cx": 28.5975,
+            "cy": -1552.45,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "I05-1023",
+            "name": "Inversion Transduction Grammar Constraints for Mining Parallel Sentences from Quasi-Comparable Corpora",
+            "publication_data": 2005,
+            "citation": 51,
+            "abstract": "We present a new implication of Wu's (1997) Inversion Transduction Grammar (ITG) Hypothesis, on the problem of retrieving truly parallel sentence translations from large collections of highly non-parallel documents. Our approach leverages a strong language universal constraint posited by the ITG Hypothesis, that can serve as a strong inductive bias for various language learning problems, resulting in both efficiency and accuracy gains. The task we attack is highly practical since non-parallel multilingual data exists in far greater quantities than parallel corpora, but parallel sentences are a much more useful resource. Our aim here is to mine truly parallel sentences, as opposed to comparable sentence pairs or loose translations as in most previous work. The method we introduce exploits Bracketing ITGs to produce the first known results for this problem. Experiments show that it obtains large accuracy gains on this task compared to the expected performance of state-of-the-art models that were developed for the less stringent task of mining comparable sentence pairs.",
+            "cx": 592.597,
+            "cy": -1283.23,
+            "rx": 88.2768,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "P06-2031",
+            "name": "Robust Word Sense Translation by {EM} Learning of Frame Semantics",
+            "publication_data": 2006,
+            "citation": 3,
+            "abstract": "We propose a robust method of automatically constructing a bilingual word sense dictionary from readily available monolingual ontologies by using estimation-maximization, without any annotated training data or manual tuning. We demonstrate our method on the English FrameNet and Chinese HowNet structures. Owing to the robustness of EM iterations in improving translation likelihoods, our word sense translation accuracies are very high, at 82% on average, for the 11 most ambiguous words in the English FrameNet with 5 senses or more. We also carried out a pilot study on using this automatically generated bilingual word sense dictionary to choose the best translation candidates and show the first significant evidence that frame semantics are useful for translation disambiguation. Translation disambiguation accuracy using frame semantics is 75%, compared to 15% by using dictionary glossing only. These results demonstrate the great potential for future application of bilingual frame semantics to machine translation tasks.",
+            "cx": 764.597,
+            "cy": -1193.49,
+            "rx": 89.191,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2003",
+            "citation_count": 31,
+            "name": 31,
+            "cx": 28.5975,
+            "cy": -1462.71,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "N04-4008",
+            "name": "Automatic Construction of an {E}nglish-{C}hinese Bilingual {F}rame{N}et",
+            "publication_data": 2004,
+            "citation": 16,
+            "abstract": "We propose a method of automatically constructing an English-Chinese bilingual FrameNet where the English FrameNet lexical entries are linked to the appropriate Chinese word senses. This resource can be used in machine translation and cross-lingual IR systems. We coerce the English FrameNet into Chinese using a bilingual lexicon, frame context in FrameNet and taxonomy structure in HowNet. Our approach does not require any manual mapping between FrameNet and HowNet semantic roles. Evaluation results show that we achieve a promising 82% average F-measure for the most ambiguous lexical entries.",
+            "cx": 895.597,
+            "cy": -1372.97,
+            "rx": 103.476,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "C04-1134",
+            "name": "{B}i{F}rame{N}et: Bilingual Frame Semantics Resource Construction by Cross-lingual Induction",
+            "publication_data": 2004,
+            "citation": 35,
+            "abstract": "We present a novel automatic approach to constructing a bilingual semantic network---the BiFrameNet, to enhance statistical and transfer-based machine translation systems. BiFrameNet is a frame semantic representation, and contains semantic structure transfers between English and Chinese. The English FrameNet and the Chinese HowNet provide us with two different views of the semantic distribution of lexicon by linguists. We propose to induce the mapping between the English lexical entries in FrameNet to Chinese word senses in HowNet, furnishing a bilingual semantic lexicon which simulates the concept lexicon supposedly used by human translators, and which can thus be beneficial to machine translation systems. BiFrameNet also contains bilingual example sentences that have the same semantic roles. We automatically induce Chinese example sentences and their semantic roles, based on semantic structure alignment from the first stage of our work, as well as shallow syntactic structure. In addition to its utility for machine-aided and machine translations, our work is also related to the spatial models proposed by cognitive scientists in the framework of artifactual simulations of the translation process.",
+            "cx": 1328.6,
+            "cy": -1372.97,
+            "rx": 137.772,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "2004",
+            "citation_count": 188,
+            "name": 188,
+            "cx": 28.5975,
+            "cy": -1372.97,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "W03-1203",
+            "name": "Combining Optimal Clustering and Hidden {M}arkov Models for Extractive Summarization",
+            "publication_data": 2003,
+            "citation": 31,
+            "abstract": "We propose Hidden Markov models with unsupervised training for extractive summarization. Extractive summarization selects salient sentences from documents to be included in a summary. Unsupervised clustering combined with heuristics is a popular approach because no annotated data is required. However, conventional clustering methods such as K-means do not take text cohesion into consideration. Probabilistic methods are more rigorous and robust, but they usually require supervised training with annotated data. Our method incorporates unsupervised training with clustering, into a probabilistic framework. Clustering is done by modified K-means (MKM)---a method that yields more optimal clusters than the conventional K-means method. Text cohesion is modeled by the transition probabilities of an HMM, and term distribution is modeled by the emission probabilities. The final decoding process tags sentences in a text with theme class labels. Parameter training is carried out by the segmental K-means (SKM) algorithm. The output of our system can be used to extract salient sentences for summaries, or used for topic detection. Content-based evaluation shows that our method outperforms an existing extractive summarizer by 22.8% in terms of relative similarity, and outperforms a baseline summarizer that selects the top N sentences as salient sentences by 46.3%.",
+            "cx": 1715.6,
+            "cy": -1462.71,
+            "rx": 103.476,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "C10-1146",
+            "name": "A Rhetorical Syntax-Driven Model for Speech Summarization",
+            "publication_data": 2010,
+            "citation": 2,
+            "abstract": "We show a novel approach of parsing and reordering rhetorical syntax tree for extractive summarization of presentation speech. Our previous work showed (Fung et al., 2008) that rhetorical structures are embedded in this type of speech and that exploring this structure helps improve summarization quality. We further demonstrate that speakers do not follow the strict order of bullet points in the presentation slides, and that a re-ordering of these points occurs. We therefore propose a method of parsing presentation transcriptions into a rhetorical syntax tree and then re-order the leaf nodes to transform the speech transcriptions into an extractive summary akin to a process of presentation slide generation. Chunking, parsing, and reordering are carried out by 28-class Hidden Markov Support Vector Machine(HMSVM) classifier trained from reference presentations and presentation slides. Using ROUGE-L F-measure we showed that our rhetorical syntaxdriven model gives a 35.8% relative improvement over a binary summarizer with no rhetorical information, a 14.3% improvement over Rhetorical State Hidden Markov Model(RSHMM) (Fung et al., 2008), and a 4.3% improvement over our proposed model with no reordering.",
+            "cx": 1715.6,
+            "cy": -924.271,
+            "rx": 50.8235,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2005",
+            "citation_count": 51,
+            "name": 51,
+            "cx": 28.5975,
+            "cy": -1283.23,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "N04-4010",
+            "name": "Using N-best lists for Named Entity Recognition from {C}hinese Speech",
+            "publication_data": 2004,
+            "citation": 27,
+            "abstract": "We present the first known result for named entity recognition (NER) in realistic large-vocabulary spoken Chinese. We establish this result by applying a maximum entropy model, currently the single best known approach for textual Chinese NER, to the recognition output of the BBN LVCSR system on Chinese Broadcast News utterances. Our results support the claim that transferring NER approaches from text to spoken language is a significantly more difficult task for Chinese than for English. We propose re-segmenting the ASR hypotheses as well as applying post-classification to improve the performance. Finally, we introduce a method of using n-best hypotheses that yields a small but nevertheless useful improvement NER accuracy. We use acoustic, phonetic, language model, NER and other scores as confidence measure. Experimental results show an average of 6.7% relative improvement in precision and 1.7% relative improvement in F-measure.",
+            "cx": 1094.6,
+            "cy": -1372.97,
+            "rx": 77.5641,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "2006",
+            "citation_count": 3,
+            "name": 3,
+            "cx": 28.5975,
+            "cy": -1193.49,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "C12-1102",
+            "name": "Code-Switch Language Model with Inversion Constraints for Mixed Language Speech Recognition",
+            "publication_data": 2012,
+            "citation": 32,
+            "abstract": "We propose a first ever code-switch language model for mixed language speech recognition that incorporates syntactic constraints by a code-switch boundary prediction model, a code-switch translation model, and a reconstruction model. A WFST-based decoder then recognizes speech by combining an acoustic model, a pronunciation model and the code-switch language model in an integrated approach. Our proposed approach avoids making early decisions on code-switch boundaries and is therefore more robust than previous approaches. Our proposed system using the code-switch language model outperforms a baseline of interpolated language models by a statistically significant 0.91% on a mixed language lecture speech corpus, and 1.25% on a mixed language lunch conversation corpus. Our method also outperforms a language model that permits code-switch at all word boundaries by a statistically significant 1.35% on the lecture speech corpus and 1.69% on the lunch conversation corpus.",
+            "cx": 592.597,
+            "cy": -744.791,
+            "rx": 98.9899,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "2007",
+            "citation_count": 26,
+            "name": 26,
+            "cx": 28.5975,
+            "cy": -1103.75,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2009",
+            "citation_count": 93,
+            "name": 93,
+            "cx": 28.5975,
+            "cy": -1014.01,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2007.tmi-papers.10",
+            "name": "Learning bilingual semantic frames: shallow semantic parsing vs. semantic role projection",
+            "publication_data": 2007,
+            "citation": 26,
+            "abstract": "To explore the potential application of semantic roles in structural machine translation, we propose to study the automatic learning of English-Chinese bilingual predicate argument structure mapping. We describe ARG ALIGN, a new model for learning bilingual semantic frames that employs monolingual Chinese and English semantic parsers to learn bilingual semantic role mappings with 72.45% Fscore, given an unannotated parallel corpus. We show that, contrary to a common preconception, our ARG ALIGN model is superior to a semantic role projection model, SYN ALIGN, which reaches only a 46.63% F-score by assuming semantic parallelism in bilingual sentences. We present experimental data explaining that this is due to crosslingual mismatches between argument structures in English and Chinese at 17.24% of the time. This suggests that, in any potential application to enhance machine translation with semantic structural mapping, it may be preferable to employ independent automatic semantic parsers on source and target languages, rather than assuming semantic role parallelism.",
+            "cx": 1893.6,
+            "cy": -1103.75,
+            "rx": 94.0904,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "N09-2004",
+            "name": "Semantic Roles for {SMT}: A Hybrid Two-Pass Model",
+            "publication_data": 2009,
+            "citation": 93,
+            "abstract": "We present results on a novel hybrid semantic SMT model that incorporates the strengths of both semantic role labeling and phrase-based statistical machine translation. The approach avoids major complexity limitations via a two-pass architecture. The first pass is performed using a conventional phrase-based SMT model. The second pass is performed by a re-ordering strategy guided by shallow semantic parsers that produce both semantic frame and role labels. Evaluation on a Wall Street Journal newswire genre test set showed the hybrid model to yield an improvement of roughly half a point in BLEU score over a strong pure phrase-based SMT baseline -- to our knowledge, the first successful application of semantic role labeling to SMT.",
+            "cx": 1834.6,
+            "cy": -1014.01,
+            "rx": 87.8629,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "S15-2004",
+            "name": "{HLTC}-{HKUST}: A Neural Network Paraphrase Classifier using Translation Metrics, Semantic Roles and Lexical Similarity Features",
+            "publication_data": 2015,
+            "citation": 7,
+            "abstract": "This paper describes the system developed by our team (HLTC-HKUST) for task 1 of SemEval 2015 workshop about paraphrase classification and semantic similarity in Twitter. We trained a neural network classifier over a range of features that includes translation metrics, lexical and syntactic similarity score and semantic features based on semantic roles. The neural network was trained taking into consideration in the objective function the six different similarity levels provided in the corpus, in order to give as output a more fine-grained estimation of the similarity level of the two sentences, as required by subtask 2. With an F-score of 0.651 in the binary paraphrase classification subtask 1, and a Pearson coefficient of 0.697 for the sentence similarity subtask 2, we achieved respectively the 6th place and the 3rd place, above the average of what obtained by the other contestants.",
+            "cx": 1950.6,
+            "cy": -565.311,
+            "rx": 134.201,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2010",
+            "citation_count": 2,
+            "name": 2,
+            "cx": 28.5975,
+            "cy": -924.271,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2011",
+            "citation_count": 38,
+            "name": 38,
+            "cx": 28.5975,
+            "cy": -834.531,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2012",
+            "citation_count": 43,
+            "name": 43,
+            "cx": 28.5975,
+            "cy": -744.791,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "P11-1133",
+            "name": "Rare Word Translation Extraction from Aligned Comparable Documents",
+            "publication_data": 2011,
+            "citation": 38,
+            "abstract": "We present a first known result of high precision rare word bilingual extraction from comparable corpora, using aligned comparable documents and supervised classification. We incorporate two features, a context-vector similarity and a co-occurrence model between words in aligned documents in a machine learning approach. We test our hypothesis on different pairs of languages and corpora. We obtain very high F-Measure between 80% and 98% for recognizing and extracting correct translations for rare terms (from 1 to 5 occurrences). Moreover, we show that our system can be trained on a pair of languages and test on a different pair of languages, obtaining a F-Measure of 77% for the classification of Chinese-English translations using a training corpus of Spanish-French. Our method is therefore even potentially applicable to low resources languages without training data.",
+            "cx": 2066.6,
+            "cy": -834.531,
+            "rx": 88.2768,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "I11-1047",
+            "name": "Mining Parallel Documents Using Low Bandwidth and High Precision {CLIR} from the Heterogeneous Web",
+            "publication_data": 2011,
+            "citation": 0,
+            "abstract": "We propose a content-based method of mining bilingual parallel documents from websites that are not necessarily structurally related to each other. There are two existing approaches for automatically mining parallel documents from the web. Structure based methods work only for parallel websites and most of content based methods are either requires large scale computational facilities, network bandwidth or not applicable to heterogeneous web. We propose a novel content based method using cross lingual information retrieval (CLIR) with query feedback and verification and supplemented with structural information, to mine parallel resources from the entire web using search engine APIs. The method goes beyond structural information to find parallel documents from non-parallel websites. We obtained a very high mining precision and extracted parallel sentences improved SMT performance, with higher BLEU score, is comparable to that obtained with high quality manually translated parallel sentences illustrating the excellent quality of the mined parallel materiel",
+            "cx": 2254.6,
+            "cy": -834.531,
+            "rx": 82.0488,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2014",
+            "citation_count": 61,
+            "name": 61,
+            "cx": 28.5975,
+            "cy": -655.051,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "li-etal-2012-mandarin",
+            "name": "A {M}andarin-{E}nglish Code-Switching Corpus",
+            "publication_data": 2012,
+            "citation": 11,
+            "abstract": "Generally the existing monolingual corpora are not suitable for large vocabulary continuous speech recognition (LVCSR) of code-switching speech. The motivation of this paper is to study the rules and constraints code-switching follows and design a corpus for code-switching LVCSR task. This paper presents the development of a Mandarin-English code-switching corpus. This corpus consists of four parts: 1) conversational meeting speech and its data; 2) project meeting speech data; 3) student interviews speech; 4) text data of on-line news. The speech was transcribed by an annotator and verified by Mandarin-English bilingual speakers manually. We propose an approach for automatically downloading from the web text data that contains code-switching. The corpus includes both intra-sentential code-switching (switch in the middle of a sentence) and inter-sentential code-switching (switch at the end of the sentence). The distribution of part-of-speech (POS) tags and code-switching reasons are reported.",
+            "cx": 2073.6,
+            "cy": -744.791,
+            "rx": 54.3945,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "W14-3907",
+            "name": "Overview for the First Shared Task on Language Identification in Code-Switched Data",
+            "publication_data": 2014,
+            "citation": 46,
+            "abstract": "We present an overview of the first shared task on language identification on codeswitched data. The shared task included code-switched data from four language pairs: Modern Standard ArabicDialectal Arabic (MSA-DA), MandarinEnglish (MAN-EN), Nepali-English (NEPEN), and Spanish-English (SPA-EN). A total of seven teams participated in the task and submitted 42 system runs. The evaluation showed that language identification at the token level is more difficult when the languages present are closely related, as in the case of MSA-DA, where the prediction performance was the lowest among all language pairs. In contrast, the language pairs with the higest F-measure where SPA-EN and NEP-EN. The task made evident that language identification in code-switched data is still far from solved and warrants further research.",
+            "cx": 2073.6,
+            "cy": -655.051,
+            "rx": 94.5053,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "W18-3207",
+            "name": "Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning",
+            "publication_data": 2018,
+            "citation": 3,
+            "abstract": "Lack of text data has been the major issue on code-switching language modeling. In this paper, we introduce multi-task learning based language model which shares syntax representation of languages to leverage linguistic information and tackle the low resource data issue. Our model jointly learns both language modeling and Part-of-Speech tagging on code-switched utterances. In this way, the model is able to identify the location of code-switching points and improves the prediction of next word. Our approach outperforms standard LSTM based language model, with an improvement of 9.7{\\%} and 7.4{\\%} in perplexity on SEAME Phase I and Phase II dataset respectively.",
+            "cx": 637.597,
+            "cy": -296.09,
+            "rx": 115.017,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "K19-1026",
+            "name": "Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences",
+            "publication_data": 2019,
+            "citation": 0,
+            "abstract": "Training code-switched language models is difficult due to lack of data and complexity in the grammatical structure. Linguistic constraint theories have been used for decades to generate artificial code-switching sentences to cope with this issue. However, this require external word alignments or constituency parsers that create erroneous results on distant languages. We propose a sequence-to-sequence model using a copy mechanism to generate code-switching data by leveraging parallel monolingual translations from a limited source of code-switching data. The model learns how to combine words from parallel sentences and identifies when to switch one language to the other. Moreover, it captures code-switching constraints by attending and aligning the words in inputs, without requiring any external knowledge. Based on experimental results, the language model trained with the generated sentences achieves state-of-the-art performance and improves end-to-end automatic speech recognition.",
+            "cx": 744.597,
+            "cy": -206.35,
+            "rx": 113.274,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2020.acl-main.348",
+            "name": "Meta-Transfer Learning for Code-Switched Speech Recognition",
+            "publication_data": 2020,
+            "citation": 0,
+            "abstract": "An increasing number of people in the world today speak a mixed-language as a result of being multilingual. However, building a speech recognition system for code-switching remains difficult due to the availability of limited resources and the expense and significant effort required to collect mixed-language data. We therefore propose a new learning method, meta-transfer learning, to transfer learn on a code-switched speech recognition system in a low-resource setting by judiciously extracting information from high-resource monolingual datasets. Our model learns to recognize individual languages, and transfer them so as to better recognize mixed-language speech by conditioning the optimization on the code-switching data. Based on experimental results, our model outperforms existing baselines on speech recognition and language modeling tasks, and is faster to converge.",
+            "cx": 785.597,
+            "cy": -116.61,
+            "rx": 107.46,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2015",
+            "citation_count": 7,
+            "name": 7,
+            "cx": 28.5975,
+            "cy": -565.311,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "D14-1098",
+            "name": "Language Modeling with Functional Head Constraint for Code Switching Speech Recognition",
+            "publication_data": 2014,
+            "citation": 15,
+            "abstract": "In this paper, we propose novel structured language modeling methods for code mixing speech recognition by incorporating a well-known syntactic constraint for switching code, namely the Functional Head Constraint (FHC). Code mixing data is not abundantly available for training language models. Our proposed methods successfully alleviate this core problem for code mixing speech recognition by using bilingual data to train a structured language model with syntactic constraint. Linguists and bilingual speakers found that code switch do not happen between the functional head and its complements. We propose to learn the code mixing language model from bilingual data with this constraint in a weighted finite state transducer (WFST) framework. The constrained code switch language model is obtained by first expanding the search network with a translation model, and then using parsing to restrict paths to those permissible under the constraint. We im",
+            "cx": 705.597,
+            "cy": -655.051,
+            "rx": 84.7059,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "2016",
+            "citation_count": 68,
+            "name": 68,
+            "cx": 28.5975,
+            "cy": -475.571,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2017",
+            "citation_count": 15,
+            "name": 15,
+            "cx": 28.5975,
+            "cy": -385.831,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "N16-3018",
+            "name": "{Z}ara The {S}upergirl: An Empathetic Personality Recognition System",
+            "publication_data": 2016,
+            "citation": 11,
+            "abstract": "None",
+            "cx": 967.597,
+            "cy": -475.571,
+            "rx": 86.9483,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "C16-2058",
+            "name": "{Z}ara: A Virtual Interactive Dialogue System Incorporating Emotion, Sentiment and Personality Recognition",
+            "publication_data": 2016,
+            "citation": 4,
+            "abstract": "Zara, or {`}Zara the Supergirl{'} is a virtual robot, that can exhibit empathy while interacting with an user, with the aid of its built in facial and emotion recognition, sentiment analysis, and speech module. At the end of the 5-10 minute conversation, Zara can give a personality analysis of the user based on all the user utterances. We have also implemented a real-time emotion recognition, using a CNN model that detects emotion from raw audio without feature extraction, and have achieved an average of 65.7{\\%} accuracy on six different emotion classes, which is an impressive 4.5{\\%} improvement from the conventional feature based SVM classification. Also, we have described a CNN based sentiment analysis module trained using out-of-domain data, that recognizes sentiment from the speech recognition transcript, which has a 74.8 F-measure when tested on human-machine dialogues.",
+            "cx": 1161.6,
+            "cy": -475.571,
+            "rx": 89.191,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "P17-4021",
+            "name": "{Z}ara Returns: Improved Personality Induction and Adaptation by an Empathetic Virtual Agent",
+            "publication_data": 2017,
+            "citation": 5,
+            "abstract": "None",
+            "cx": 1034.6,
+            "cy": -385.831,
+            "rx": 82.9636,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "N16-1016",
+            "name": "A Long Short-Term Memory Framework for Predicting Humor in Dialogues",
+            "publication_data": 2016,
+            "citation": 16,
+            "abstract": "None",
+            "cx": 1688.6,
+            "cy": -475.571,
+            "rx": 57.9655,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "L16-1079",
+            "name": "Deep Learning of Audio and Language Features for Humor Prediction",
+            "publication_data": 2016,
+            "citation": 11,
+            "abstract": "We propose a comparison between various supervised machine learning methods to predict and detect humor in dialogues. We retrieve our humorous dialogues from a very popular TV sitcom: {``}The Big Bang Theory{''}. We build a corpus where punchlines are annotated using the canned laughter embedded in the audio track. Our comparative study involves a linear-chain Conditional Random Field over a Recurrent Neural Network and a Convolutional Neural Network. Using a combination of word-level and audio frame-level features, the CNN outperforms the other methods, obtaining the best F-score of 68.5{\\%} over 66.5{\\%} by CRF and 52.9{\\%} by RNN. Our work is a starting point to developing more effective machine learning and neural network models on the humor prediction task, as well as developing machines capable in understanding humor in general.",
+            "cx": 1541.6,
+            "cy": -475.571,
+            "rx": 71.3357,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "D16-1110",
+            "name": "Real-Time Speech Emotion and Sentiment Recognition for Interactive Dialogue Systems",
+            "publication_data": 2016,
+            "citation": 26,
+            "abstract": "None",
+            "cx": 1360.6,
+            "cy": -475.571,
+            "rx": 91.8478,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "S19-2021",
+            "name": "{CA}i{RE}{\\\\_}{HKUST} at {S}em{E}val-2019 Task 3: Hierarchical Attention for Dialogue Emotion Classification",
+            "publication_data": 2019,
+            "citation": 0,
+            "abstract": "Detecting emotion from dialogue is a challenge that has not yet been extensively surveyed. One could consider the emotion of each dialogue turn to be independent, but in this paper, we introduce a hierarchical approach to classify emotion, hypothesizing that the current emotional state depends on previous latent emotions. We benchmark several feature-based classifiers using pre-trained word and emotion embeddings, state-of-the-art end-to-end neural network models, and Gaussian processes for automatic hyper-parameter search. In our experiments, hierarchical architectures consistently give significant improvements, and our best model achieves a 76.77{\\%} F1-score on the test set.",
+            "cx": 1034.6,
+            "cy": -206.35,
+            "rx": 159.198,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "D19-1012",
+            "name": "{M}o{EL}: Mixture of Empathetic Listeners",
+            "publication_data": 2019,
+            "citation": 1,
+            "abstract": "Previous research on empathetic dialogue systems has mostly focused on generating responses given certain emotions. However, being empathetic not only requires the ability of generating emotional responses, but more importantly, requires the understanding of user emotions and replying appropriately. In this paper, we propose a novel end-to-end approach for modeling empathy in dialogue systems: Mixture of Empathetic Listeners (MoEL). Our model first captures the user emotions and outputs an emotion distribution. Based on this, MoEL will softly combine the output states of the appropriate Listener(s), which are each optimized to react to certain emotions, and generate an empathetic response. Human evaluations on EMPATHETIC-DIALOGUES dataset confirm that MoEL outperforms multitask training baseline in terms of empathy, relevance, and fluency. Furthermore, the case study on generated responses of different Listeners shows high interpretability of our model.",
+            "cx": 2265.6,
+            "cy": -206.35,
+            "rx": 113.689,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2018",
+            "citation_count": 64,
+            "name": 64,
+            "cx": 28.5975,
+            "cy": -296.09,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "W17-3006",
+            "name": "One-step and Two-step Classification for Abusive Language Detection on {T}witter",
+            "publication_data": 2017,
+            "citation": 10,
+            "abstract": "Automatic abusive language detection is a difficult but important task for online social media. Our research explores a two-step approach of performing classification on abusive language and then classifying into specific types and compares it with one-step approach of doing one multi-class classification for detecting sexist and racist languages. With a public English Twitter corpus of 20 thousand tweets in the type of sexism and racism, our approach shows a promising performance of 0.827 F-measure by using HybridCNN in one-step and 0.824 F-measure by using logistic regression in two-steps.",
+            "cx": 4235.6,
+            "cy": -385.831,
+            "rx": 71.3357,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2020.semeval-1.272",
+            "name": "Kungfupanda at {S}em{E}val-2020 Task 12: {BERT}-Based Multi-{T}ask{L}earning for Offensive Language Detection",
+            "publication_data": 2020,
+            "citation": 0,
+            "abstract": "Nowadays, offensive content in social media has become a serious problem, and automatically detecting offensive language is an essential task. In this paper, we build an offensive language detection system, which combines multi-task learning with BERT-based models. Using a pre-trained language model such as BERT, we can effectively learn the representations for noisy text in social media. Besides, to boost the performance of offensive language detection, we leverage the supervision signals from other related tasks. In the OffensEval-2020 competition, our model achieves 91.51{\\%} F1 score in English Sub-task A, which is comparable to the first place (92.23{\\%}F1). An empirical analysis is provided to explain the effectiveness of our approaches.",
+            "cx": 4235.6,
+            "cy": -116.61,
+            "rx": 118.174,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2019",
+            "citation_count": 72,
+            "name": 72,
+            "cx": 28.5975,
+            "cy": -206.35,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "W18-6243",
+            "name": "{E}mo2{V}ec: Learning Generalized Emotion Representation by Multi-task Training",
+            "publication_data": 2018,
+            "citation": 2,
+            "abstract": "In this paper, we propose Emo2Vec which encodes emotional semantics into vectors. We train Emo2Vec by multi-task learning six different emotion-related tasks, including emotion/sentiment analysis, sarcasm classification, stress detection, abusive language classification, insult detection, and personality recognition. Our evaluation of Emo2Vec shows that it outperforms existing affect-related representations, such as Sentiment-Specific Word Embedding and DeepMoji embeddings with much smaller training corpora. When concatenated with GloVe, Emo2Vec achieves competitive performances to state-of-the-art results on several tasks using a simple logistic regression classifier.",
+            "cx": 2732.6,
+            "cy": -296.09,
+            "rx": 110.118,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "D19-1129",
+            "name": "Zero-shot Cross-lingual Dialogue Systems with Transferable Latent Variables",
+            "publication_data": 2019,
+            "citation": 9,
+            "abstract": "Despite the surging demands for multilingual task-oriented dialog systems (e.g., Alexa, Google Home), there has been less research done in multilingual or cross-lingual scenarios. Hence, we propose a zero-shot adaptation of task-oriented dialogue system to low-resource languages. To tackle this challenge, we first use a set of very few parallel word pairs to refine the aligned cross-lingual word-level representations. We then employ a latent variable model to cope with the variance of similar sentences across different languages, which is induced by imperfect cross-lingual alignments and inherent differences in languages. Finally, the experimental results show that even though we utilize much less external resources, our model achieves better adaptation performance for natural language understanding task (i.e., the intent detection and slot filling) compared to the current state-of-the-art model in the zero-shot scenario.",
+            "cx": 2910.6,
+            "cy": -206.35,
+            "rx": 89.6056,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "D19-1303",
+            "name": "Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning",
+            "publication_data": 2019,
+            "citation": 0,
+            "abstract": "Sensational headlines are headlines that capture people{'}s attention and generate reader interest. Conventional abstractive headline generation methods, unlike human writers, do not optimize for maximal reader attention. In this paper, we propose a model that generates sensational headlines without labeled data. We first train a sensationalism scorer by classifying online headlines with many comments ({``}clickbait{''}) against a baseline of headlines generated from a summarization model. The score from the sensationalism scorer is used as the reward for a reinforcement learner. However, maximizing the noisy sensationalism reward will generate unnatural phrases instead of sensational headlines. To effectively leverage this noisy reward, we propose a novel loss function, Auto-tuned Reinforcement Learning (ARL), to dynamically balance reinforcement learning (RL) with maximum likelihood estimation (MLE). Human evaluation shows that 60.8{\\%} of samples generated by our model are sensational, which is significantly better than the Pointer-Gen baseline and other RL models.",
+            "cx": 2713.6,
+            "cy": -206.35,
+            "rx": 89.191,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2020.aacl-main.30",
+            "name": "Modality-Transferable Emotion Embeddings for Low-Resource Multimodal Emotion Recognition",
+            "publication_data": 2020,
+            "citation": "???",
+            "abstract": "Despite the recent achievements made in the multi-modal emotion recognition task, two problems still exist and have not been well investigated: 1) the relationship between different emotion categories are not utilized, which leads to sub-optimal performance; and 2) current models fail to cope well with low-resource emotions, especially for unseen emotions. In this paper, we propose a modality-transferable model with emotion embeddings to tackle the aforementioned issues. We use pre-trained word embeddings to represent emotion categories for textual data. Then, two mapping functions are learned to transfer these embeddings into visual and acoustic spaces. For each modality, the model calculates the representation distance between the input sequence and target emotions and makes predictions based on the distances. By doing so, our model can directly adapt to the unseen emotions in any modality since we have their pre-trained embeddings and modality mapping functions. Experiments show that our model achieves state-of-the-art performance on most of the emotion categories. Besides, our model also outperforms existing baselines in the zero-shot and few-shot scenarios for unseen emotions.",
+            "cx": 3909.6,
+            "cy": -116.61,
+            "rx": 152.056,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "W19-4320",
+            "name": "Learning Multilingual Meta-Embeddings for Code-Switching Named Entity Recognition",
+            "publication_data": 2019,
+            "citation": 6,
+            "abstract": "In this paper, we propose Multilingual Meta-Embeddings (MME), an effective method to learn multilingual representations by leveraging monolingual pre-trained embeddings. MME learns to utilize information from these embeddings via a self-attention mechanism without explicit language identification. We evaluate the proposed embedding method on the code-switching English-Spanish Named Entity Recognition dataset in a multilingual and cross-lingual setting. The experimental results show that our proposed method achieves state-of-the-art performance on the multilingual setting, and it has the ability to generalize to an unseen language task.",
+            "cx": 199.597,
+            "cy": -206.35,
+            "rx": 85.6199,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2021.calcs-1.20",
+            "name": "Are Multilingual Models Effective in Code-Switching?",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "Multilingual language models have shown decent performance in multilingual and cross-lingual natural language understanding tasks. However, the power of these multilingual models in code-switching tasks has not been fully explored. In this paper, we study the effectiveness of multilingual language models to understand their capability and adaptability to the mixed-language setting by considering the inference speed, performance, and number of parameters to measure their practicality. We conduct experiments in three language pairs on named entity recognition and part-of-speech tagging and compare them with existing methods, such as using bilingual embeddings and multilingual meta-embeddings. Our findings suggest that pre-trained multilingual models do not necessarily guarantee high-quality representations on code-switching, while using meta-embeddings achieves similar results with significantly fewer parameters.",
+            "cx": 717.597,
+            "cy": -26.8701,
+            "rx": 65.5227,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "W18-3214",
+            "name": "Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition",
+            "publication_data": 2018,
+            "citation": 0,
+            "abstract": "We propose an LSTM-based model with hierarchical architecture on named entity recognition from code-switching Twitter data. Our model uses bilingual character representation and transfer learning to address out-of-vocabulary words. In order to mitigate data noise, we propose to use token replacement and normalization. In the 3rd Workshop on Computational Approaches to Linguistic Code-Switching Shared Task, we achieved second place with 62.76{\\%} harmonic mean F1-score for English-Spanish language pair without using any gazetteer and knowledge-based information.",
+            "cx": 199.597,
+            "cy": -296.09,
+            "rx": 84.7059,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "S18-1039",
+            "name": "{P}lus{E}mo2{V}ec at {S}em{E}val-2018 Task 1: Exploiting emotion knowledge from emoji and {\\\\#}hashtags",
+            "publication_data": 2018,
+            "citation": 2,
+            "abstract": "This paper describes our system that has been submitted to SemEval-2018 Task 1: Affect in Tweets (AIT) to solve five subtasks. We focus on modeling both sentence and word level representations of emotion inside texts through large distantly labeled corpora with emojis and hashtags. We transfer the emotional knowledge by exploiting neural network models as feature extractors and use these representations for traditional machine learning models such as support vector regression (SVR) and logistic regression to solve the competition tasks. Our system is placed among the Top3 for all subtasks we participated.",
+            "cx": 2483.6,
+            "cy": -296.09,
+            "rx": 120.417,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "W19-5327",
+            "name": "Incorporating Word and Subword Units in Unsupervised Machine Translation Using Language Model Rescoring",
+            "publication_data": 2019,
+            "citation": 5,
+            "abstract": "This paper describes CAiRE{'}s submission to the unsupervised machine translation track of the WMT{'}19 news shared task from German to Czech. We leverage a phrase-based statistical machine translation (PBSMT) model and a pre-trained language model to combine word-level neural machine translation (NMT) and subword-level NMT models without using any parallel data. We propose to solve the morphological richness problem of languages by training byte-pair encoding (BPE) embeddings for German and Czech separately, and they are aligned using MUSE (Conneau et al., 2018). To ensure the fluency and consistency of translations, a rescoring mechanism is proposed that reuses the pre-trained language model to select the translation candidates generated through beam search. Moreover, a series of pre-processing and post-processing approaches are applied to improve the quality of final translations.",
+            "cx": 2501.6,
+            "cy": -206.35,
+            "rx": 104.804,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "P18-2096",
+            "name": "Investigating Audio, Video, and Text Fusion Methods for End-to-End Automatic Personality Prediction",
+            "publication_data": 2018,
+            "citation": 8,
+            "abstract": "We propose a tri-modal architecture to predict Big Five personality trait scores from video clips with different channels for audio, text, and video data. For each channel, stacked Convolutional Neural Networks are employed. The channels are fused both on decision-level and by concatenating their respective fully connected layers. It is shown that a multimodal fusion approach outperforms each single modality channel, with an improvement of 9.4{\\%} over the best individual modality (video). Full backpropagation is also shown to be better than a linear combination of modalities, meaning complex interactions between modalities can be leveraged to build better models. Furthermore, we can see the prediction relevance of each modality for each trait. The described model can be used to increase the emotional intelligence of virtual agents.",
+            "cx": 4608.6,
+            "cy": -296.09,
+            "rx": 100.318,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "W19-4331",
+            "name": "Modality-based Factorization for Multimodal Fusion",
+            "publication_data": 2019,
+            "citation": 0,
+            "abstract": "We propose a novel method, Modality-based Redundancy Reduction Fusion (MRRF), for understanding and modulating the relative contribution of each modality in multimodal inference tasks. This is achieved by obtaining an (\\textit{M}+1)-way tensor to consider the high-order relationships between \\textit{M} modalities and the output layer of a neural network model. Applying a modality-based tensor factorization method, which adopts different factors for different modalities, results in removing information present in a modality that can be compensated by other modalities, with respect to model outputs. This helps to understand the relative utility of information in each modality. In addition it leads to a less complicated model with less parameters and therefore could be applied as a regularizer avoiding overfitting. We have applied this method to three different multimodal datasets in sentiment analysis, personality trait recognition, and emotion recognition. We are able to recognize relationships and relative importance of different modalities in these tasks and achieves a 1{\\%} to 4{\\%} improvement on several evaluation measures compared to the state-of-the-art for all three tasks.",
+            "cx": 4608.6,
+            "cy": -206.35,
+            "rx": 115.017,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "P18-1136",
+            "name": "{M}em2{S}eq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems",
+            "publication_data": 2018,
+            "citation": 46,
+            "abstract": "End-to-end task-oriented dialog systems usually suffer from the challenge of incorporating knowledge bases. In this paper, we propose a novel yet simple end-to-end differentiable model called memory-to-sequence (Mem2Seq) to address this issue. Mem2Seq is the first neural generative model that combines the multi-hop attention over memories with the idea of pointer network. We empirically show how Mem2Seq controls each generation step, and how its multi-hop attention mechanism helps in learning correlations between memories. In addition, our model is quite general without complicated task-specific designs. As a result, we show that Mem2Seq can be trained faster and attain the state-of-the-art performance on three different task-oriented dialog datasets.",
+            "cx": 1816.6,
+            "cy": -296.09,
+            "rx": 118.174,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "D18-1143",
+            "name": "Improving Large-Scale Fact-Checking using Decomposable Attention Models and Lexical Tagging",
+            "publication_data": 2018,
+            "citation": 3,
+            "abstract": "Fact-checking of textual sources needs to effectively extract relevant information from large knowledge bases. In this paper, we extend an existing pipeline approach to better tackle this problem. We propose a neural ranker using a decomposable attention model that dynamically selects sentences to achieve promising improvement in evidence retrieval F1 by 38.80{\\%}, with (x65) speedup compared to a TF-IDF method. Moreover, we incorporate lexical tagging methods into our pipeline framework to simplify the tasks and render the model more generalizable. As a result, our framework achieves promising performance on a large-scale fact extraction and verification dataset with speedup.",
+            "cx": 2052.6,
+            "cy": -296.09,
+            "rx": 99.9045,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "P19-1078",
+            "name": "Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems",
+            "publication_data": 2019,
+            "citation": 24,
+            "abstract": "Over-dependence on domain ontology and lack of sharing knowledge across domains are two practical and yet less studied problems of dialogue state tracking. Existing approaches generally fall short when tracking unknown slot values during inference and often have difficulties in adapting to new domains. In this paper, we propose a Transferable Dialogue State Generator (TRADE) that generates dialogue states from utterances using copy mechanism, facilitating transfer when predicting (domain, slot, value) triplets not encountered during training. Our model is composed of an utterance encoder, a slot gate, and a state generator, which are shared across domains. Empirical results demonstrate that TRADE achieves state-of-the-art 48.62{\\%} joint goal accuracy for the five domains of MultiWOZ, a human-human dialogue dataset. In addition, we show the transferring ability by simulating zero-shot and few-shot dialogue state tracking for unseen domains. TRADE achieves 60.58{\\%} joint goal accuracy in one of the zero-shot domains, and is able to adapt to few-shot cases without forgetting already trained domains.",
+            "cx": 1829.6,
+            "cy": -206.35,
+            "rx": 123.988,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "P19-1542",
+            "name": "Personalizing Dialogue Agents via Meta-Learning",
+            "publication_data": 2019,
+            "citation": 18,
+            "abstract": "Existing personalized dialogue models use human designed persona descriptions to improve dialogue consistency. Collecting such descriptions from existing dialogues is expensive and requires hand-crafted feature designs. In this paper, we propose to extend Model-Agnostic Meta-Learning (MAML) (Finn et al., 2017) to personalized dialogue learning without using any persona descriptions. Our model learns to quickly adapt to new personas by leveraging only a few dialogue samples collected from the same user, which is fundamentally different from conditioning the response on the persona descriptions. Empirical results on Persona-chat dataset (Zhang et al., 2018) indicate that our solution outperforms non-meta-learning baselines using automatic evaluation metrics, and in terms of human-evaluated fluency and consistency.",
+            "cx": 1320.6,
+            "cy": -206.35,
+            "rx": 108.789,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": "3",
+            "dasharray": null
+        },
+        {
+            "id": "2020.lrec-1.73",
+            "name": "Getting To Know You: User Attribute Extraction from Dialogues",
+            "publication_data": 2020,
+            "citation": "???",
+            "abstract": "User attributes provide rich and useful information for user understanding, yet structured and easy-to-use attributes are often sparsely populated. In this paper, we leverage dialogues with conversational agents, which contain strong suggestions of user information, to automatically extract user attributes. Since no existing dataset is available for this purpose, we apply distant supervision to train our proposed two-stage attribute extractor, which surpasses several retrieval and generation baselines on human evaluation. Meanwhile, we discuss potential applications (e.g., personalized recommendation and dialogue systems) of such extracted user attributes, and point out current limitations to cast light on future work.",
+            "cx": 1361.6,
+            "cy": -116.61,
+            "rx": 103.476,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "S19-2184",
+            "name": "Team yeon-zi at {S}em{E}val-2019 Task 4: Hyperpartisan News Detection by De-noising Weakly-labeled Data",
+            "publication_data": 2019,
+            "citation": 7,
+            "abstract": "This paper describes our system that has been submitted to SemEval-2019 Task 4: Hyperpartisan News Detection. We focus on removing the noise inherent in the hyperpartisanship dataset from both data-level and model-level by leveraging semi-supervised pseudo-labels and the state-of-the-art BERT model. Our model achieves 75.8{\\%} accuracy in the final by-article dataset without ensemble learning.",
+            "cx": 2052.6,
+            "cy": -206.35,
+            "rx": 81.135,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2020",
+            "citation_count": 2,
+            "name": 2,
+            "cx": 28.5975,
+            "cy": -116.61,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "W19-5508",
+            "name": "Learning to Learn Sales Prediction with Social Media Sentiment",
+            "publication_data": 2019,
+            "citation": "???",
+            "abstract": "None",
+            "cx": 1548.6,
+            "cy": -206.35,
+            "rx": 101.233,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2020.repl4nlp-1.1",
+            "name": "Zero-Resource Cross-Domain Named Entity Recognition",
+            "publication_data": 2020,
+            "citation": 1,
+            "abstract": "Existing models for cross-domain named entity recognition (NER) rely on numerous unlabeled corpus or labeled NER training data in target domains. However, collecting data for low-resource target domains is not only expensive but also time-consuming. Hence, we propose a cross-domain NER model that does not use any external resources. We first introduce a Multi-Task Learning (MTL) by adding a new objective function to detect whether tokens are named entities or not. We then introduce a framework called Mixture of Entity Experts (MoEE) to improve the robustness for zero-resource domain adaptation. Finally, experimental results show that our model outperforms strong unsupervised cross-domain sequence labeling models, and the performance of our model is close to that of the state-of-the-art model which leverages extensive resources.",
+            "cx": 1668.6,
+            "cy": -116.61,
+            "rx": 110.118,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2021.findings-acl.239",
+            "name": "Continual Mixed-Language Pre-Training for Extremely Low-Resource Neural Machine Translation",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "None",
+            "cx": 2039.6,
+            "cy": -26.8701,
+            "rx": 88.2768,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "W19-3655",
+            "name": "Exploring Social Bias in Chatbots using Stereotype Knowledge",
+            "publication_data": 2019,
+            "citation": "???",
+            "abstract": "Exploring social bias in chatbot is an important, yet relatively unexplored problem. In this paper, we propose an approach to understand social bias in chatbots by leveraging stereotype knowledge. It allows interesting comparison of bias between chatbots and humans, and provides intuitive analysis of existing chatbots by borrowing the finer-grain concepts of sexism and racism.",
+            "cx": 4089.6,
+            "cy": -206.35,
+            "rx": 96.7474,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021.sigdial-1.57",
+            "name": "Assessing Political Prudence of Open-domain Chatbots",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "Politically sensitive topics are still a challenge for open-domain chatbots. However, dealing with politically sensitive content in a responsible, non-partisan, and safe behavior way is integral for these chatbots. Currently, the main approach to handling political sensitivity is by simply changing such a topic when it is detected. This is safe but evasive and results in a chatbot that is less engaging. In this work, as a first step towards a politically safe chatbot, we propose a group of metrics for assessing their political prudence. We then conduct political prudence analysis of various chatbots and discuss their behavior from multiple angles through our automatic metric and human evaluation metrics. The testsets and codebase are released to promote research in this area.",
+            "cx": 3711.6,
+            "cy": -26.8701,
+            "rx": 88.2768,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2020.emnlp-main.587",
+            "name": "Cross-lingual Spoken Language Understanding with Regularized Representation Alignment",
+            "publication_data": 2020,
+            "citation": "???",
+            "abstract": "Despite the promising results of current cross-lingual models for spoken language understanding systems, they still suffer from imperfect cross-lingual representation alignments between the source and target languages, which makes the performance sub-optimal. To cope with this issue, we propose a regularization approach to further align word-level and sentence-level representations across languages without any external resource. First, we regularize the representation of user utterances based on their corresponding labels. Second, we regularize the latent variable model (Liu et al., 2019) by leveraging adversarial training to disentangle the latent variables. Experiments on the cross-lingual spoken language understanding task show that our model outperforms current state-of-the-art methods in both few-shot and zero-shot scenarios, and our model, trained on a few-shot setting with only 3{\\%} of the target language training data, achieves comparable performance to the supervised training with all the training data.",
+            "cx": 2699.6,
+            "cy": -116.61,
+            "rx": 103.476,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021.repl4nlp-1.13",
+            "name": "{X}2{P}arser: Cross-Lingual and Cross-Domain Framework for Task-Oriented Compositional Semantic Parsing",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "Task-oriented compositional semantic parsing (TCSP) handles complex nested user queries and serves as an essential component of virtual assistants. Current TCSP models rely on numerous training data to achieve decent performance but fail to generalize to low-resource target languages or domains. In this paper, we present X2Parser, a transferable Cross-lingual and Cross-domain Parser for TCSP. Unlike previous models that learn to generate the hierarchical representations for nested intents and slots, we propose to predict intents and slots separately and cast both prediction tasks into sequence labeling problems. After that, we further propose a fertility-based slot predictor that first learns to detect the number of labels for each token, and then predicts the slot types. Experimental results illustrate that our model can significantly outperform existing strong baselines in cross-lingual and cross-domain settings, and our model can also achieve a good generalization ability on target languages of target domains. Furthermore, we show that our model can reduce the latency by up to 66{\\%} compared to the generation-based model.",
+            "cx": 2429.6,
+            "cy": -26.8701,
+            "rx": 108.789,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021.emnlp-main.622",
+            "name": "Zero-Shot Dialogue State Tracking via Cross-Task Transfer",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "Zero-shot transfer learning for dialogue state tracking (DST) enables us to handle a variety of task-oriented dialogue domains without the expense of collecting in-domain data. In this work, we propose to transfer the cross-task knowledge from general question answering (QA) corpora for the zero-shot DST task. Specifically, we propose TransferQA, a transferable generative QA model that seamlessly combines extractive QA and multi-choice QA via a text-to-text transformer framework, and tracks both categorical slots and non-categorical slots in DST. In addition, we introduce two effective ways to construct unanswerable questions, namely, negative question sampling and context truncation, which enable our model to handle none value slots in the zero-shot DST setting. The extensive experiments show that our approaches substantially improve the existing zero-shot and few-shot results on MultiWoz. Moreover, compared to the fully trained baseline on the Schema-Guided Dialogue dataset, our approach shows better generalization ability in unseen domains.",
+            "cx": 1523.6,
+            "cy": -26.8701,
+            "rx": 107.46,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2020.findings-emnlp.41",
+            "name": "Exploring Versatile Generative Language Model Via Parameter-Efficient Transfer Learning",
+            "publication_data": 2020,
+            "citation": 0,
+            "abstract": "Fine-tuning pre-trained generative language models to down-stream language generation tasks has shown promising results. However, this comes with the cost of having a single, large model for each task, which is not ideal in low-memory/power scenarios (e.g., mobile). In this paper, we propose an effective way to fine-tune multiple down-stream generation tasks simultaneously using a single, large pretrained model. The experiments on five diverse language generation tasks show that by just using an additional 2-3{\\%} parameters for each task, our model can maintain or even improve the performance of fine-tuning the whole model.",
+            "cx": 1134.6,
+            "cy": -116.61,
+            "rx": 105.218,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2020.findings-emnlp.219",
+            "name": "Plug-and-Play Conversational Models",
+            "publication_data": 2020,
+            "citation": "???",
+            "abstract": "There has been considerable progress made towards conversational models that generate coherent and fluent responses; however, this often involves training large language models on large dialogue datasets, such as Reddit. These large conversational models provide little control over the generated responses, and this control is further limited in the absence of annotated conversational datasets for attribute specific generation that can be used for fine-tuning the model. In this paper, we first propose and evaluate plug-and-play methods for controllable response generation, which does not require dialogue specific datasets and does not rely on fine-tuning a large model. While effective, the decoding procedure induces considerable computational overhead, rendering the conversational model unsuitable for interactive usage. To overcome this, we introduce an approach that does not require further computation at decoding time, while also does not require any fine-tuning of a large language model. We demonstrate, through extensive automatic and human evaluation, a high degree of control over the generated conversational responses with regard to multiple desired attributes, while being fluent.",
+            "cx": 3207.6,
+            "cy": -116.61,
+            "rx": 111.946,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021.mrl-1.1",
+            "name": "Language Models are Few-shot Multilingual Learners",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "General-purpose language models have demonstrated impressive capabilities, performing on par with state-of-the-art approaches on a range of downstream natural language processing (NLP) tasks and benchmarks when inferring instructions from very few examples. Here, we evaluate the multilingual skills of the GPT and T5 models in conducting multi-class classification on non-English languages without any parameter updates. We show that, given a few English examples as context, pre-trained language models can predict not only English test samples but also non-English ones. Finally, we find the in-context few-shot cross-lingual prediction results of language models are significantly better than random prediction, and they are competitive compared to the existing state-of-the-art cross-lingual models and translation models.",
+            "cx": 2645.6,
+            "cy": -26.8701,
+            "rx": 89.191,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "D19-5827",
+            "name": "Generalizing Question Answering System with Pre-trained Language Model Fine-tuning",
+            "publication_data": 2019,
+            "citation": 1,
+            "abstract": "With a large number of datasets being released and new techniques being proposed, Question answering (QA) systems have witnessed great breakthroughs in reading comprehension (RC)tasks. However, most existing methods focus on improving in-domain performance, leaving open the research question of how these mod-els and techniques can generalize to out-of-domain and unseen RC tasks. To enhance the generalization ability, we propose a multi-task learning framework that learns the shared representation across different tasks. Our model is built on top of a large pre-trained language model, such as XLNet, and then fine-tuned on multiple RC datasets. Experimental results show the effectiveness of our methods, with an average Exact Match score of 56.59 and an average F1 score of 68.98, which significantly improves the BERT-Large baseline by8.39 and 7.22, respectively",
+            "cx": 4381.6,
+            "cy": -206.35,
+            "rx": 93.1765,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2020.nlpcovid19-2.14",
+            "name": "{CA}i{RE}-{COVID}: A Question Answering and Query-focused Multi-Document Summarization System for {COVID}-19 Scholarly Information Management",
+            "publication_data": 2020,
+            "citation": 0,
+            "abstract": "We present CAiRE-COVID, a real-time question answering (QA) and multi-document summarization system, which won one of the 10 tasks in the Kaggle COVID-19 Open Research Dataset Challenge, judged by medical experts. Our system aims to tackle the recent challenge of mining the numerous scientific articles being published on COVID-19 by answering high priority questions from the community and summarizing salient question-related information. It combines information extraction with state-of-the-art QA and query-focused multi-document summarization techniques, selecting and highlighting evidence snippets from existing literature given a query. We also propose query-focused abstractive and extractive multi-document summarization methods, to provide more relevant information related to the question. We further conduct quantitative experiments that show consistent improvements on various metrics for each module. We have launched our website CAiRE-COVID for broader use by the medical community, and have open-sourced the code for our system, to bootstrap further study by other researches.",
+            "cx": 4548.6,
+            "cy": -116.61,
+            "rx": 139.1,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2021.dialdoc-1.6",
+            "name": "{CA}i{RE} in {D}ial{D}oc21: Data Augmentation for Information Seeking Dialogue System",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "Information-seeking dialogue systems, including knowledge identification and response generation, aim to respond to users with fluent, coherent, and informative responses based on users{'} needs, which. To tackle this challenge, we utilize data augmentation methods and several training techniques with the pre-trained language models to learn a general pattern of the task and thus achieve promising performance. In DialDoc21 competition, our system achieved 74.95 F1 score and 60.74 Exact Match score in subtask 1, and 37.72 SacreBLEU score in subtask 2. Empirical analysis is provided to explain the effectiveness of our approaches.",
+            "cx": 3347.6,
+            "cy": -26.8701,
+            "rx": 92.7622,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2020.acl-main.3",
+            "name": "{C}oach: A Coarse-to-Fine Approach for Cross-domain Slot Filling",
+            "publication_data": 2020,
+            "citation": 1,
+            "abstract": "As an essential task in task-oriented dialog systems, slot filling requires extensive training data in a certain domain. However, such data are not always available. Hence, cross-domain slot filling has naturally arisen to cope with this data scarcity problem. In this paper, we propose a Coarse-to-fine approach (Coach) for cross-domain slot filling. Our model first learns the general pattern of slot entities by detecting whether the tokens are slot entities or not. It then predicts the specific types for the slot entities. In addition, we propose a template regularization approach to improve the adaptation robustness by regularizing the representation of utterances based on utterance templates. Experimental results show that our model significantly outperforms state-of-the-art approaches in slot filling. Furthermore, our model can also be applied to the cross-domain named entity recognition task, and it achieves better adaptation performance than other existing baselines. The code is available at https://github.com/zliucr/coach.",
+            "cx": 2452.6,
+            "cy": -116.61,
+            "rx": 88.2768,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2021.naacl-main.471",
+            "name": "{A}dapt{S}um: Towards Low-Resource Domain Adaptation for Abstractive Summarization",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "State-of-the-art abstractive summarization models generally rely on extensive labeled data, which lowers their generalization ability on domains where such data are not available. In this paper, we present a study of domain adaptation for the abstractive summarization task across six diverse target domains in a low-resource setting. Specifically, we investigate the second phase of pre-training on large-scale generative models under three different settings: 1) source domain pre-training; 2) domain-adaptive pre-training; and 3) task-adaptive pre-training. Experiments show that the effectiveness of pre-training is correlated with the similarity between the pre-training data and the target domain task. Moreover, we find that continuing pre-training could lead to the pre-trained model{'}s catastrophic forgetting, and a learning method with less forgetting can alleviate this issue. Furthermore, results illustrate that a huge gap still exists between the low-resource and high-resource settings, which highlights the need for more advanced domain adaptation methods for the abstractive summarization task.",
+            "cx": 1806.6,
+            "cy": -26.8701,
+            "rx": 126.644,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "D19-1360",
+            "name": "Hierarchical Meta-Embeddings for Code-Switching Named Entity Recognition",
+            "publication_data": 2019,
+            "citation": 1,
+            "abstract": "In countries that speak multiple main languages, mixing up different languages within a conversation is commonly called code-switching. Previous works addressing this challenge mainly focused on word-level aspects such as word embeddings. However, in many cases, languages share common subwords, especially for closely related languages, but also for languages that are seemingly irrelevant. Therefore, we propose Hierarchical Meta-Embeddings (HME) that learn to combine multiple monolingual word-level and subword-level embeddings to create language-agnostic lexical representations. On the task of Named Entity Recognition for English-Spanish code-switching data, our model achieves the state-of-the-art performance in the multilingual settings. We also show that, in cross-lingual settings, our model not only leverages closely related languages, but also learns from languages with different roots. Finally, we show that combining different subunits are crucial for capturing code-switching entities.",
+            "cx": 401.597,
+            "cy": -206.35,
+            "rx": 98.0761,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2021",
+            "citation_count": 0,
+            "name": 0,
+            "cx": 28.5975,
+            "cy": -26.8701,
+            "rx": 28.6953,
+            "ry": 18.0,
+            "stroke": "black",
+            "width": 1,
+            "dasharray": null
+        },
+        {
+            "id": "2021.naacl-main.417",
+            "name": "Multimodal End-to-End Sparse Model for Emotion Recognition",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "Existing works in multimodal affective computing tasks, such as emotion recognition and personality recognition, generally adopt a two-phase pipeline by first extracting feature representations for each single modality with hand crafted algorithms, and then performing end-to-end learning with extracted features. However, the extracted features are fixed and cannot be further fine-tuned on different target tasks, and manually finding feature extracting algorithms does not generalize or scale well to different tasks, which can lead to sub-optimal performance. In this paper, we develop a fully end-to-end model that connects the two phases and optimizes them jointly. In addition, we restructure the current datasets to enable the fully end-to-end training. Furthermore, to reduce the computational overhead brought by the end-to-end model, we introduce a sparse cross-modal attention mechanism for the feature extraction. Experimental results show that our fully end-to-end model significantly surpasses the current state-of-the-art models based on the two-phase pipeline. Moreover, by adding the sparse cross-modal attention, our model can maintain the performance with around half less computation in the feature extraction part of the model.",
+            "cx": 3927.6,
+            "cy": -26.8701,
+            "rx": 109.703,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2020.findings-emnlp.215",
+            "name": "Learning Knowledge Bases with Parameters for Task-Oriented Dialogue Systems",
+            "publication_data": 2020,
+            "citation": "???",
+            "abstract": "Task-oriented dialogue systems are either modularized with separate dialogue state tracking (DST) and management steps or end-to-end trainable. In either case, the knowledge base (KB) plays an essential role in fulfilling user requests. Modularized systems rely on DST to interact with the KB, which is expensive in terms of annotation and inference time. End-to-end systems, instead, use the KB directly as input, but they cannot scale when the KB is larger than a few hundred entries. In this paper, we propose a method to embed the KB, of any size, directly into the model parameters. The resulting model does not require any DST or template responses, nor the KB as input, and it can dynamically update its KB via fine-tuning. We evaluate our solution in five task-oriented dialogue datasets with small, medium, and large KB size. Our experiments show that end-to-end models can effectively embed knowledge bases in their parameters and achieve competitive performance in all evaluated datasets.",
+            "cx": 2987.6,
+            "cy": -116.61,
+            "rx": 90.5193,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2020.emnlp-main.226",
+            "name": "{MEGATRON}-{CNTRL}: Controllable Story Generation with External Knowledge Using Large-Scale Language Models",
+            "publication_data": 2020,
+            "citation": "???",
+            "abstract": "Existing pre-trained large language models have shown unparalleled generative capabilities. However, they are not controllable. In this paper, we propose MEGATRON-CNTRL, a novel framework that uses large-scale language models and adds control to text generation by incorporating an external knowledge base. Our framework consists of a keyword predictor, a knowledge retriever, a contextual knowledge ranker, and a conditional text generator. As we do not have access to ground-truth supervision for the knowledge ranker, we make use of weak supervision from sentence embedding. The empirical results show that our model generates more fluent, consistent, and coherent stories with less repetition and higher diversity compared to prior work on the ROC story dataset. We showcase the controllability of our model by replacing the keywords used to generate stories and re-running the generation process. Human evaluation results show that 77.5{\\%} of these stories are successfully controlled by the new keywords. Furthermore, by scaling our model from 124 million to 8.3 billion parameters we demonstrate that larger models improve both the quality of generation (from 74.5{\\%} to 93.0{\\%} for consistency) and controllability (from 77.5{\\%} to 91.5{\\%}).",
+            "cx": 3538.6,
+            "cy": -116.61,
+            "rx": 163.183,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2020.emnlp-main.273",
+            "name": "{M}in{TL}: Minimalist Transfer Learning for Task-Oriented Dialogue Systems",
+            "publication_data": 2020,
+            "citation": "???",
+            "abstract": "In this paper, we propose Minimalist Transfer Learning (MinTL) to simplify the system design process of task-oriented dialogue systems and alleviate the over-dependency on annotated data. MinTL is a simple yet effective transfer learning framework, which allows us to plug-and-play pre-trained seq2seq models, and jointly learn dialogue state tracking and dialogue response generation. Unlike previous approaches, which use a copy mechanism to {``}carryover{''} the old dialogue states to the new one, we introduce Levenshtein belief spans (Lev), that allows efficient dialogue state tracking with a minimal generation length. We instantiate our learning framework with two pre-trained backbones: T5 and BART, and evaluate them on MultiWOZ. Extensive experiments demonstrate that: 1) our systems establish new state-of-the-art results on end-to-end response generation, 2) MinTL-based systems are more robust than baseline methods in the low resource setting, and they achieve competitive results with only 20{\\%} training data, and 3) Lev greatly improves the inference efficiency.",
+            "cx": 2192.6,
+            "cy": -116.61,
+            "rx": 115.931,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021.emnlp-main.326",
+            "name": "Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "Multimodal abstractive summarization (MAS) models that summarize videos (vision modality) and their corresponding transcripts (text modality) are able to extract the essential information from massive multimodal data on the Internet. Recently, large-scale generative pre-trained language models (GPLMs) have been shown to be effective in text generation tasks. However, existing MAS models cannot leverage GPLMs{'} powerful generation ability. To fill this research gap, we aim to study two research questions: 1) how to inject visual information into GPLMs without hurting their generation ability; and 2) where is the optimal place in GPLMs to inject the visual information? In this paper, we present a simple yet effective method to construct vision guided (VG) GPLMs for the MAS task using attention-based add-on layers to incorporate visual information while maintaining their original text generation ability. Results show that our best model significantly surpasses the prior state-of-the-art model by 5.7 ROUGE-1, 5.3 ROUGE-2, and 5.1 ROUGE-L scores on the How2 dataset, and our vision guidance method contributes 83.6{\\%} of the overall improvement. Furthermore, we conduct thorough ablation studies to analyze the effectiveness of various modality fusion methods and fusion locations.",
+            "cx": 4143.6,
+            "cy": -26.8701,
+            "rx": 88.2768,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2020.aacl-main.85",
+            "name": "{I}ndo{NLU}: Benchmark and Resources for Evaluating {I}ndonesian Natural Language Understanding",
+            "publication_data": 2020,
+            "citation": "???",
+            "abstract": "Although Indonesian is known to be the fourth most frequently used language over the internet, the research progress on this language in natural language processing (NLP) is slow-moving due to a lack of available resources. In response, we introduce the first-ever vast resource for training, evaluation, and benchmarking on Indonesian natural language understanding (IndoNLU) tasks. IndoNLU includes twelve tasks, ranging from single sentence classification to pair-sentences sequence labeling with different levels of complexity. The datasets for the tasks lie in different domains and styles to ensure task diversity. We also provide a set of Indonesian pre-trained models (IndoBERT) trained from a large and clean Indonesian dataset (Indo4B) collected from publicly available sources such as social media texts, blogs, news, and websites. We release baseline models for all twelve tasks, as well as the framework for benchmark evaluation, thus enabling everyone to benchmark their system performances.",
+            "cx": 1946.6,
+            "cy": -116.61,
+            "rx": 112.36,
+            "ry": 26.7407,
+            "stroke": "black",
+            "width": null,
+            "dasharray": "5,2"
+        },
+        {
+            "id": "2021.findings-acl.275",
+            "name": "Improve Query Focused Abstractive Summarization by Incorporating Answer Relevance",
+            "publication_data": 2021,
+            "citation": "???",
+            "abstract": "None",
+            "cx": 2224.6,
+            "cy": -26.8701,
+            "rx": 78.4777,
+            "ry": 26.7407,
+            "stroke": "red",
+            "width": null,
+            "dasharray": "5,2"
+        }
+    ],
+    [
+        {
+            "source": "1994",
+            "target": "1995",
+            "d": "M28.5975,-1982.82C28.5975,-1967.46 28.5975,-1945.14 28.5975,-1929.77"
+        },
+        {
+            "source": "C94-2178",
+            "target": "1994.amta-1.11",
+            "d": "M1344.17,-2001.15C1346.66,-2001.15 1349.14,-2001.15 1351.63,-2001.15"
+        },
+        {
+            "source": "C94-2178",
+            "target": "W95-0114",
+            "d": "M1305.54,-1978.8C1332.45,-1966.82 1366.27,-1951.75 1394.89,-1939.01"
+        },
+        {
+            "source": "C94-2178",
+            "target": "P95-1032",
+            "d": "M1260.9,-1973.83C1261.9,-1965.86 1263.01,-1956.97 1264.08,-1948.48"
+        },
+        {
+            "source": "C94-2178",
+            "target": "P98-1069",
+            "d": "M1183.12,-1987.52C1107.97,-1970.37 995.811,-1931.73 943.597,-1848.54 928.545,-1824.56 934.694,-1792.31 943.383,-1767.96"
+        },
+        {
+            "source": "C94-2178",
+            "target": "C98-1066",
+            "d": "M1222.82,-1976.37C1210.91,-1966.18 1198.98,-1953.17 1192.6,-1938.28 1183.19,-1916.33 1187.1,-1907.79 1192.6,-1884.54 1202.83,-1841.31 1227.4,-1796.37 1245.86,-1766.75"
+        },
+        {
+            "source": "A94-1030",
+            "target": "W95-0114",
+            "d": "M1611.71,-1978.69C1582.94,-1966.55 1546.75,-1951.29 1516.36,-1938.46"
+        },
+        {
+            "source": "A94-1030",
+            "target": "1995.tmi-1.18",
+            "d": "M1664.1,-1973.83C1664.55,-1965.86 1665.06,-1956.97 1665.54,-1948.48"
+        },
+        {
+            "source": "1994.amta-1.11",
+            "target": "W95-0114",
+            "d": "M1454.6,-1973.83C1454.6,-1965.86 1454.6,-1956.97 1454.6,-1948.48"
+        },
+        {
+            "source": "1994.amta-1.11",
+            "target": "P95-1032",
+            "d": "M1407.18,-1977.79C1380.61,-1965.25 1347.44,-1949.6 1320.21,-1936.76"
+        },
+        {
+            "source": "1994.amta-1.11",
+            "target": "1995.tmi-1.18",
+            "d": "M1506.43,-1978.8C1536.45,-1966.44 1574.42,-1950.79 1605.96,-1937.8"
+        },
+        {
+            "source": "1995",
+            "target": "1997",
+            "d": "M28.5975,-1893.08C28.5975,-1877.72 28.5975,-1855.4 28.5975,-1840.03"
+        },
+        {
+            "source": "W95-0114",
+            "target": "P98-1069",
+            "d": "M1383.27,-1892.24C1370.45,-1889.37 1357.17,-1886.66 1344.6,-1884.54 1267.71,-1871.59 1055.93,-1897.92 995.597,-1848.54 972.188,-1829.38 963.721,-1795.24 960.794,-1769"
+        },
+        {
+            "source": "W95-0114",
+            "target": "C98-1066",
+            "d": "M1428.34,-1885.36C1395.06,-1853.6 1337.67,-1798.84 1301.5,-1764.33"
+        },
+        {
+            "source": "P95-1032",
+            "target": "W95-0114",
+            "d": "M1335.8,-1911.41C1338.28,-1911.41 1340.76,-1911.41 1343.24,-1911.41"
+        },
+        {
+            "source": "P95-1032",
+            "target": "1995.tmi-1.18",
+            "d": "M1303.44,-1934.72C1318.24,-1943.29 1336.1,-1951.95 1353.6,-1956.28 1440.74,-1977.87 1467.44,-1973.28 1555.6,-1956.28 1574.34,-1952.67 1593.93,-1945.94 1611.39,-1938.78"
+        },
+        {
+            "source": "P95-1032",
+            "target": "P98-1069",
+            "d": "M1202.47,-1906.44C1121.89,-1900.08 992.751,-1884.44 962.597,-1848.54 944.325,-1826.79 945.336,-1793.76 949.895,-1768.57"
+        },
+        {
+            "source": "P95-1032",
+            "target": "C98-1066",
+            "d": "M1268.6,-1884.22C1268.6,-1853.73 1268.6,-1803.18 1268.6,-1768.98"
+        },
+        {
+            "source": "1997",
+            "target": "1998",
+            "d": "M28.5975,-1803.34C28.5975,-1787.98 28.5975,-1765.66 28.5975,-1750.29"
+        },
+        {
+            "source": "W97-0119",
+            "target": "P98-1069",
+            "d": "M1058.06,-1796.93C1041.02,-1785.85 1020.61,-1772.59 1002.8,-1761.01"
+        },
+        {
+            "source": "W97-0119",
+            "target": "C98-1066",
+            "d": "M1138.96,-1798.3C1163.08,-1786.14 1193.01,-1771.05 1218.04,-1758.43"
+        },
+        {
+            "source": "W97-0119",
+            "target": "P99-1043",
+            "d": "M1084.98,-1794.61C1075.38,-1770.31 1059.26,-1733.62 1039.6,-1705.06 1032.43,-1694.65 1023.5,-1684.32 1014.78,-1675.17"
+        },
+        {
+            "source": "W97-0119",
+            "target": "W04-3208",
+            "d": "M1013.91,-1809.72C869.913,-1787.89 583.597,-1733.17 583.597,-1643.19 583.597,-1643.19 583.597,-1643.19 583.597,-1551.45 583.597,-1502.44 579.749,-1445.93 576.826,-1410.09"
+        },
+        {
+            "source": "W97-0119",
+            "target": "C04-1151",
+            "d": "M1112.94,-1795.34C1135.15,-1762.12 1169.6,-1701.23 1169.6,-1643.19 1169.6,-1643.19 1169.6,-1643.19 1169.6,-1551.45 1169.6,-1514.6 1393.29,-1436.36 1512.61,-1397.25"
+        },
+        {
+            "source": "1998",
+            "target": "1999",
+            "d": "M28.5975,-1713.6C28.5975,-1698.24 28.5975,-1675.92 28.5975,-1660.55"
+        },
+        {
+            "source": "P98-1069",
+            "target": "P99-1043",
+            "d": "M965.785,-1705.08C967.732,-1696.94 969.92,-1687.8 972.004,-1679.1"
+        },
+        {
+            "source": "P98-1069",
+            "target": "C02-1162",
+            "d": "M921.79,-1708.84C908.049,-1698.65 894.07,-1685.19 886.597,-1669.06 875.097,-1644.24 878.342,-1613.19 883.918,-1589.53"
+        },
+        {
+            "source": "P98-1069",
+            "target": "W04-3208",
+            "d": "M906.333,-1713.97C843.899,-1691.76 740.596,-1647.45 674.597,-1579.32 649.472,-1553.38 609.102,-1460.74 587.806,-1409.2"
+        },
+        {
+            "source": "P98-1069",
+            "target": "C04-1151",
+            "d": "M1011.02,-1713.1C1033.2,-1703.15 1057.83,-1688.73 1074.6,-1669.06 1145.77,-1585.55 1069.88,-1504.35 1155.6,-1435.84 1211.5,-1391.16 1405.09,-1412.05 1475.6,-1399.84 1484.92,-1398.23 1494.64,-1396.3 1504.27,-1394.24"
+        },
+        {
+            "source": "C98-1066",
+            "target": "P99-1043",
+            "d": "M1214.09,-1714.33C1167.61,-1700.17 1100.53,-1679.73 1050.18,-1664.39"
+        },
+        {
+            "source": "C98-1066",
+            "target": "C02-1162",
+            "d": "M1235.07,-1708.06C1197.28,-1682.98 1133.44,-1642.67 1074.6,-1615.32 1040.95,-1599.68 1002.18,-1585.81 969.341,-1575.18"
+        },
+        {
+            "source": "C98-1066",
+            "target": "C04-1151",
+            "d": "M1290.64,-1706.11C1346.34,-1643.39 1492.8,-1478.46 1555.94,-1407.37"
+        },
+        {
+            "source": "1999",
+            "target": "2002",
+            "d": "M28.5975,-1623.86C28.5975,-1608.5 28.5975,-1586.18 28.5975,-1570.81"
+        },
+        {
+            "source": "P99-1043",
+            "target": "C04-1151",
+            "d": "M989.516,-1615.13C1007.25,-1564.91 1047.96,-1457.77 1079.6,-1435.84 1152.22,-1385.5 1388.37,-1413.99 1475.6,-1399.84 1485.01,-1398.31 1494.82,-1396.43 1504.53,-1394.39"
+        },
+        {
+            "source": "P99-1043",
+            "target": "I05-1023",
+            "d": "M901.316,-1632.52C831.928,-1623.27 738.3,-1606.2 712.597,-1579.32 639.747,-1503.15 723.618,-1436.61 669.597,-1346.1 662.242,-1333.78 651.467,-1322.9 640.294,-1313.84"
+        },
+        {
+            "source": "P99-1043",
+            "target": "P06-2031",
+            "d": "M905.295,-1629.56C868.195,-1620.76 824.662,-1605.52 792.597,-1579.32 746.778,-1541.89 726.597,-1522.88 726.597,-1463.71 726.597,-1463.71 726.597,-1463.71 726.597,-1371.97 726.597,-1321.93 741.223,-1265.67 752.328,-1230.16"
+        },
+        {
+            "source": "2002",
+            "target": "2003",
+            "d": "M28.5975,-1534.12C28.5975,-1518.76 28.5975,-1496.44 28.5975,-1481.07"
+        },
+        {
+            "source": "C02-1162",
+            "target": "N04-4008",
+            "d": "M895.597,-1525.26C895.597,-1494.77 895.597,-1444.22 895.597,-1410.02"
+        },
+        {
+            "source": "C02-1162",
+            "target": "C04-1134",
+            "d": "M917.152,-1526C941.265,-1499.26 982.853,-1458.07 1027.6,-1435.84 1045.04,-1427.18 1140.49,-1408.27 1219.3,-1393.62"
+        },
+        {
+            "source": "C02-1162",
+            "target": "P06-2031",
+            "d": "M870.251,-1526.47C843.552,-1498.4 802.775,-1450.14 783.597,-1399.84 762.138,-1343.56 760.678,-1272.56 762.2,-1230.5"
+        },
+        {
+            "source": "2003",
+            "target": "2004",
+            "d": "M28.5975,-1444.38C28.5975,-1429.02 28.5975,-1406.7 28.5975,-1391.33"
+        },
+        {
+            "source": "W03-1203",
+            "target": "C10-1146",
+            "d": "M1715.6,-1435.55C1715.6,-1400.93 1715.6,-1338 1715.6,-1284.23 1715.6,-1284.23 1715.6,-1284.23 1715.6,-1102.75 1715.6,-1054.02 1715.6,-997.772 1715.6,-961.886"
+        },
+        {
+            "source": "2004",
+            "target": "2005",
+            "d": "M28.5975,-1354.64C28.5975,-1339.28 28.5975,-1316.96 28.5975,-1301.59"
+        },
+        {
+            "source": "W04-3208",
+            "target": "I05-1023",
+            "d": "M579.195,-1346.12C580.958,-1337.98 582.937,-1328.84 584.822,-1320.14"
+        },
+        {
+            "source": "N04-4010",
+            "target": "C04-1151",
+            "d": "M1134.31,-1396.3C1151.08,-1404.87 1171.2,-1413.53 1190.6,-1417.84 1250.47,-1431.14 1406.26,-1428.84 1466.6,-1417.84 1486.48,-1414.22 1507.36,-1407.45 1525.98,-1400.25"
+        },
+        {
+            "source": "C04-1134",
+            "target": "P06-2031",
+            "d": "M1258.31,-1349.85C1149.78,-1315.7 942.664,-1250.53 834.42,-1216.46"
+        },
+        {
+            "source": "2005",
+            "target": "2006",
+            "d": "M28.5975,-1264.9C28.5975,-1249.54 28.5975,-1227.22 28.5975,-1211.85"
+        },
+        {
+            "source": "I05-1023",
+            "target": "C12-1102",
+            "d": "M592.597,-1256.07C592.597,-1221.45 592.597,-1158.52 592.597,-1104.75 592.597,-1104.75 592.597,-1104.75 592.597,-923.271 592.597,-874.544 592.597,-818.292 592.597,-782.406"
+        },
+        {
+            "source": "2006",
+            "target": "2007",
+            "d": "M28.5975,-1175.16C28.5975,-1159.8 28.5975,-1137.48 28.5975,-1122.11"
+        },
+        {
+            "source": "2007",
+            "target": "2009",
+            "d": "M28.5975,-1085.42C28.5975,-1070.06 28.5975,-1047.74 28.5975,-1032.37"
+        },
+        {
+            "source": "2007.tmi-papers.10",
+            "target": "N09-2004",
+            "d": "M1876.21,-1076.9C1870.28,-1068.08 1863.56,-1058.08 1857.27,-1048.73"
+        },
+        {
+            "source": "2007.tmi-papers.10",
+            "target": "S15-2004",
+            "d": "M1912.44,-1077.12C1919.47,-1066.4 1926.89,-1053.52 1931.6,-1040.88 1949.79,-992.09 1950.6,-977.343 1950.6,-925.271 1950.6,-925.271 1950.6,-925.271 1950.6,-743.791 1950.6,-695.064 1950.6,-638.812 1950.6,-602.925"
+        },
+        {
+            "source": "2009",
+            "target": "2010",
+            "d": "M28.5975,-995.677C28.5975,-980.316 28.5975,-958.002 28.5975,-942.633"
+        },
+        {
+            "source": "2010",
+            "target": "2011",
+            "d": "M28.5975,-905.937C28.5975,-890.576 28.5975,-868.262 28.5975,-852.893"
+        },
+        {
+            "source": "2011",
+            "target": "2012",
+            "d": "M28.5975,-816.196C28.5975,-800.835 28.5975,-778.522 28.5975,-763.153"
+        },
+        {
+            "source": "P11-1133",
+            "target": "I11-1047",
+            "d": "M2155.09,-834.531C2157.41,-834.531 2159.72,-834.531 2162.04,-834.531"
+        },
+        {
+            "source": "2012",
+            "target": "2014",
+            "d": "M28.5975,-726.456C28.5975,-711.095 28.5975,-688.782 28.5975,-673.413"
+        },
+        {
+            "source": "li-etal-2012-mandarin",
+            "target": "W14-3907",
+            "d": "M2073.6,-717.466C2073.6,-709.499 2073.6,-700.608 2073.6,-692.12"
+        },
+        {
+            "source": "C12-1102",
+            "target": "W18-3207",
+            "d": "M592.597,-717.629C592.597,-683.009 592.597,-620.079 592.597,-566.311 592.597,-566.311 592.597,-566.311 592.597,-474.571 592.597,-424.014 609.967,-367.772 623.123,-332.423"
+        },
+        {
+            "source": "C12-1102",
+            "target": "K19-1026",
+            "d": "M687.732,-737.28C727.792,-729.594 771.536,-713.811 799.597,-681.921 833.996,-642.829 818.597,-618.382 818.597,-566.311 818.597,-566.311 818.597,-566.311 818.597,-384.831 818.597,-331.815 790.12,-276.275 768.497,-241.746"
+        },
+        {
+            "source": "C12-1102",
+            "target": "2020.acl-main.348",
+            "d": "M567.868,-718.56C538.836,-686.158 494.597,-626.851 494.597,-566.311 494.597,-566.311 494.597,-566.311 494.597,-384.831 494.597,-332.759 489.166,-315.205 513.597,-269.22 540.849,-217.929 558.979,-209.67 608.597,-179.48 636.953,-162.227 670.801,-148.903 701.266,-139.115"
+        },
+        {
+            "source": "2014",
+            "target": "2015",
+            "d": "M28.5975,-636.716C28.5975,-621.355 28.5975,-599.042 28.5975,-583.673"
+        },
+        {
+            "source": "D14-1098",
+            "target": "W18-3207",
+            "d": "M700.652,-628.092C688.68,-565.244 658.116,-404.802 644.418,-332.897"
+        },
+        {
+            "source": "D14-1098",
+            "target": "K19-1026",
+            "d": "M723.945,-628.717C746.148,-595.498 780.597,-534.608 780.597,-476.571 780.597,-476.571 780.597,-476.571 780.597,-384.831 780.597,-334.897 766.741,-278.609 756.222,-243.071"
+        },
+        {
+            "source": "2015",
+            "target": "2016",
+            "d": "M28.5975,-546.976C28.5975,-531.615 28.5975,-509.302 28.5975,-493.932"
+        },
+        {
+            "source": "2016",
+            "target": "2017",
+            "d": "M28.5975,-457.236C28.5975,-441.875 28.5975,-419.562 28.5975,-404.192"
+        },
+        {
+            "source": "N16-3018",
+            "target": "C16-2058",
+            "d": "M1054.75,-475.571C1057.21,-475.571 1059.68,-475.571 1062.14,-475.571"
+        },
+        {
+            "source": "N16-3018",
+            "target": "P17-4021",
+            "d": "M986.977,-449.193C993.852,-440.189 1001.7,-429.914 1009.01,-420.338"
+        },
+        {
+            "source": "L16-1079",
+            "target": "N16-1016",
+            "d": "M1613.09,-475.571C1615.53,-475.571 1617.98,-475.571 1620.43,-475.571"
+        },
+        {
+            "source": "D16-1110",
+            "target": "P17-4021",
+            "d": "M1294.63,-456.815C1240.13,-442.148 1162.88,-421.357 1106.75,-406.25"
+        },
+        {
+            "source": "D16-1110",
+            "target": "S19-2021",
+            "d": "M1330.8,-450.148C1271.71,-401.714 1139.72,-293.515 1073.72,-239.422"
+        },
+        {
+            "source": "D16-1110",
+            "target": "D19-1012",
+            "d": "M1426.71,-456.899C1438.31,-454.012 1450.28,-451.164 1461.6,-448.701 1770.46,-381.498 1885.42,-476.71 2161.6,-322.96 2196.5,-303.528 2225.81,-267.929 2244.32,-241.349"
+        },
+        {
+            "source": "2017",
+            "target": "2018",
+            "d": "M28.5975,-367.496C28.5975,-352.135 28.5975,-329.821 28.5975,-314.452"
+        },
+        {
+            "source": "W17-3006",
+            "target": "2020.semeval-1.272",
+            "d": "M4235.6,-358.722C4235.6,-310.828 4235.6,-208.836 4235.6,-154.11"
+        },
+        {
+            "source": "P17-4021",
+            "target": "S19-2021",
+            "d": "M1034.6,-358.643C1034.6,-328.146 1034.6,-277.594 1034.6,-243.402"
+        },
+        {
+            "source": "2018",
+            "target": "2019",
+            "d": "M28.5975,-277.756C28.5975,-262.395 28.5975,-240.081 28.5975,-224.712"
+        },
+        {
+            "source": "W18-6243",
+            "target": "S19-2021",
+            "d": "M2656.78,-276.509C2642.2,-273.571 2626.99,-270.94 2612.6,-269.22 1990.15,-194.842 1826.98,-289.036 1202.6,-233.22 1186.53,-231.784 1169.67,-229.782 1153.08,-227.521"
+        },
+        {
+            "source": "W18-6243",
+            "target": "D19-1012",
+            "d": "M2653.32,-277.372C2639.76,-274.521 2625.79,-271.697 2612.6,-269.22 2513.06,-250.542 2487.16,-251.73 2387.6,-233.22 2377.6,-231.361 2367.16,-229.313 2356.78,-227.208"
+        },
+        {
+            "source": "W18-6243",
+            "target": "D19-1129",
+            "d": "M2779.83,-271.808C2803.3,-260.239 2831.79,-246.199 2856.17,-234.179"
+        },
+        {
+            "source": "W18-6243",
+            "target": "D19-1303",
+            "d": "M2727,-269.24C2725.24,-261.102 2723.26,-251.962 2721.37,-243.255"
+        },
+        {
+            "source": "W18-6243",
+            "target": "2020.aacl-main.30",
+            "d": "M2825.32,-281.368C3003.36,-254.979 3405.43,-195.187 3743.6,-143.48 3758.14,-141.256 3773.4,-138.904 3788.53,-136.561"
+        },
+        {
+            "source": "W18-3207",
+            "target": "W19-4320",
+            "d": "M543.617,-280.414C474.437,-269.058 378.262,-252.12 294.597,-233.22 287.036,-231.512 279.172,-229.597 271.35,-227.603"
+        },
+        {
+            "source": "W18-3207",
+            "target": "K19-1026",
+            "d": "M668.259,-269.948C680.012,-260.31 693.575,-249.189 705.978,-239.018"
+        },
+        {
+            "source": "W18-3207",
+            "target": "2020.acl-main.348",
+            "d": "M624.897,-269.282C614.533,-244.15 604.32,-205.967 622.597,-179.48 637.536,-157.831 661.115,-143.751 685.746,-134.595"
+        },
+        {
+            "source": "W18-3207",
+            "target": "2021.calcs-1.20",
+            "d": "M622.366,-269.202C616.876,-258.451 611.357,-245.61 608.597,-233.22 603.405,-209.907 602.494,-202.572 608.597,-179.48 621.22,-131.721 657.436,-87.1008 684.686,-58.8043"
+        },
+        {
+            "source": "W18-3214",
+            "target": "W19-4320",
+            "d": "M199.597,-268.765C199.597,-260.799 199.597,-251.908 199.597,-243.419"
+        },
+        {
+            "source": "W18-3214",
+            "target": "K19-1026",
+            "d": "M273.95,-283.12C369.328,-267.765 535.204,-241.061 642.399,-223.803"
+        },
+        {
+            "source": "W18-3214",
+            "target": "2021.calcs-1.20",
+            "d": "M148.962,-274.448C131.693,-264.67 114.306,-251.129 104.597,-233.22 93.2145,-212.223 91.3549,-199.357 104.597,-179.48 164.35,-89.7911 493.883,-48.4412 643.572,-34.0823"
+        },
+        {
+            "source": "S18-1039",
+            "target": "W19-5327",
+            "d": "M2488.9,-269.24C2490.57,-261.102 2492.45,-251.962 2494.23,-243.255"
+        },
+        {
+            "source": "S18-1039",
+            "target": "S19-2021",
+            "d": "M2373.77,-285.099C2311.56,-279.733 2232.28,-273.384 2161.6,-269.22 1735.81,-244.136 1627.19,-273.745 1202.6,-233.22 1186.78,-231.711 1170.19,-229.693 1153.85,-227.446"
+        },
+        {
+            "source": "S18-1039",
+            "target": "D19-1303",
+            "d": "M2542.53,-272.609C2575.48,-260.039 2616.56,-244.368 2650.2,-231.533"
+        },
+        {
+            "source": "P18-2096",
+            "target": "W19-4331",
+            "d": "M4608.6,-268.765C4608.6,-260.799 4608.6,-251.908 4608.6,-243.419"
+        },
+        {
+            "source": "P18-1136",
+            "target": "D18-1143",
+            "d": "M1935.06,-296.09C1937.51,-296.09 1939.97,-296.09 1942.42,-296.09"
+        },
+        {
+            "source": "P18-1136",
+            "target": "P19-1078",
+            "d": "M1820.5,-268.765C1821.68,-260.799 1823,-251.908 1824.25,-243.419"
+        },
+        {
+            "source": "P18-1136",
+            "target": "P19-1542",
+            "d": "M1719.63,-280.682C1643.12,-268.962 1533.79,-251.433 1438.6,-233.22 1428.94,-231.373 1418.87,-229.335 1408.85,-227.238"
+        },
+        {
+            "source": "P18-1136",
+            "target": "D19-1012",
+            "d": "M1901.94,-277.438C1915.85,-274.638 1930.12,-271.812 1943.6,-269.22 2031.86,-252.249 2054.39,-250.472 2142.6,-233.22 2152.58,-231.268 2163,-229.17 2173.38,-227.042"
+        },
+        {
+            "source": "P18-1136",
+            "target": "2020.lrec-1.73",
+            "d": "M1759.38,-272.473C1738.25,-262.425 1714.99,-249.215 1696.6,-233.22 1674.52,-214.027 1683.06,-195.52 1658.6,-179.48 1649.83,-173.733 1537.12,-151.208 1453.12,-134.994"
+        },
+        {
+            "source": "D18-1143",
+            "target": "S19-2184",
+            "d": "M2052.6,-268.765C2052.6,-260.799 2052.6,-251.908 2052.6,-243.419"
+        },
+        {
+            "source": "2019",
+            "target": "2020",
+            "d": "M28.5975,-188.016C28.5975,-172.655 28.5975,-150.341 28.5975,-134.972"
+        },
+        {
+            "source": "W19-5508",
+            "target": "2020.acl-main.348",
+            "d": "M1477.89,-187.128C1464.89,-184.232 1451.38,-181.523 1438.6,-179.48 1254.47,-150.059 1206.17,-161.683 1020.6,-143.48 978.515,-139.352 932.246,-134.357 891.975,-129.861"
+        },
+        {
+            "source": "W19-5327",
+            "target": "D19-1129",
+            "d": "M2553.45,-229.837C2574.99,-238.375 2600.53,-246.968 2624.6,-251.22 2702.5,-264.986 2725.01,-266.696 2802.6,-251.22 2820.57,-247.635 2839.3,-240.998 2856.02,-233.907"
+        },
+        {
+            "source": "W19-5327",
+            "target": "2020.repl4nlp-1.1",
+            "d": "M2428.98,-186.874C2415.62,-184.004 2401.75,-181.369 2388.6,-179.48 2125.92,-141.741 2055.63,-178.672 1792.6,-143.48 1780.93,-141.92 1768.73,-139.881 1756.71,-137.632"
+        },
+        {
+            "source": "W19-5327",
+            "target": "2021.findings-acl.239",
+            "d": "M2434.11,-185.649C2407.81,-175.798 2378.54,-161.958 2355.6,-143.48 2332.82,-125.13 2342.12,-105.682 2317.6,-89.7401 2249.19,-45.2789 2217.08,-72.1603 2137.6,-53.7401 2129.8,-51.9324 2121.67,-49.9501 2113.59,-47.9122"
+        },
+        {
+            "source": "W19-4320",
+            "target": "K19-1026",
+            "d": "M242.831,-229.694C261.039,-238.268 282.799,-246.925 303.597,-251.22 369.975,-264.929 541.678,-261.974 608.597,-251.22 631.799,-247.492 656.406,-240.4 678.218,-232.937"
+        },
+        {
+            "source": "W19-4320",
+            "target": "D19-1129",
+            "d": "M242.831,-229.694C261.039,-238.268 282.799,-246.925 303.597,-251.22 371.58,-265.26 2734.52,-264.799 2802.6,-251.22 2820.57,-247.635 2839.3,-240.998 2856.02,-233.907"
+        },
+        {
+            "source": "W19-4320",
+            "target": "2021.calcs-1.20",
+            "d": "M241.039,-182.718C289.395,-157.099 372.341,-115.58 447.597,-89.7401 513.859,-66.9891 592.143,-50.0958 647.308,-39.7611"
+        },
+        {
+            "source": "W19-3655",
+            "target": "2021.sigdial-1.57",
+            "d": "M4093.34,-179.335C4095.54,-152.921 4094.2,-112.732 4070.6,-89.7401 4028.5,-48.7348 3866.21,-65.3347 3808.6,-53.7401 3800.7,-52.1511 3792.5,-50.2929 3784.35,-48.3143"
+        },
+        {
+            "source": "S19-2021",
+            "target": "W19-5508",
+            "d": "M1110.47,-229.989C1141.49,-238.493 1177.94,-247.02 1211.6,-251.22 1307.74,-263.217 1334.28,-268.594 1429.6,-251.22 1449.48,-247.596 1470.36,-240.826 1488.98,-233.624"
+        },
+        {
+            "source": "S19-2021",
+            "target": "W19-5327",
+            "d": "M1110.47,-229.989C1141.49,-238.493 1177.94,-247.02 1211.6,-251.22 1340.38,-267.289 2251.83,-273.971 2379.6,-251.22 2400.03,-247.582 2421.53,-240.767 2440.69,-233.528"
+        },
+        {
+            "source": "S19-2021",
+            "target": "D19-1012",
+            "d": "M1110.47,-229.989C1141.49,-238.493 1177.94,-247.02 1211.6,-251.22 1313.25,-263.905 2032.52,-267.929 2133.6,-251.22 2155.86,-247.54 2179.41,-240.59 2200.36,-233.24"
+        },
+        {
+            "source": "S19-2021",
+            "target": "D19-1303",
+            "d": "M1110.47,-229.989C1141.49,-238.493 1177.94,-247.02 1211.6,-251.22 1288.5,-260.816 2530.62,-266.506 2606.6,-251.22 2624.43,-247.633 2642.99,-240.996 2659.55,-233.906"
+        },
+        {
+            "source": "S19-2021",
+            "target": "2021.calcs-1.20",
+            "d": "M1010.9,-179.515C985.928,-153.63 944.344,-114.214 901.597,-89.7401 865.105,-68.8475 820.477,-53.6236 784.311,-43.5056"
+        },
+        {
+            "source": "S19-2184",
+            "target": "W19-5327",
+            "d": "M2093.63,-229.686C2110.94,-238.258 2131.68,-246.917 2151.6,-251.22 2250.65,-272.619 2279.83,-268.985 2379.6,-251.22 2400.03,-247.582 2421.53,-240.767 2440.69,-233.528"
+        },
+        {
+            "source": "S19-2184",
+            "target": "D19-1012",
+            "d": "M2134.14,-206.35C2136.59,-206.35 2139.05,-206.35 2141.5,-206.35"
+        },
+        {
+            "source": "S19-2184",
+            "target": "D19-1129",
+            "d": "M2093.63,-229.686C2110.94,-238.258 2131.68,-246.917 2151.6,-251.22 2222.3,-266.495 2731.66,-265.37 2802.6,-251.22 2820.57,-247.635 2839.3,-240.998 2856.02,-233.907"
+        },
+        {
+            "source": "S19-2184",
+            "target": "D19-1303",
+            "d": "M2093.63,-229.686C2110.94,-238.258 2131.68,-246.917 2151.6,-251.22 2250.43,-272.572 2507.47,-271.163 2606.6,-251.22 2624.43,-247.633 2642.99,-240.996 2659.55,-233.906"
+        },
+        {
+            "source": "S19-2184",
+            "target": "2020.semeval-1.272",
+            "d": "M2108.75,-186.776C2119.85,-183.797 2131.5,-181.149 2142.6,-179.48 2566.35,-115.746 3643.7,-180.755 4070.6,-143.48 4091.67,-141.64 4114.13,-138.748 4135.48,-135.553"
+        },
+        {
+            "source": "S19-2184",
+            "target": "2020.repl4nlp-1.1",
+            "d": "M1993.7,-187.758C1983.37,-184.862 1972.7,-181.99 1962.6,-179.48 1952.6,-176.994 1842.85,-153.988 1760.35,-136.752"
+        },
+        {
+            "source": "S19-2184",
+            "target": "2021.sigdial-1.57",
+            "d": "M2108.76,-186.814C2119.86,-183.832 2131.51,-181.172 2142.6,-179.48 2185.67,-172.908 3680.01,-174.506 3710.6,-143.48 3730.75,-123.037 3728.7,-89.3541 3722.96,-63.6042"
+        },
+        {
+            "source": "P19-1078",
+            "target": "2020.lrec-1.73",
+            "d": "M1738.71,-188.073C1723.01,-185.156 1706.84,-182.196 1691.6,-179.48 1597.08,-162.634 1572.83,-161.85 1478.6,-143.48 1468.46,-141.505 1457.86,-139.322 1447.35,-137.088"
+        },
+        {
+            "source": "P19-1078",
+            "target": "2020.emnlp-main.587",
+            "d": "M1915.54,-186.887C1931.14,-184.034 1947.31,-181.402 1962.6,-179.48 2236.46,-145.052 2309.19,-181.397 2582.6,-143.48 2593.67,-141.944 2605.26,-139.912 2616.65,-137.661"
+        },
+        {
+            "source": "P19-1078",
+            "target": "2020.aacl-main.30",
+            "d": "M1914.05,-186.669C1930.1,-183.761 1946.81,-181.166 1962.6,-179.48 2735.26,-96.9944 2935.72,-201.653 3710.6,-143.48 3735.03,-141.646 3761.05,-138.868 3785.94,-135.803"
+        },
+        {
+            "source": "P19-1078",
+            "target": "2021.repl4nlp-1.13",
+            "d": "M1738.73,-188.092C1659.31,-172.573 1555.71,-151.085 1549.6,-143.48 1534.64,-124.858 1533.11,-107.023 1549.6,-89.7401 1578.85,-59.0736 2269.58,-59.2978 2311.6,-53.7401 2322.26,-52.3293 2333.39,-50.4452 2344.37,-48.334"
+        },
+        {
+            "source": "P19-1078",
+            "target": "2021.emnlp-main.622",
+            "d": "M1738.5,-188.052C1646.74,-170.524 1518.4,-145.677 1516.6,-143.48 1498.57,-121.536 1502.56,-88.6112 1509.77,-63.5042"
+        },
+        {
+            "source": "P19-1542",
+            "target": "W19-5508",
+            "d": "M1429.7,-206.35C1432.18,-206.35 1434.66,-206.35 1437.14,-206.35"
+        },
+        {
+            "source": "P19-1542",
+            "target": "D19-1012",
+            "d": "M1374.21,-229.84C1396.46,-238.38 1422.82,-246.972 1447.6,-251.22 1522.72,-264.101 2058.4,-263.652 2133.6,-251.22 2155.86,-247.54 2179.41,-240.59 2200.36,-233.24"
+        },
+        {
+            "source": "P19-1542",
+            "target": "2020.lrec-1.73",
+            "d": "M1332.68,-179.5C1336.6,-171.096 1341.03,-161.625 1345.22,-152.665"
+        },
+        {
+            "source": "P19-1542",
+            "target": "2020.findings-emnlp.41",
+            "d": "M1271.73,-182.298C1247.38,-170.812 1217.78,-156.847 1192.32,-144.837"
+        },
+        {
+            "source": "P19-1542",
+            "target": "2020.findings-emnlp.219",
+            "d": "M1395.13,-186.722C1409.47,-183.789 1424.44,-181.171 1438.6,-179.48 2166.49,-92.5784 2359.55,-229.112 3087.6,-143.48 3098.65,-142.181 3110.18,-140.335 3121.54,-138.22"
+        },
+        {
+            "source": "P19-1542",
+            "target": "2020.acl-main.348",
+            "d": "M1242.68,-187.477C1229.34,-184.644 1215.59,-181.866 1202.6,-179.48 1096.59,-160.019 974.553,-142.475 890.009,-131.081"
+        },
+        {
+            "source": "P19-1542",
+            "target": "2020.aacl-main.30",
+            "d": "M1395.12,-186.653C1409.47,-183.726 1424.43,-181.128 1438.6,-179.48 1940.17,-121.121 3206.97,-180.087 3710.6,-143.48 3735.11,-141.699 3761.22,-138.935 3786.18,-135.866"
+        },
+        {
+            "source": "K19-1026",
+            "target": "2020.acl-main.348",
+            "d": "M756.677,-179.5C760.604,-171.096 765.03,-161.625 769.217,-152.665"
+        },
+        {
+            "source": "K19-1026",
+            "target": "2021.mrl-1.1",
+            "d": "M822.011,-186.659C836.736,-183.752 852.08,-181.16 866.597,-179.48 959.499,-168.733 2467.01,-187.358 2549.6,-143.48 2575.43,-129.756 2569.11,-112.407 2587.6,-89.7401 2595.75,-79.748 2605.11,-69.351 2613.9,-59.9957"
+        },
+        {
+            "source": "K19-1026",
+            "target": "2021.calcs-1.20",
+            "d": "M702.611,-181.137C689.554,-171.273 676.723,-158.596 669.597,-143.48 659.413,-121.876 661.86,-112.337 669.597,-89.7401 673.239,-79.1051 679.536,-68.8855 686.393,-59.9225"
+        },
+        {
+            "source": "D19-5827",
+            "target": "2020.semeval-1.272",
+            "d": "M4342.47,-181.838C4324.75,-171.189 4303.61,-158.484 4284.83,-147.196"
+        },
+        {
+            "source": "D19-5827",
+            "target": "2020.nlpcovid19-2.14",
+            "d": "M4425.04,-182.527C4445.85,-171.593 4471.01,-158.374 4493.18,-146.725"
+        },
+        {
+            "source": "D19-5827",
+            "target": "2021.dialdoc-1.6",
+            "d": "M4385.7,-179.398C4388.28,-152.638 4387.35,-111.801 4362.6,-89.7401 4331.54,-62.058 3656.09,-56.7471 3614.6,-53.7401 3557.66,-49.6141 3494.03,-43.5081 3443.18,-38.2642"
+        },
+        {
+            "source": "D19-1129",
+            "target": "2020.repl4nlp-1.1",
+            "d": "M2848.45,-186.884C2836.32,-183.916 2823.64,-181.244 2811.6,-179.48 2363.21,-113.796 2242.48,-197.954 1792.6,-143.48 1780.74,-142.045 1768.34,-140.055 1756.15,-137.809"
+        },
+        {
+            "source": "D19-1129",
+            "target": "2020.emnlp-main.587",
+            "d": "M2859.52,-184.111C2830.23,-171.931 2793.23,-156.546 2762.2,-143.643"
+        },
+        {
+            "source": "D19-1129",
+            "target": "2020.acl-main.3",
+            "d": "M2846.11,-187.542C2834.66,-184.654 2822.81,-181.84 2811.6,-179.48 2712.93,-158.71 2686.9,-160.971 2587.6,-143.48 2570.7,-140.504 2552.65,-137.16 2535.42,-133.888"
+        },
+        {
+            "source": "D19-1129",
+            "target": "2020.aacl-main.30",
+            "d": "M2998.97,-201.128C3151.32,-193.326 3473.11,-174.551 3743.6,-143.48 3759.32,-141.675 3775.82,-139.473 3792.08,-137.124"
+        },
+        {
+            "source": "D19-1129",
+            "target": "2021.repl4nlp-1.13",
+            "d": "M2881.01,-180.701C2868.99,-169.932 2855.42,-156.746 2844.6,-143.48 2826.88,-121.76 2835.08,-105.049 2811.6,-89.7401 2712.4,-25.0603 2664.19,-74.4366 2547.6,-53.7401 2537.66,-51.9763 2527.29,-49.9614 2517,-47.8523"
+        },
+        {
+            "source": "D19-1129",
+            "target": "2021.naacl-main.471",
+            "d": "M2848.44,-186.896C2836.32,-183.927 2823.64,-181.251 2811.6,-179.48 2757.37,-171.503 1866.73,-179.715 1825.6,-143.48 1803.73,-124.218 1800.39,-90.3086 1801.68,-64.1785"
+        },
+        {
+            "source": "D19-1129",
+            "target": "2021.mrl-1.1",
+            "d": "M2902.24,-179.519C2892.46,-153.256 2873.79,-113.188 2844.6,-89.7401 2813.53,-64.7809 2772.35,-49.8459 2735.52,-40.9296"
+        },
+        {
+            "source": "D19-1129",
+            "target": "2021.dialdoc-1.6",
+            "d": "M3000.13,-204.078C3108.88,-200.561 3283.44,-187.927 3328.6,-143.48 3349.24,-123.165 3352.8,-89.6853 3351.89,-63.9687"
+        },
+        {
+            "source": "D19-1360",
+            "target": "2021.calcs-1.20",
+            "d": "M420.178,-179.573C440.367,-153.353 474.952,-113.32 513.597,-89.7401 554.458,-64.808 606.102,-49.2762 647.204,-40.01"
+        },
+        {
+            "source": "2020",
+            "target": "2021",
+            "d": "M28.5975,-98.2755C28.5975,-82.9146 28.5975,-60.601 28.5975,-45.2319"
+        },
+        {
+            "source": "2020.semeval-1.272",
+            "target": "2021.naacl-main.417",
+            "d": "M4163.77,-95.1497C4116.79,-81.7666 4055.38,-64.2729 4006.96,-50.4784"
+        },
+        {
+            "source": "2020.repl4nlp-1.1",
+            "target": "2020.acl-main.3",
+            "d": "M1733.62,-138.458C1763.93,-147.531 1800.71,-156.981 1834.6,-161.48 1946.28,-176.309 2231,-182.988 2341.6,-161.48 2360.36,-157.831 2379.97,-151.013 2397.39,-143.773"
+        },
+        {
+            "source": "2020.repl4nlp-1.1",
+            "target": "2021.naacl-main.471",
+            "d": "M1707.04,-91.1697C1723.2,-80.8929 1742.17,-68.8336 1759.19,-58.0132"
+        },
+        {
+            "source": "2020.findings-emnlp.41",
+            "target": "2020.findings-emnlp.219",
+            "d": "M1186.89,-140.098C1208.61,-148.636 1234.36,-157.229 1258.6,-161.48 1358.19,-178.945 2978.9,-178.324 3078.6,-161.48 3100.3,-157.814 3123.21,-150.91 3143.62,-143.596"
+        },
+        {
+            "source": "2020.findings-emnlp.215",
+            "target": "2021.mrl-1.1",
+            "d": "M2920.44,-98.3802C2863.31,-83.725 2781.31,-62.6863 2721.75,-47.4073"
+        },
+        {
+            "source": "2020.findings-emnlp.215",
+            "target": "2021.dialdoc-1.6",
+            "d": "M3053.58,-98.1448C3064.59,-95.2932 3075.91,-92.4028 3086.6,-89.7401 3146.88,-74.7214 3215.21,-58.5546 3266.83,-46.5145"
+        },
+        {
+            "source": "2020.findings-emnlp.219",
+            "target": "2021.dialdoc-1.6",
+            "d": "M3246.6,-91.1697C3263.56,-80.5372 3283.57,-67.9966 3301.29,-56.8941"
+        },
+        {
+            "source": "2020.emnlp-main.226",
+            "target": "2021.dialdoc-1.6",
+            "d": "M3485.39,-91.1697C3460.32,-79.6538 3430.38,-65.8995 3404.82,-54.1585"
+        },
+        {
+            "source": "2020.emnlp-main.273",
+            "target": "2021.mrl-1.1",
+            "d": "M2285.12,-100.408C2373.05,-85.794 2498.86,-64.4002 2547.6,-53.7401 2555.42,-52.0294 2563.56,-50.1096 2571.65,-48.1091"
+        },
+        {
+            "source": "2020.emnlp-main.273",
+            "target": "2021.emnlp-main.622",
+            "d": "M2111.14,-97.3601C2096.69,-94.5201 2081.74,-91.8374 2067.6,-89.7401 1892.35,-63.7452 1846.22,-77.1143 1670.6,-53.7401 1653.42,-51.4538 1635.19,-48.5966 1617.62,-45.6228"
+        },
+        {
+            "source": "2020.acl-main.3",
+            "target": "2020.emnlp-main.587",
+            "d": "M2541.36,-116.61C2556.18,-116.61 2570.99,-116.61 2585.81,-116.61"
+        },
+        {
+            "source": "2020.acl-main.3",
+            "target": "2020.aacl-main.30",
+            "d": "M2507.07,-137.853C2533.63,-147.102 2566.31,-156.871 2596.6,-161.48 2721.6,-180.505 3609.15,-177.307 3734.6,-161.48 3764.52,-157.705 3796.66,-150.435 3825.12,-142.828"
+        },
+        {
+            "source": "2020.acl-main.3",
+            "target": "2021.repl4nlp-1.13",
+            "d": "M2445.82,-89.7598C2443.69,-81.6214 2441.29,-72.4816 2439.01,-63.7749"
+        },
+        {
+            "source": "2020.acl-main.3",
+            "target": "2021.naacl-main.471",
+            "d": "M2381.34,-100.663C2360.83,-96.712 2338.38,-92.723 2317.6,-89.7401 2151.86,-65.9582 2108.35,-77.4094 1942.6,-53.7401 1930.58,-52.0243 1918.01,-49.9787 1905.58,-47.8003"
+        },
+        {
+            "source": "2020.acl-main.348",
+            "target": "2021.calcs-1.20",
+            "d": "M765.563,-89.7598C758.533,-80.6894 750.54,-70.3751 743.121,-60.8028"
+        },
+        {
+            "source": "2020.aacl-main.30",
+            "target": "2021.naacl-main.417",
+            "d": "M3915,-89.2852C3916.63,-81.3185 3918.46,-72.4275 3920.2,-63.9391"
+        },
+        {
+            "source": "2020.aacl-main.30",
+            "target": "2021.emnlp-main.326",
+            "d": "M3972.31,-92.0974C4005.57,-79.6233 4046.37,-64.3276 4079.8,-51.7925"
+        },
+        {
+            "source": "2020.aacl-main.85",
+            "target": "2021.mrl-1.1",
+            "d": "M2024.75,-97.2794C2038.95,-94.4127 2053.67,-91.7418 2067.6,-89.7401 2279.35,-59.3058 2336.62,-89.1905 2547.6,-53.7401 2556.05,-52.3207 2564.82,-50.5056 2573.5,-48.4967"
+        },
+        {
+            "source": "2020.aacl-main.85",
+            "target": "2021.calcs-1.20",
+            "d": "M1858.93,-99.6784C1835.8,-95.9324 1810.81,-92.2927 1787.6,-89.7401 1416.06,-48.8844 968.793,-34.0515 793.393,-29.5578"
+        },
+        {
+            "source": "2021.repl4nlp-1.13",
+            "target": "2021.mrl-1.1",
+            "d": "M2538.86,-26.8701C2541.33,-26.8701 2543.79,-26.8701 2546.25,-26.8701"
+        },
+        {
+            "source": "2021.naacl-main.417",
+            "target": "2021.emnlp-main.326",
+            "d": "M4037.28,-26.8701C4039.89,-26.8701 4042.49,-26.8701 4045.1,-26.8701"
+        },
+        {
+            "source": "2021.naacl-main.471",
+            "target": "2021.findings-acl.239",
+            "d": "M1933.56,-26.8701C1936.01,-26.8701 1938.46,-26.8701 1940.9,-26.8701"
+        },
+        {
+            "source": "2021.naacl-main.471",
+            "target": "2021.findings-acl.275",
+            "d": "M1868.09,-50.3739C1893.53,-58.9151 1923.59,-67.5054 1951.6,-71.7401 2028.94,-83.4335 2051.2,-88.5533 2127.6,-71.7401 2143.8,-68.1732 2160.53,-61.6219 2175.43,-54.6069"
+        },
+        {
+            "source": "2021.naacl-main.471",
+            "target": "2021.emnlp-main.326",
+            "d": "M1868.09,-50.3739C1893.53,-58.9151 1923.59,-67.5054 1951.6,-71.7401 2066.18,-89.0642 3924.02,-94.7882 4037.6,-71.7401 4055.28,-68.152 4073.67,-61.5142 4090.08,-54.4239"
+        },
+        {
+            "source": "2021.calcs-1.20",
+            "target": "2021.mrl-1.1",
+            "d": "M782.098,-32.398C905.29,-42.6475 1182.63,-64.2384 1416.6,-71.7401 1541.2,-75.7352 2416.38,-96.3287 2538.6,-71.7401 2556.43,-68.1532 2574.99,-61.5158 2591.55,-54.4255"
+        },
+        {
+            "source": "2021.calcs-1.20",
+            "target": "2021.findings-acl.239",
+            "d": "M781.761,-33.2101C999.683,-54.1224 1710.26,-117.063 1933.6,-71.7401 1951.28,-68.152 1969.67,-61.5142 1986.08,-54.4239"
+        }
+    ],
+    [
+        {
+            "id": "1994",
+            "name": "1994",
+            "x": "28.5975",
+            "y": "-1997.45"
+        },
+        {
+            "id": "1995",
+            "name": "1995",
+            "x": "28.5975",
+            "y": "-1907.71"
+        },
+        {
+            "id": "C94-2178",
+            "name": "pascale1994K-vec:",
+            "x": "1257.6",
+            "y": "-2004.95"
+        },
+        {
+            "id": "C94-2178",
+            "name": "129",
+            "x": "1257.6",
+            "y": "-1989.95"
+        },
+        {
+            "id": "1994.amta-1.11",
+            "name": "pascale1994Aligning",
+            "x": "1454.6",
+            "y": "-2004.95"
+        },
+        {
+            "id": "1994.amta-1.11",
+            "name": "24",
+            "x": "1454.6",
+            "y": "-1989.95"
+        },
+        {
+            "id": "W95-0114",
+            "name": "pascale1995Compiling",
+            "x": "1454.6",
+            "y": "-1915.21"
+        },
+        {
+            "id": "W95-0114",
+            "name": "141",
+            "x": "1454.6",
+            "y": "-1900.21"
+        },
+        {
+            "id": "P95-1032",
+            "name": "pascale1995A",
+            "x": "1268.6",
+            "y": "-1915.21"
+        },
+        {
+            "id": "P95-1032",
+            "name": "81",
+            "x": "1268.6",
+            "y": "-1900.21"
+        },
+        {
+            "id": "P98-1069",
+            "name": "pascale1998An",
+            "x": "959.597",
+            "y": "-1735.73"
+        },
+        {
+            "id": "P98-1069",
+            "name": "353",
+            "x": "959.597",
+            "y": "-1720.73"
+        },
+        {
+            "id": "C98-1066",
+            "name": "pascale1998An",
+            "x": "1268.6",
+            "y": "-1735.73"
+        },
+        {
+            "id": "C98-1066",
+            "name": "353",
+            "x": "1268.6",
+            "y": "-1720.73"
+        },
+        {
+            "id": "A94-1030",
+            "name": "dekai1994Improving",
+            "x": "1662.6",
+            "y": "-2004.95"
+        },
+        {
+            "id": "A94-1030",
+            "name": "55",
+            "x": "1662.6",
+            "y": "-1989.95"
+        },
+        {
+            "id": "1995.tmi-1.18",
+            "name": "pascale1995Coerced",
+            "x": "1667.6",
+            "y": "-1915.21"
+        },
+        {
+            "id": "1995.tmi-1.18",
+            "name": "5",
+            "x": "1667.6",
+            "y": "-1900.21"
+        },
+        {
+            "id": "1997",
+            "name": "1997",
+            "x": "28.5975",
+            "y": "-1817.97"
+        },
+        {
+            "id": "1998",
+            "name": "1998",
+            "x": "28.5975",
+            "y": "-1728.23"
+        },
+        {
+            "id": "W97-0119",
+            "name": "pascale1997Finding",
+            "x": "1094.6",
+            "y": "-1825.47"
+        },
+        {
+            "id": "W97-0119",
+            "name": "119",
+            "x": "1094.6",
+            "y": "-1810.47"
+        },
+        {
+            "id": "P99-1043",
+            "name": "pascale1999Mixed",
+            "x": "980.597",
+            "y": "-1645.99"
+        },
+        {
+            "id": "P99-1043",
+            "name": "19",
+            "x": "980.597",
+            "y": "-1630.99"
+        },
+        {
+            "id": "W04-3208",
+            "name": "pascale2004Mining",
+            "x": "573.597",
+            "y": "-1376.77"
+        },
+        {
+            "id": "W04-3208",
+            "name": "46",
+            "x": "573.597",
+            "y": "-1361.77"
+        },
+        {
+            "id": "C04-1151",
+            "name": "pascale2004Multi-level",
+            "x": "1585.6",
+            "y": "-1376.77"
+        },
+        {
+            "id": "C04-1151",
+            "name": "64",
+            "x": "1585.6",
+            "y": "-1361.77"
+        },
+        {
+            "id": "1999",
+            "name": "1999",
+            "x": "28.5975",
+            "y": "-1638.49"
+        },
+        {
+            "id": "C02-1162",
+            "name": "grace2002Identifying",
+            "x": "895.597",
+            "y": "-1556.25"
+        },
+        {
+            "id": "C02-1162",
+            "name": "22",
+            "x": "895.597",
+            "y": "-1541.25"
+        },
+        {
+            "id": "2002",
+            "name": "2002",
+            "x": "28.5975",
+            "y": "-1548.75"
+        },
+        {
+            "id": "I05-1023",
+            "name": "dekai2005Inversion",
+            "x": "592.597",
+            "y": "-1287.03"
+        },
+        {
+            "id": "I05-1023",
+            "name": "51",
+            "x": "592.597",
+            "y": "-1272.03"
+        },
+        {
+            "id": "P06-2031",
+            "name": "pascale2006Robust",
+            "x": "764.597",
+            "y": "-1197.29"
+        },
+        {
+            "id": "P06-2031",
+            "name": "3",
+            "x": "764.597",
+            "y": "-1182.29"
+        },
+        {
+            "id": "2003",
+            "name": "2003",
+            "x": "28.5975",
+            "y": "-1459.01"
+        },
+        {
+            "id": "N04-4008",
+            "name": "benfeng2004Automatic",
+            "x": "895.597",
+            "y": "-1376.77"
+        },
+        {
+            "id": "N04-4008",
+            "name": "16",
+            "x": "895.597",
+            "y": "-1361.77"
+        },
+        {
+            "id": "C04-1134",
+            "name": "pascale2004{B}i{F}rame{N}et:",
+            "x": "1328.6",
+            "y": "-1376.77"
+        },
+        {
+            "id": "C04-1134",
+            "name": "35",
+            "x": "1328.6",
+            "y": "-1361.77"
+        },
+        {
+            "id": "2004",
+            "name": "2004",
+            "x": "28.5975",
+            "y": "-1369.27"
+        },
+        {
+            "id": "W03-1203",
+            "name": "pascale2003Combining",
+            "x": "1715.6",
+            "y": "-1466.51"
+        },
+        {
+            "id": "W03-1203",
+            "name": "31",
+            "x": "1715.6",
+            "y": "-1451.51"
+        },
+        {
+            "id": "C10-1146",
+            "name": "jian2010A",
+            "x": "1715.6",
+            "y": "-928.071"
+        },
+        {
+            "id": "C10-1146",
+            "name": "2",
+            "x": "1715.6",
+            "y": "-913.071"
+        },
+        {
+            "id": "2005",
+            "name": "2005",
+            "x": "28.5975",
+            "y": "-1279.53"
+        },
+        {
+            "id": "N04-4010",
+            "name": "lufeng2004Using",
+            "x": "1094.6",
+            "y": "-1376.77"
+        },
+        {
+            "id": "N04-4010",
+            "name": "27",
+            "x": "1094.6",
+            "y": "-1361.77"
+        },
+        {
+            "id": "2006",
+            "name": "2006",
+            "x": "28.5975",
+            "y": "-1189.79"
+        },
+        {
+            "id": "C12-1102",
+            "name": "ying2012Code-Switch",
+            "x": "592.597",
+            "y": "-748.591"
+        },
+        {
+            "id": "C12-1102",
+            "name": "32",
+            "x": "592.597",
+            "y": "-733.591"
+        },
+        {
+            "id": "2007",
+            "name": "2007",
+            "x": "28.5975",
+            "y": "-1100.05"
+        },
+        {
+            "id": "2009",
+            "name": "2009",
+            "x": "28.5975",
+            "y": "-1010.31"
+        },
+        {
+            "id": "2007.tmi-papers.10",
+            "name": "pascale2007Learning",
+            "x": "1893.6",
+            "y": "-1107.55"
+        },
+        {
+            "id": "2007.tmi-papers.10",
+            "name": "26",
+            "x": "1893.6",
+            "y": "-1092.55"
+        },
+        {
+            "id": "N09-2004",
+            "name": "dekai2009Semantic",
+            "x": "1834.6",
+            "y": "-1017.81"
+        },
+        {
+            "id": "N09-2004",
+            "name": "93",
+            "x": "1834.6",
+            "y": "-1002.81"
+        },
+        {
+            "id": "S15-2004",
+            "name": "dario2015{HLTC}-{HKUST}:",
+            "x": "1950.6",
+            "y": "-569.111"
+        },
+        {
+            "id": "S15-2004",
+            "name": "7",
+            "x": "1950.6",
+            "y": "-554.111"
+        },
+        {
+            "id": "2010",
+            "name": "2010",
+            "x": "28.5975",
+            "y": "-920.571"
+        },
+        {
+            "id": "2011",
+            "name": "2011",
+            "x": "28.5975",
+            "y": "-830.831"
+        },
+        {
+            "id": "2012",
+            "name": "2012",
+            "x": "28.5975",
+            "y": "-741.091"
+        },
+        {
+            "id": "P11-1133",
+            "name": "emmanuel2011Rare",
+            "x": "2066.6",
+            "y": "-838.331"
+        },
+        {
+            "id": "P11-1133",
+            "name": "38",
+            "x": "2066.6",
+            "y": "-823.331"
+        },
+        {
+            "id": "I11-1047",
+            "name": "simon2011Mining",
+            "x": "2254.6",
+            "y": "-838.331"
+        },
+        {
+            "id": "I11-1047",
+            "name": "0",
+            "x": "2254.6",
+            "y": "-823.331"
+        },
+        {
+            "id": "2014",
+            "name": "2014",
+            "x": "28.5975",
+            "y": "-651.351"
+        },
+        {
+            "id": "li-etal-2012-mandarin",
+            "name": "ying2012A",
+            "x": "2073.6",
+            "y": "-748.591"
+        },
+        {
+            "id": "li-etal-2012-mandarin",
+            "name": "11",
+            "x": "2073.6",
+            "y": "-733.591"
+        },
+        {
+            "id": "W14-3907",
+            "name": "thamar2014Overview",
+            "x": "2073.6",
+            "y": "-658.851"
+        },
+        {
+            "id": "W14-3907",
+            "name": "46",
+            "x": "2073.6",
+            "y": "-643.851"
+        },
+        {
+            "id": "W18-3207",
+            "name": "genta2018Code-Switching",
+            "x": "637.597",
+            "y": "-299.89"
+        },
+        {
+            "id": "W18-3207",
+            "name": "3",
+            "x": "637.597",
+            "y": "-284.89"
+        },
+        {
+            "id": "K19-1026",
+            "name": "genta2019Code-Switched",
+            "x": "744.597",
+            "y": "-210.15"
+        },
+        {
+            "id": "K19-1026",
+            "name": "0",
+            "x": "744.597",
+            "y": "-195.15"
+        },
+        {
+            "id": "2020.acl-main.348",
+            "name": "genta2020Meta-Transfer",
+            "x": "785.597",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.acl-main.348",
+            "name": "0",
+            "x": "785.597",
+            "y": "-105.41"
+        },
+        {
+            "id": "2015",
+            "name": "2015",
+            "x": "28.5975",
+            "y": "-561.611"
+        },
+        {
+            "id": "D14-1098",
+            "name": "ying2014Language",
+            "x": "705.597",
+            "y": "-658.851"
+        },
+        {
+            "id": "D14-1098",
+            "name": "15",
+            "x": "705.597",
+            "y": "-643.851"
+        },
+        {
+            "id": "2016",
+            "name": "2016",
+            "x": "28.5975",
+            "y": "-471.871"
+        },
+        {
+            "id": "2017",
+            "name": "2017",
+            "x": "28.5975",
+            "y": "-382.131"
+        },
+        {
+            "id": "N16-3018",
+            "name": "pascale2016{Z}ara",
+            "x": "967.597",
+            "y": "-479.371"
+        },
+        {
+            "id": "N16-3018",
+            "name": "11",
+            "x": "967.597",
+            "y": "-464.371"
+        },
+        {
+            "id": "C16-2058",
+            "name": "pascale2016{Z}ara:",
+            "x": "1161.6",
+            "y": "-479.371"
+        },
+        {
+            "id": "C16-2058",
+            "name": "4",
+            "x": "1161.6",
+            "y": "-464.371"
+        },
+        {
+            "id": "P17-4021",
+            "name": "farhad2017{Z}ara",
+            "x": "1034.6",
+            "y": "-389.631"
+        },
+        {
+            "id": "P17-4021",
+            "name": "5",
+            "x": "1034.6",
+            "y": "-374.631"
+        },
+        {
+            "id": "N16-1016",
+            "name": "dario2016A",
+            "x": "1688.6",
+            "y": "-479.371"
+        },
+        {
+            "id": "N16-1016",
+            "name": "16",
+            "x": "1688.6",
+            "y": "-464.371"
+        },
+        {
+            "id": "L16-1079",
+            "name": "dario2016Deep",
+            "x": "1541.6",
+            "y": "-479.371"
+        },
+        {
+            "id": "L16-1079",
+            "name": "11",
+            "x": "1541.6",
+            "y": "-464.371"
+        },
+        {
+            "id": "D16-1110",
+            "name": "dario2016Real-Time",
+            "x": "1360.6",
+            "y": "-479.371"
+        },
+        {
+            "id": "D16-1110",
+            "name": "26",
+            "x": "1360.6",
+            "y": "-464.371"
+        },
+        {
+            "id": "S19-2021",
+            "name": "genta2019{CA}i{RE}{\\_}{HKUST}",
+            "x": "1034.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "S19-2021",
+            "name": "0",
+            "x": "1034.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "D19-1012",
+            "name": "zhaojiang2019{M}o{EL}:",
+            "x": "2265.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "D19-1012",
+            "name": "1",
+            "x": "2265.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "2018",
+            "name": "2018",
+            "x": "28.5975",
+            "y": "-292.39"
+        },
+        {
+            "id": "W17-3006",
+            "name": "ji2017One-step",
+            "x": "4235.6",
+            "y": "-389.631"
+        },
+        {
+            "id": "W17-3006",
+            "name": "10",
+            "x": "4235.6",
+            "y": "-374.631"
+        },
+        {
+            "id": "2020.semeval-1.272",
+            "name": "wenliang2020Kungfupanda",
+            "x": "4235.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.semeval-1.272",
+            "name": "0",
+            "x": "4235.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2019",
+            "name": "2019",
+            "x": "28.5975",
+            "y": "-202.65"
+        },
+        {
+            "id": "W18-6243",
+            "name": "peng2018{E}mo2{V}ec:",
+            "x": "2732.6",
+            "y": "-299.89"
+        },
+        {
+            "id": "W18-6243",
+            "name": "2",
+            "x": "2732.6",
+            "y": "-284.89"
+        },
+        {
+            "id": "D19-1129",
+            "name": "zihan2019Zero-shot",
+            "x": "2910.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "D19-1129",
+            "name": "9",
+            "x": "2910.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "D19-1303",
+            "name": "peng2019Clickbait?",
+            "x": "2713.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "D19-1303",
+            "name": "0",
+            "x": "2713.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "2020.aacl-main.30",
+            "name": "wenliang2020Modality-Transferable",
+            "x": "3909.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.aacl-main.30",
+            "name": "???",
+            "x": "3909.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "W19-4320",
+            "name": "genta2019Learning",
+            "x": "199.597",
+            "y": "-210.15"
+        },
+        {
+            "id": "W19-4320",
+            "name": "6",
+            "x": "199.597",
+            "y": "-195.15"
+        },
+        {
+            "id": "2021.calcs-1.20",
+            "name": "genta2021Are",
+            "x": "717.597",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.calcs-1.20",
+            "name": "???",
+            "x": "717.597",
+            "y": "-15.6701"
+        },
+        {
+            "id": "W18-3214",
+            "name": "genta2018Bilingual",
+            "x": "199.597",
+            "y": "-299.89"
+        },
+        {
+            "id": "W18-3214",
+            "name": "0",
+            "x": "199.597",
+            "y": "-284.89"
+        },
+        {
+            "id": "S18-1039",
+            "name": "ji2018{P}lus{E}mo2{V}ec",
+            "x": "2483.6",
+            "y": "-299.89"
+        },
+        {
+            "id": "S18-1039",
+            "name": "2",
+            "x": "2483.6",
+            "y": "-284.89"
+        },
+        {
+            "id": "W19-5327",
+            "name": "zihan2019Incorporating",
+            "x": "2501.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "W19-5327",
+            "name": "5",
+            "x": "2501.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "P18-2096",
+            "name": "onno2018Investigating",
+            "x": "4608.6",
+            "y": "-299.89"
+        },
+        {
+            "id": "P18-2096",
+            "name": "8",
+            "x": "4608.6",
+            "y": "-284.89"
+        },
+        {
+            "id": "W19-4331",
+            "name": "elham2019Modality-based",
+            "x": "4608.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "W19-4331",
+            "name": "0",
+            "x": "4608.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "P18-1136",
+            "name": "andrea2018{M}em2{S}eq:",
+            "x": "1816.6",
+            "y": "-299.89"
+        },
+        {
+            "id": "P18-1136",
+            "name": "46",
+            "x": "1816.6",
+            "y": "-284.89"
+        },
+        {
+            "id": "D18-1143",
+            "name": "nayeon2018Improving",
+            "x": "2052.6",
+            "y": "-299.89"
+        },
+        {
+            "id": "D18-1143",
+            "name": "3",
+            "x": "2052.6",
+            "y": "-284.89"
+        },
+        {
+            "id": "P19-1078",
+            "name": "chiensheng2019Transferable",
+            "x": "1829.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "P19-1078",
+            "name": "24",
+            "x": "1829.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "P19-1542",
+            "name": "andrea2019Personalizing",
+            "x": "1320.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "P19-1542",
+            "name": "18",
+            "x": "1320.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "2020.lrec-1.73",
+            "name": "chiensheng2020Getting",
+            "x": "1361.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.lrec-1.73",
+            "name": "???",
+            "x": "1361.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "S19-2184",
+            "name": "nayeon2019Team",
+            "x": "2052.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "S19-2184",
+            "name": "7",
+            "x": "2052.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "2020",
+            "name": "2020",
+            "x": "28.5975",
+            "y": "-112.91"
+        },
+        {
+            "id": "W19-5508",
+            "name": "zhaojiang2019Learning",
+            "x": "1548.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "W19-5508",
+            "name": "???",
+            "x": "1548.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "2020.repl4nlp-1.1",
+            "name": "zihan2020Zero-Resource",
+            "x": "1668.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.repl4nlp-1.1",
+            "name": "1",
+            "x": "1668.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2021.findings-acl.239",
+            "name": "zihan2021Continual",
+            "x": "2039.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.findings-acl.239",
+            "name": "???",
+            "x": "2039.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "W19-3655",
+            "name": "nayeon2019Exploring",
+            "x": "4089.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "W19-3655",
+            "name": "???",
+            "x": "4089.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "2021.sigdial-1.57",
+            "name": "yejin2021Assessing",
+            "x": "3711.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.sigdial-1.57",
+            "name": "???",
+            "x": "3711.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2020.emnlp-main.587",
+            "name": "zihan2020Cross-lingual",
+            "x": "2699.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.emnlp-main.587",
+            "name": "???",
+            "x": "2699.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2021.repl4nlp-1.13",
+            "name": "zihan2021{X}2{P}arser:",
+            "x": "2429.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.repl4nlp-1.13",
+            "name": "???",
+            "x": "2429.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2021.emnlp-main.622",
+            "name": "zhaojiang2021Zero-Shot",
+            "x": "1523.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.emnlp-main.622",
+            "name": "???",
+            "x": "1523.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2020.findings-emnlp.41",
+            "name": "zhaojiang2020Exploring",
+            "x": "1134.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.findings-emnlp.41",
+            "name": "0",
+            "x": "1134.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2020.findings-emnlp.219",
+            "name": "andrea2020Plug-and-Play",
+            "x": "3207.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.findings-emnlp.219",
+            "name": "???",
+            "x": "3207.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2021.mrl-1.1",
+            "name": "genta2021Language",
+            "x": "2645.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.mrl-1.1",
+            "name": "???",
+            "x": "2645.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "D19-5827",
+            "name": "dan2019Generalizing",
+            "x": "4381.6",
+            "y": "-210.15"
+        },
+        {
+            "id": "D19-5827",
+            "name": "1",
+            "x": "4381.6",
+            "y": "-195.15"
+        },
+        {
+            "id": "2020.nlpcovid19-2.14",
+            "name": "dan2020{CA}i{RE}-{COVID}:",
+            "x": "4548.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.nlpcovid19-2.14",
+            "name": "0",
+            "x": "4548.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2021.dialdoc-1.6",
+            "name": "yan2021{CA}i{RE}",
+            "x": "3347.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.dialdoc-1.6",
+            "name": "???",
+            "x": "3347.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2020.acl-main.3",
+            "name": "zihan2020{C}oach:",
+            "x": "2452.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.acl-main.3",
+            "name": "1",
+            "x": "2452.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2021.naacl-main.471",
+            "name": "tiezheng2021{A}dapt{S}um:",
+            "x": "1806.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.naacl-main.471",
+            "name": "???",
+            "x": "1806.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "D19-1360",
+            "name": "genta2019Hierarchical",
+            "x": "401.597",
+            "y": "-210.15"
+        },
+        {
+            "id": "D19-1360",
+            "name": "1",
+            "x": "401.597",
+            "y": "-195.15"
+        },
+        {
+            "id": "2021",
+            "name": "2021",
+            "x": "28.5975",
+            "y": "-23.1701"
+        },
+        {
+            "id": "2021.naacl-main.417",
+            "name": "wenliang2021Multimodal",
+            "x": "3927.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.naacl-main.417",
+            "name": "???",
+            "x": "3927.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2020.findings-emnlp.215",
+            "name": "andrea2020Learning",
+            "x": "2987.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.findings-emnlp.215",
+            "name": "???",
+            "x": "2987.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2020.emnlp-main.226",
+            "name": "peng2020{MEGATRON}-{CNTRL}:",
+            "x": "3538.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.emnlp-main.226",
+            "name": "???",
+            "x": "3538.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2020.emnlp-main.273",
+            "name": "zhaojiang2020{M}in{TL}:",
+            "x": "2192.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.emnlp-main.273",
+            "name": "???",
+            "x": "2192.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2021.emnlp-main.326",
+            "name": "tiezheng2021Vision",
+            "x": "4143.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.emnlp-main.326",
+            "name": "???",
+            "x": "4143.6",
+            "y": "-15.6701"
+        },
+        {
+            "id": "2020.aacl-main.85",
+            "name": "bryan2020{I}ndo{NLU}:",
+            "x": "1946.6",
+            "y": "-120.41"
+        },
+        {
+            "id": "2020.aacl-main.85",
+            "name": "???",
+            "x": "1946.6",
+            "y": "-105.41"
+        },
+        {
+            "id": "2021.findings-acl.275",
+            "name": "dan2021Improve",
+            "x": "2224.6",
+            "y": "-30.6701"
+        },
+        {
+            "id": "2021.findings-acl.275",
+            "name": "???",
+            "x": "2224.6",
+            "y": "-15.6701"
+        }
+    ],
+    [
+        "28.5975,-1929.41 28.5975,-1929.41 28.5975,-1929.41 28.5975,-1929.41",
+        "1351.86,-2004.65 1361.86,-2001.15 1351.86,-1997.65 1351.86,-2004.65",
+        "1396.67,-1942.05 1404.38,-1934.78 1393.82,-1935.65 1396.67,-1942.05",
+        "1267.57,-1948.77 1265.34,-1938.42 1260.62,-1947.9 1267.57,-1948.77",
+        "946.741,-1768.98 947.07,-1758.4 940.209,-1766.47 946.741,-1768.98",
+        "1248.96,-1768.39 1251.36,-1758.07 1243.05,-1764.64 1248.96,-1768.39",
+        "1517.7,-1935.23 1507.13,-1934.57 1514.98,-1941.68 1517.7,-1935.23",
+        "1669.04,-1948.6 1666.12,-1938.42 1662.05,-1948.2 1669.04,-1948.6",
+        "1458.1,-1948.42 1454.6,-1938.42 1451.1,-1948.42 1458.1,-1948.42",
+        "1321.39,-1933.45 1310.85,-1932.34 1318.4,-1939.78 1321.39,-1933.45",
+        "1607.62,-1940.9 1615.53,-1933.86 1604.95,-1934.43 1607.62,-1940.9",
+        "28.5975,-1839.67 28.5975,-1839.67 28.5975,-1839.67 28.5975,-1839.67",
+        "964.279,-1768.67 959.9,-1759.03 957.307,-1769.3 964.279,-1768.67",
+        "1303.77,-1761.66 1294.12,-1757.29 1298.94,-1766.72 1303.77,-1761.66",
+        "1343.44,-1914.91 1353.44,-1911.41 1343.44,-1907.91 1343.44,-1914.91",
+        "1613.01,-1941.89 1620.85,-1934.77 1610.28,-1935.45 1613.01,-1941.89",
+        "953.348,-1769.15 951.941,-1758.65 946.493,-1767.74 953.348,-1769.15",
+        "1272.1,-1768.94 1268.6,-1758.94 1265.1,-1768.94 1272.1,-1768.94",
+        "28.5975,-1749.93 28.5975,-1749.93 28.5975,-1749.93 28.5975,-1749.93",
+        "1004.59,-1758 994.299,-1755.49 1000.78,-1763.87 1004.59,-1758",
+        "1219.66,-1761.53 1227.01,-1753.9 1216.51,-1755.28 1219.66,-1761.53",
+        "1017.04,-1672.48 1007.54,-1667.78 1012.04,-1677.37 1017.04,-1672.48",
+        "580.313,-1409.78 575.993,-1400.11 573.337,-1410.36 580.313,-1409.78",
+        "1514,-1400.48 1522.42,-1394.04 1511.82,-1393.82 1514,-1400.48",
+        "28.5975,-1660.19 28.5975,-1660.19 28.5975,-1660.19 28.5975,-1660.19",
+        "975.458,-1679.7 974.382,-1669.16 968.65,-1678.07 975.458,-1679.7",
+        "887.384,-1590.11 886.507,-1579.55 880.608,-1588.35 887.384,-1590.11",
+        "590.973,-1407.7 583.936,-1399.78 584.498,-1410.36 590.973,-1407.7",
+        "1505.24,-1397.61 1514.25,-1392.05 1503.74,-1390.77 1505.24,-1397.61",
+        "1050.93,-1660.96 1040.35,-1661.4 1048.89,-1667.66 1050.93,-1660.96",
+        "970.393,-1571.84 959.802,-1572.13 968.261,-1578.51 970.393,-1571.84",
+        "1558.83,-1409.38 1562.86,-1399.58 1553.6,-1404.73 1558.83,-1409.38",
+        "28.5975,-1570.45 28.5975,-1570.45 28.5975,-1570.45 28.5975,-1570.45",
+        "1505.56,-1397.75 1514.59,-1392.21 1504.07,-1390.91 1505.56,-1397.75",
+        "642.194,-1310.89 632.131,-1307.57 637.929,-1316.44 642.194,-1310.89",
+        "755.775,-1230.87 755.496,-1220.28 749.109,-1228.74 755.775,-1230.87",
+        "28.5975,-1480.71 28.5975,-1480.71 28.5975,-1480.71 28.5975,-1480.71",
+        "899.098,-1409.98 895.597,-1399.98 892.098,-1409.98 899.098,-1409.98",
+        "1220.12,-1397.03 1229.32,-1391.77 1218.85,-1390.15 1220.12,-1397.03",
+        "765.698,-1230.6 762.64,-1220.46 758.705,-1230.29 765.698,-1230.6",
+        "28.5975,-1390.97 28.5975,-1390.97 28.5975,-1390.97 28.5975,-1390.97",
+        "1719.1,-961.434 1715.6,-951.434 1712.1,-961.434 1719.1,-961.434",
+        "28.5975,-1301.23 28.5975,-1301.23 28.5975,-1301.23 28.5975,-1301.23",
+        "588.278,-1320.71 586.974,-1310.2 581.437,-1319.23 588.278,-1320.71",
+        "1527.5,-1403.41 1535.5,-1396.45 1524.91,-1396.9 1527.5,-1403.41",
+        "835.167,-1213.03 824.578,-1213.37 833.066,-1219.71 835.167,-1213.03",
+        "28.5975,-1211.49 28.5975,-1211.49 28.5975,-1211.49 28.5975,-1211.49",
+        "596.098,-781.953 592.597,-771.953 589.098,-781.953 596.098,-781.953",
+        "28.5975,-1121.75 28.5975,-1121.75 28.5975,-1121.75 28.5975,-1121.75",
+        "28.5975,-1032.01 28.5975,-1032.01 28.5975,-1032.01 28.5975,-1032.01",
+        "1860.14,-1046.72 1851.65,-1040.37 1854.33,-1050.63 1860.14,-1046.72",
+        "1954.1,-602.473 1950.6,-592.473 1947.1,-602.473 1954.1,-602.473",
+        "28.5975,-942.271 28.5975,-942.271 28.5975,-942.271 28.5975,-942.271",
+        "28.5975,-852.531 28.5975,-852.531 28.5975,-852.531 28.5975,-852.531",
+        "28.5975,-762.791 28.5975,-762.791 28.5975,-762.791 28.5975,-762.791",
+        "2162.19,-838.031 2172.19,-834.531 2162.19,-831.031 2162.19,-838.031",
+        "28.5975,-673.051 28.5975,-673.051 28.5975,-673.051 28.5975,-673.051",
+        "2077.1,-692.055 2073.6,-682.055 2070.1,-692.055 2077.1,-692.055",
+        "626.413,-333.62 626.704,-323.029 619.872,-331.126 626.413,-333.62",
+        "771.237,-239.534 762.89,-233.009 765.345,-243.315 771.237,-239.534",
+        "702.529,-142.387 711.028,-136.06 700.439,-135.706 702.529,-142.387",
+        "28.5975,-583.311 28.5975,-583.311 28.5975,-583.311 28.5975,-583.311",
+        "647.834,-332.121 642.524,-322.952 640.957,-333.431 647.834,-332.121",
+        "759.473,-241.733 753.22,-233.18 752.775,-243.765 759.473,-241.733",
+        "28.5975,-493.571 28.5975,-493.571 28.5975,-493.571 28.5975,-493.571",
+        "28.5975,-403.831 28.5975,-403.831 28.5975,-403.831 28.5975,-403.831",
+        "1062.28,-479.071 1072.28,-475.571 1062.28,-472.071 1062.28,-479.071",
+        "1011.97,-422.224 1015.26,-412.152 1006.41,-417.975 1011.97,-422.224",
+        "1620.49,-479.071 1630.49,-475.571 1620.49,-472.071 1620.49,-479.071",
+        "1107.44,-402.812 1096.88,-403.593 1105.62,-409.572 1107.44,-402.812",
+        "1075.58,-236.42 1065.63,-232.787 1071.14,-241.834 1075.58,-236.42",
+        "2247.22,-243.306 2249.95,-233.068 2241.43,-239.373 2247.22,-243.306",
+        "28.5975,-314.09 28.5975,-314.09 28.5975,-314.09 28.5975,-314.09",
+        "4239.1,-153.825 4235.6,-143.825 4232.1,-153.825 4239.1,-153.825",
+        "1038.1,-243.356 1034.6,-233.356 1031.1,-243.356 1038.1,-243.356",
+        "28.5975,-224.35 28.5975,-224.35 28.5975,-224.35 28.5975,-224.35",
+        "1153.19,-224.002 1142.8,-226.083 1152.22,-230.934 1153.19,-224.002",
+        "2357.36,-223.754 2346.86,-225.176 2355.95,-230.612 2357.36,-223.754",
+        "2857.87,-237.242 2865.29,-229.681 2854.78,-230.963 2857.87,-237.242",
+        "2724.76,-242.352 2719.22,-233.319 2717.92,-243.833 2724.76,-242.352",
+        "3789.1,-140.015 3798.44,-135.023 3788.02,-133.097 3789.1,-140.015",
+        "272.049,-224.168 261.491,-225.043 270.29,-230.944 272.049,-224.168",
+        "708.418,-241.544 713.931,-232.497 703.979,-236.131 708.418,-241.544",
+        "686.913,-137.895 695.222,-131.321 684.627,-131.278 686.913,-137.895",
+        "687.236,-61.2027 691.753,-51.6189 682.245,-56.2942 687.236,-61.2027",
+        "203.098,-243.354 199.597,-233.354 196.098,-243.354 203.098,-243.354",
+        "643.269,-227.208 652.585,-222.163 642.156,-220.297 643.269,-227.208",
+        "643.973,-37.56 653.6,-33.135 643.315,-30.591 643.973,-37.56",
+        "2497.69,-243.818 2496.27,-233.319 2490.83,-242.412 2497.69,-243.818",
+        "1154.11,-223.948 1143.72,-226.02 1153.13,-230.88 1154.11,-223.948",
+        "2651.84,-234.656 2659.94,-227.821 2649.35,-228.115 2651.84,-234.656",
+        "4612.1,-243.354 4608.6,-233.354 4605.1,-243.354 4612.1,-243.354",
+        "1942.51,-299.591 1952.51,-296.09 1942.51,-292.591 1942.51,-299.591",
+        "1827.74,-243.759 1825.74,-233.354 1820.82,-242.733 1827.74,-243.759",
+        "1409.37,-223.772 1398.87,-225.126 1407.92,-230.62 1409.37,-223.772",
+        "2174.2,-230.445 2183.29,-224.998 2172.79,-223.59 2174.2,-230.445",
+        "1453.77,-131.555 1443.29,-133.1 1452.45,-138.429 1453.77,-131.555",
+        "2056.1,-243.354 2052.6,-233.354 2049.1,-243.354 2056.1,-243.354",
+        "28.5975,-134.61 28.5975,-134.61 28.5975,-134.61 28.5975,-134.61",
+        "892.199,-126.365 881.871,-128.73 891.42,-133.321 892.199,-126.365",
+        "2857.86,-236.923 2865.61,-229.7 2855.04,-230.513 2857.86,-236.923",
+        "1757.17,-134.155 1746.69,-135.7 1755.84,-141.029 1757.17,-134.155",
+        "2114.33,-44.488 2103.77,-45.4071 2112.6,-51.2708 2114.33,-44.488",
+        "679.427,-236.223 687.705,-229.61 677.11,-229.617 679.427,-236.223",
+        "2857.86,-236.923 2865.61,-229.7 2855.04,-230.513 2857.86,-236.923",
+        "648.134,-43.1677 657.331,-37.9078 646.862,-36.2844 648.134,-43.1677",
+        "3785.02,-44.8734 3774.47,-45.8512 3783.32,-51.6656 3785.02,-44.8734",
+        "1490.5,-236.786 1498.5,-229.833 1487.91,-230.283 1490.5,-236.786",
+        "2442.13,-236.722 2450.18,-229.836 2439.59,-230.198 2442.13,-236.722",
+        "2201.57,-236.526 2209.79,-229.845 2199.2,-229.939 2201.57,-236.526",
+        "2661.32,-236.949 2669.05,-229.698 2658.48,-230.548 2661.32,-236.949",
+        "784.918,-40.0432 774.349,-40.7867 783.075,-46.7962 784.918,-40.0432",
+        "2442.13,-236.722 2450.18,-229.836 2439.59,-230.198 2442.13,-236.722",
+        "2141.6,-209.85 2151.6,-206.35 2141.6,-202.85 2141.6,-209.85",
+        "2857.86,-236.923 2865.61,-229.7 2855.04,-230.513 2857.86,-236.923",
+        "2661.32,-236.949 2669.05,-229.698 2658.48,-230.548 2661.32,-236.949",
+        "4136.17,-138.988 4145.52,-134.016 4135.11,-132.069 4136.17,-138.988",
+        "1760.94,-133.299 1750.44,-134.68 1759.51,-140.151 1760.94,-133.299",
+        "3726.34,-62.6771 3720.53,-53.8187 3719.54,-64.3681 3726.34,-62.6771",
+        "1447.83,-133.612 1437.32,-134.935 1446.36,-140.456 1447.83,-133.612",
+        "2617.49,-141.061 2626.59,-135.633 2616.09,-134.203 2617.49,-141.061",
+        "3786.68,-139.239 3796.16,-134.521 3785.8,-132.293 3786.68,-139.239",
+        "2345.27,-51.7239 2354.39,-46.3385 2343.9,-44.8587 2345.27,-51.7239",
+        "1513.11,-64.5523 1512.77,-53.963 1506.43,-62.4554 1513.11,-64.5523",
+        "1437.35,-209.85 1447.35,-206.35 1437.35,-202.85 1437.35,-209.85",
+        "2201.57,-236.526 2209.79,-229.845 2199.2,-229.939 2201.57,-236.526",
+        "1348.4,-154.12 1349.46,-143.579 1342.06,-151.157 1348.4,-154.12",
+        "1193.68,-141.61 1183.14,-140.509 1190.69,-147.941 1193.68,-141.61",
+        "3122.31,-141.636 3131.46,-136.3 3120.98,-134.764 3122.31,-141.636",
+        "890.265,-127.584 879.888,-129.723 889.333,-134.522 890.265,-127.584",
+        "3786.94,-139.298 3796.43,-134.582 3786.07,-132.352 3786.94,-139.298",
+        "772.4,-154.12 773.463,-143.579 766.058,-151.157 772.4,-154.12",
+        "2616.44,-62.4032 2620.8,-52.7439 2611.37,-57.5802 2616.44,-62.4032",
+        "689.188,-62.0331 692.788,-52.0685 683.76,-57.6135 689.188,-62.0331",
+        "4286.48,-144.104 4276.1,-141.953 4282.87,-150.104 4286.48,-144.104",
+        "4494.93,-149.76 4502.16,-142.01 4491.68,-143.563 4494.93,-149.76",
+        "3443.49,-34.7779 3433.18,-37.2278 3442.77,-41.7406 3443.49,-34.7779",
+        "1756.46,-134.305 1745.98,-135.87 1755.15,-141.182 1756.46,-134.305",
+        "2763.36,-140.332 2752.78,-139.724 2760.67,-146.796 2763.36,-140.332",
+        "2535.87,-130.41 2525.39,-131.974 2534.56,-137.286 2535.87,-130.41",
+        "3792.78,-140.559 3802.17,-135.644 3791.77,-133.633 3792.78,-140.559",
+        "2517.68,-44.4187 2507.18,-45.8064 2516.25,-51.2717 2517.68,-44.4187",
+        "1805.2,-64.1111 1802.45,-53.8797 1798.22,-63.5935 1805.2,-64.1111",
+        "2736.29,-37.5155 2725.76,-38.6806 2734.71,-44.3367 2736.29,-37.5155",
+        "3355.37,-63.6131 3351.29,-53.836 3348.39,-64.0245 3355.37,-63.6131",
+        "648.118,-43.393 657.143,-37.844 646.628,-36.5535 648.118,-43.393",
+        "28.5975,-44.8701 28.5975,-44.8701 28.5975,-44.8701 28.5975,-44.8701",
+        "4007.72,-47.0563 3997.15,-47.6826 4005.81,-53.7884 4007.72,-47.0563",
+        "2399.02,-146.884 2406.83,-139.726 2396.26,-140.451 2399.02,-146.884",
+        "1761.32,-60.8028 1767.88,-52.4838 1757.57,-54.8956 1761.32,-60.8028",
+        "3144.93,-146.842 3153.11,-140.102 3142.51,-140.273 3144.93,-146.842",
+        "2722.58,-44.0061 2712.02,-44.9112 2720.84,-50.7865 2722.58,-44.0061",
+        "3267.65,-49.9171 3276.59,-44.2394 3266.06,-43.0996 3267.65,-49.9171",
+        "3303.16,-59.8502 3309.77,-51.574 3299.44,-53.9188 3303.16,-59.8502",
+        "3406.17,-50.9258 3395.62,-49.9318 3403.25,-57.2867 3406.17,-50.9258",
+        "2572.63,-51.4712 2581.48,-45.6374 2570.92,-44.6826 2572.63,-51.4712",
+        "1617.81,-42.1052 1607.37,-43.8618 1616.63,-49.0041 1617.81,-42.1052",
+        "2586.07,-120.11 2596.07,-116.61 2586.07,-113.11 2586.07,-120.11",
+        "3826.3,-146.135 3835.03,-140.129 3824.46,-139.381 3826.3,-146.135",
+        "2442.33,-62.6245 2436.4,-53.8389 2435.56,-64.3996 2442.33,-62.6245",
+        "1906.11,-44.3395 1895.65,-46.0285 1904.88,-51.2307 1906.11,-44.3395",
+        "745.68,-58.3918 736.788,-52.6318 740.148,-62.6799 745.68,-58.3918",
+        "3923.68,-64.3734 3922.26,-53.874 3916.82,-62.9666 3923.68,-64.3734",
+        "4081.33,-54.9546 4089.47,-48.1665 4078.88,-48.4002 4081.33,-54.9546",
+        "2574.33,-51.8976 2583.23,-46.157 2572.69,-45.0915 2574.33,-51.8976",
+        "793.323,-26.055 783.238,-29.3014 793.146,-33.0528 793.323,-26.055",
+        "2546.37,-30.3702 2556.37,-26.8701 2546.37,-23.3702 2546.37,-30.3702",
+        "4045.14,-30.3702 4055.14,-26.8701 4045.14,-23.3702 4045.14,-30.3702",
+        "1940.96,-30.3702 1950.96,-26.8701 1940.96,-23.3702 1940.96,-30.3702",
+        "2177,-57.7351 2184.45,-50.2017 2173.92,-51.4451 2177,-57.7351",
+        "4091.78,-57.4941 4099.48,-50.2167 4088.93,-51.1039 4091.78,-57.4941",
+        "2593.32,-57.4683 2601.05,-50.2181 2590.48,-51.0681 2593.32,-57.4683",
+        "1987.78,-57.4941 1995.48,-50.2167 1984.93,-51.1039 1987.78,-57.4941"
+    ]
+]
