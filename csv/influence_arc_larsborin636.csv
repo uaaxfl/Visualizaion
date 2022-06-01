@@ -1,330 +1,330 @@
-"2020.globalex-1.9","borin-etal-2014-bring","1","0.675428"
-"2020.globalex-1.9","W15-2001","1","0.760664"
-"2020.globalex-1.9","de-melo-weikum-2008-mapping","0","0.0274311"
-"2020.globalex-1.9","O95-1004","0","0.109891"
-"2020.globalex-1.9","P98-1100","0","0.0286844"
-"2020.globalex-1.9","J91-1002","0","0.89085"
-"2020.iwltp-1.5","L18-1515","1","0.861276"
-"2020.iwltp-1.5","L18-1210","1","0.883378"
-"2020.iwltp-1.5","gavrilidou-etal-2012-meta","1","0.873564"
-"2020.iwltp-1.5","2020.lrec-1.420","1","0.867196"
-"2020.iwltp-1.5","L18-1205","1","0.86912"
-"2020.iwltp-1.5","piperidis-2012-meta","1","0.79099"
-"2020.iwltp-1.5","2020.lrec-1.407","1","0.850312"
-"2020.iwltp-1.5","2020.lrec-1.406","1","0.820998"
-"2020.iwltp-1.5","2020.lrec-1.405","1","0.789844"
-"2020.ldl-1.4","P98-1013","0","0.488267"
-"2020.ldl-1.4","R19-1143","1","0.92597"
-"2020.lrec-1.108","adesam-etal-2014-computer","0","0.0292053"
-"2020.lrec-1.108","borin-etal-2012-open","1","0.904283"
-"2020.lrec-1.108","borin-etal-2012-korp","1","0.904786"
-"borin-2000-something","W99-0705","0",\N
-"borin-2000-something","C00-1015","1",\N
-"borin-2000-something","P98-2123","0",\N
-"borin-2000-something","C98-2118","0",\N
-"borin-2000-something","P98-2164","0",\N
-"borin-2000-something","C98-2159","0",\N
-"borin-2000-something","P98-1029","0",\N
-"borin-2000-something","C98-1029","0",\N
-"borin-etal-2010-diabase","elenius-etal-2008-language","0",\N
-"borin-etal-2010-diabase","fillmore-etal-2002-framenet","0",\N
-"borin-etal-2010-diabase","W04-2607","0",\N
-"borin-etal-2012-open","W11-4609","1",\N
-"borin-etal-2012-open","borin-etal-2010-diabase","1",\N
-"borin-etal-2014-bring","J91-1002","0",\N
-"borin-etal-2014-bring","P08-1048","0",\N
-"borin-etal-2014-bring","P98-1100","0",\N
-"borin-etal-2014-bring","C98-1097","0",\N
-"borin-etal-2014-bring","de-melo-weikum-2008-mapping","1",\N
-"borin-etal-2014-bring","borin-etal-2012-open","1",\N
-"borin-etal-2014-bring","O95-1004","0",\N
-"borin-etal-2014-linguistic","W11-4646","1",\N
-"C00-1015","W98-1615","1","0.829151"
-"C00-1015","W95-0115","0","0.0122796"
-"C00-1015","W99-0602","0","0.0645198"
-"J11-2002","E06-2023","0","0.0283012"
-"J11-2002","J09-3007","0","0.0242931"
-"J11-2002","P09-1120","0","0.0217614"
-"J11-2002","W06-3209","0","0.359976"
-"J11-2002","P03-1036","0","0.168876"
-"J11-2002","J01-2001","0","0.865178"
-"J11-2002","W05-0504","0","0.057591"
-"J11-2002","W05-0503","0","0.0508602"
-"J11-2002","N03-2015","0","0.257432"
-"J11-2002","W08-0704","0","0.0764252"
-"J11-2002","I08-3007","0","0.0168517"
-"J11-2002","J97-3003","0","0.113821"
-"J11-2002","P04-2012","0","0.0411274"
-"J11-2002","W07-1315","0","0.0926385"
-"J11-2002","W04-0107","0","0.0455356"
-"J11-2002","W08-0708","0","0.0213709"
-"J11-2002","D09-1070","0","0.0924872"
-"J11-2002","W02-0604","0","0.344829"
-"J11-2002","J01-1003","0","0.119818"
-"J11-2002","W04-0102","0","0.0344388"
-"J11-2002","N09-1024","0","0.133856"
-"J11-2002","W98-1241","0","0.0627657"
-"J11-2002","J07-2013","0","0.0451564"
-"J11-2002","P03-1050","0","0.0220207"
-"J11-2002","W00-0712","0","0.50558"
-"J11-2002","W02-0601","0","0.0787926"
-"J11-2002","P01-1063","0","0.0508513"
-"J11-2002","W02-0602","0","0.22247"
-"J11-2002","P08-1084","0","0.0850514"
-"J11-2002","I08-1003","0","0.022629"
-"J11-2002","A97-1016","0","0.146801"
-"J11-2002","E89-1020","0","0.308484"
-"J11-2002","2007.mtsummit-papers.65","0","0.0379096"
-"J11-2002","W04-0109","0","0.0445354"
-"J11-2002","J09-4012","0","0.0381362"
-"J11-2002","C86-1069","0","0.637012"
-"J11-2002","W06-3205","0","0.208036"
-"J11-2002","H01-1035","0","0.0289933"
-"J11-2002","P00-1027","0","0.211268"
-"J11-2002","C90-2074","0","0.339703"
-"J11-2002","2003.jeptalnrecital-long.27","0","0.0339796"
-"J11-2002","N07-1020","0",\N
-"J11-2002","monson-etal-2008-linguistic","0",\N
-"J11-2002","W02-0606","0",\N
-"J11-2002","W04-0106","0",\N
-"J11-2002","N01-1024","0",\N
-"J11-2002","C69-1201","0",\N
-"J11-2002","fishel-kirik-2010-linguistically","0",\N
-"J11-2002","C04-1152","0",\N
-"J11-2002","W05-0617","0",\N
-"J11-2002","N06-1062","0",\N
-"J11-2002","C69-6209","0",\N
-"J11-2002","P07-1116","0",\N
-"J11-2002","W02-0603","0",\N
-"J11-2002","N09-2019","0",\N
-"J11-2002","P10-1010","0",\N
-"J11-2002","W02-0605","0",\N
-"J11-2002","W02-2006","0",\N
-"J11-2002","W99-0904","0",\N
-"J11-2002","W04-1302","0",\N
-"kokkinakis-etal-2014-hfst","U07-1010","0",\N
-"kokkinakis-etal-2014-hfst","W06-0503","0",\N
-"kokkinakis-etal-2014-hfst","E99-1001","0",\N
-"kokkinakis-etal-2014-hfst","W09-1119","0",\N
-"kokkinakis-etal-2014-hfst","C08-1034","0",\N
-"kokkinakis-etal-2014-hfst","P10-1015","0",\N
-"kokkinakis-etal-2014-hfst","W03-0419","0",\N
-"kokkinakis-etal-2014-hfst","P09-3003","0",\N
-"kokkinakis-etal-2014-hfst","C02-1130","0",\N
-"kokkinakis-etal-2014-hfst","W12-5701","0",\N
-"kokkinakis-etal-2014-hfst","sekine-nobata-2004-definition","0",\N
-"kokkinakis-etal-2014-hfst","C96-1079","0",\N
-"kokkinakis-etal-2014-hfst","W98-1603","1",\N
-"L18-1426","baccianella-etal-2010-sentiwordnet","0","0.0978116"
-"L18-1426","P14-2063","0","0.0794638"
-"L18-1426","P92-1032","0","0.0608644"
-"L18-1426","N16-1095","0","0.147382"
-"L18-1426","W16-1401","0","0.0389883"
-"L18-1426","L18-1662","1","0.814476"
-"L18-1662","baccianella-etal-2010-sentiwordnet","0","0.311169"
-"L18-1662","W17-5104","0","0.214664"
-"L18-1662","borin-etal-2014-bring","1","0.901408"
-"L18-1662","P14-2063","0","0.311079"
-"L18-1662","D16-1057","0","0.126102"
-"L18-1662","N15-1164","0","0.0612209"
-"L18-1662","N16-1091","0","0.274542"
-"L18-1662","L18-1426","1","0.864766"
-"nilsson-borin-2002-living","P98-1069","0",\N
-"nilsson-borin-2002-living","C98-1066","0",\N
-"R19-1143","P98-1013","0","0.122004"
-"R19-1143","C18-1267","0","0.021357"
-"R19-1143","P14-5010","0","0.00532588"
-"R19-1143","D13-1079","0","0.0216527"
-"R19-1143","N06-1025","0","0.0425666"
-"R19-1143","J02-3001","0","0.0593402"
-"R19-1143","D07-1002","0","0.00916147"
-"R19-1143","P03-1002","0","0.168629"
-"R19-1143","W08-2121","0","0.0324476"
-"R19-1143","C08-1050","0","0.0407373"
-"R19-1143","N09-2004","0","0.0111927"
-"rehm-etal-2014-strategic","P07-2045","0",\N
-"rehm-etal-2014-strategic","piperidis-etal-2014-meta","1",\N
-"rehm-etal-2014-strategic","piperidis-2012-meta","1",\N
-"volodina-etal-2014-flexible","E93-1064","0",\N
-"volodina-etal-2014-flexible","W13-2904","0",\N
-"volodina-etal-2014-flexible","W13-1705","0",\N
-"volodina-etal-2014-flexible","W13-1715","0",\N
-"volodina-etal-2014-flexible","W13-1739","0",\N
-"volodina-etal-2014-flexible","pilan-volodina-2014-reusing","1",\N
-"volodina-etal-2014-flexible","volodina-kokkinakis-2012-introducing","1",\N
-"volodina-etal-2014-flexible","W13-1702","0",\N
-"volodina-etal-2014-flexible","W10-1002","0",\N
-"volodina-etal-2014-flexible","borin-etal-2012-open","1",\N
-"W07-0901","C02-1130","0","0.0290102"
-"W07-0901","P06-1141","0","0.0134061"
-"W07-0901","sekine-nobata-2004-definition","0","0.0298924"
-"W07-0901","W01-0716","0","0.0191305"
-"W11-3314","J99-4008","0","0.0197438"
-"W11-3314","varadi-etal-2008-clarin","0","0.0913447"
-"W11-4609","W04-2607","0","0.0178605"
-"W11-4622","P07-1083","0","0.0139232"
-"W11-4622","D07-1093","0","0.0398107"
-"W11-4622","P06-1035","0","0.0198081"
-"W11-4622","W02-0902","0","0.0146948"
-"W11-4622","P07-2045","0","0.006326"
-"W11-4622","2005.mtsummit-papers.11","0","0.293681"
-"W11-4622","N03-2016","0","0.0359454"
-"W11-4622","2005.mtsummit-papers.40","0","0.0931962"
-"W11-4622","J99-1003","0","0.0604681"
-"W11-4622","J03-1002","0","0.00313046"
-"W11-4622","W07-1306","0","0.0160282"
-"W11-4646","A94-1008","0","0.0488049"
-"W12-1004","P03-1068","0","0.0240251"
-"W12-1004","W09-0302","0","0.0282055"
-"W12-1004","bel-etal-2000-simple","0",\N
-"W12-1902","P06-2057","1","0.828888"
-"W12-1902","H05-1108","0","0.022207"
-"W12-1902","I11-1041","0",\N
-"W12-1902","N04-1043","0",\N
-"W12-1902","W12-1915","0",\N
-"W12-1902","koen-2004-pharaoh","0",\N
-"W12-1902","W04-3252","0",\N
-"W12-1902","nivre-etal-2006-talbanken05","0",\N
-"W12-1902","W12-1912","0",\N
-"W12-1902","J93-2004","0",\N
-"W12-1902","W10-2922","0",\N
-"W12-1902","N12-1052","0",\N
-"W12-1902","D10-1120","0",\N
-"W12-1902","W08-2112","0",\N
-"W12-1902","W07-0604","0",\N
-"W12-1902","D08-1016","0",\N
-"W12-1902","W03-0105","0",\N
-"W12-1902","N09-3017","0",\N
-"W12-1902","S07-1005","0",\N
-"W12-1902","H94-1048","0",\N
-"W12-1902","H01-1035","0",\N
-"W12-1902","W06-2920","0",\N
-"W12-1902","C96-2141","0",\N
-"W12-1902","C04-1192","0",\N
-"W12-1902","X96-1049","0",\N
-"W12-1902","C08-1042","0",\N
-"W12-1902","C10-2052","0",\N
-"W12-1902","C08-1113","0",\N
-"W12-1902","N06-1041","0",\N
-"W12-1902","E99-1010","0",\N
-"W12-1902","N09-1012","0",\N
-"W12-1902","P11-1048","0",\N
-"W12-1902","P11-1087","0",\N
-"W12-1902","D10-1056","0",\N
-"W12-1902","P02-1033","0",\N
-"W12-1902","P10-1131","0",\N
-"W12-1902","P08-1085","0",\N
-"W12-1902","D10-1117","0",\N
-"W12-1902","J94-2001","0",\N
-"W12-1902","P08-1086","0",\N
-"W12-1902","D11-1109","0",\N
-"W12-1902","J92-4003","0",\N
-"W12-1902","N07-1030","0",\N
-"W12-1902","N09-1010","0",\N
-"W12-1902","P05-1048","0",\N
-"W12-1902","A00-1031","0",\N
-"W12-1902","D07-1007","0",\N
-"W12-1902","P07-1005","0",\N
-"W12-1902","P06-1055","0",\N
-"W12-1902","P09-1057","0",\N
-"W12-1902","petrov-etal-2012-universal","0",\N
-"W12-1902","W03-0419","0",\N
-"W12-1902","P03-1058","0",\N
-"W12-1902","P11-2056","0",\N
-"W12-1902","P11-1138","0",\N
-"W12-1902","D11-1036","0",\N
-"W12-1902","D11-1006","0",\N
-"W12-1902","W07-2416","1",\N
-"W12-1902","P06-1124","0",\N
-"W12-1902","P08-1076","0",\N
-"W12-1902","P10-1040","0",\N
-"W12-1902","W12-1913","0",\N
-"W12-1902","D11-1005","0",\N
-"W12-1902","D12-1121","0",\N
-"W12-1902","W12-1914","0",\N
-"W12-1902","P09-1116","0",\N
-"W12-1902","P10-2036","0",\N
-"W12-1902","P07-1031","0",\N
-"W12-1902","P05-1001","0",\N
-"W12-1902","2005.mtsummit-papers.11","0",\N
-"W12-1902","majlis-zabokrtsky-2012-language","0",\N
-"W12-1902","W12-1910","0",\N
-"W12-1902","johansson-etal-2012-semantic","1",\N
-"W12-1902","U08-1016","0",\N
-"W12-1902","sekine-nobata-2004-definition","0",\N
-"W12-1902","D07-1096","0",\N
-"W12-1902","W99-0612","0",\N
-"W12-1902","erjavec-etal-2010-jos","0",\N
-"W12-1902","W04-3234","0",\N
-"W12-1902","D10-1083","0",\N
-"W12-1902","D07-1031","0",\N
-"W12-1902","C96-1079","0",\N
-"W12-1902","afonso-etal-2002-floresta","0",\N
-"W12-1902","W10-2608","0",\N
-"W12-1902","P07-1094","0",\N
-"W12-1902","P10-2040","0",\N
-"W12-1902","P02-1001","0",\N
-"W12-1902","P07-1033","0",\N
-"W12-1902","W09-3003","0",\N
-"W12-1902","P05-1044","0",\N
-"W12-1902","D07-1043","0",\N
-"W12-1902","W97-0309","0",\N
-"W12-1902","P10-2039","0",\N
-"W12-1902","W10-1701","0",\N
-"W12-1902","D11-1117","0",\N
-"W12-1902","N06-1020","0",\N
-"W12-1902","N07-1018","0",\N
-"W12-1902","D08-1036","0",\N
-"W12-1902","D11-1059","0",\N
-"W12-3614","P98-1013","0","0.00779948"
-"W12-3614","W09-4407","0","0.0554959"
-"W12-3614","C98-1013","0",\N
-"W12-3614","heppin-gronostaj-2012-rocky","1",\N
-"W13-5616","bhattacharyya-2010-indowordnet","0","0.0392967"
-"W13-5616","W99-0603","0","0.160623"
-"W13-5616","W11-4643","1","0.771943"
-"W13-5616","W05-1715","0","0.035094"
-"W13-5616","pedersen-etal-2010-merging","1","0.766177"
-"W13-5616","tufis-etal-2004-word","0","0.0851173"
-"W13-5616","bel-etal-2000-simple","0",\N
-"W13-5619","borin-etal-2012-korp","1","0.920055"
-"W13-5619","borin-etal-2012-open","1","0.870902"
-"W13-5619","braasch-olsen-2004-sto","1","0.846342"
-"W13-5619","broeder-etal-2010-data","0","0.0283968"
-"W13-5619","francopoulo-etal-2006-lexical","0","0.0900195"
-"W13-5619","gavrilidou-etal-2012-meta","0","0.0140866"
-"W13-5619","W13-5616","1","0.879624"
-"W13-5619","piperidis-2012-meta","0","0.0205972"
-"W13-5619","W11-3314","1","0.83743"
-"W13-5619","varadi-etal-2008-clarin","0","0.0150457"
-"W13-5619","W01-1506","0",\N
-"W13-5639","W09-4642","0","0.0307214"
-"W13-5639","borin-etal-2010-diabase","1","0.835881"
-"W13-5639","borin-etal-2012-open","1","0.91547"
-"W13-5639","borin-etal-2012-korp","1","0.777986"
-"W13-5639","nygaard-etal-2008-glossa","0","0.0303038"
-"W14-0129","borin-etal-2012-open","1","0.789464"
-"W14-0129","borin-etal-2012-korp","1","0.718033"
-"W14-0129","W05-1715","0","0.0563299"
-"W15-2001","borin-etal-2014-bring","1","0.84875"
-"W15-2001","O95-1004","0","0.371098"
-"W15-2001","P98-1100","0","0.289133"
-"W15-2001","N15-1164","1","0.849372"
-"W15-2001","de-melo-weikum-2008-mapping","0","0.229925"
-"W15-2001","W10-2803","0","0.0155292"
-"W15-2001","W98-0710","0","0.112152"
-"W15-2001","W15-2000","0","0.271331"
-"W15-2001","P94-1019","0","0.254815"
-"W15-2001","J91-1002","0",\N
-"W15-2001","P08-1048","0",\N
-"W15-2001","C98-1097","0",\N
-"W19-4520","W14-2110","0","0.0154693"
-"W19-4520","J17-3005","0","0.0985119"
-"W98-1615","J96-1003","0",\N
-"W98-1615","C90-2074","0",\N
-"W98-1615","E95-1009","0",\N
-"W98-1615","J96-4002","0",\N
-"W99-1004","W98-1615","1","0.853635"
-"W99-1004","borin-2000-something","1","0.865723"
-"W99-1004","W95-0115","0","0.0256235"
-"W99-1004","W98-1613","0","0.0403568"
+2020.globalex-1.9,borin-etal-2014-bring,1,0.675428,"Missing"
+2020.globalex-1.9,W15-2001,1,0.760664,"Missing"
+2020.globalex-1.9,de-melo-weikum-2008-mapping,0,0.0274311,"Missing"
+2020.globalex-1.9,O95-1004,0,0.109891,"of ambiguous Bring entries and for addition of new entries to Bring. Keywords: lexicon, word sense disambiguation, topic detection 1. 1.1. Introduction1 nately referred to as “Roget” below; Roget 1852; H¨ullen 2004), which appeared in its first edition in 1852 and has since been published in a large number of editions all over the English-speaking world. Although – perhaps unjustifiedly – not as well-known in NLP as the PWN, the digital version of Roget offers a valuable complement to PWN (Jarmasz and Szpakowicz, 2004), which has seen a fair amount of use in NLP (e.g., Morris and Hirst 1991; Jobbins and Evett 1995; Jobbins and Evett 1998; Wilks 1998; Kennedy and Szpakowicz 2008). There are indications in the literature that Roget-style thesauruses can provide an alternative source of lexicalsemantic information, which can be used both to attack other kinds of NLP tasks than a wordnet, and even work better for some of the same tasks, e.g., lexical cohesion, synonym identification, pseudo-word-sense disambiguation, and analogy problems (Morris and Hirst, 1991; Jarmasz and Szpakowicz, 2004; Kennedy and Szpakowicz, 2008; Kennedy and Szpakowicz, 2014). An obstacle to the wider use of Roget in NLP applicatio"
+2020.globalex-1.9,P98-1100,0,0.0286844,"ies and for addition of new entries to Bring. Keywords: lexicon, word sense disambiguation, topic detection 1. 1.1. Introduction1 nately referred to as “Roget” below; Roget 1852; H¨ullen 2004), which appeared in its first edition in 1852 and has since been published in a large number of editions all over the English-speaking world. Although – perhaps unjustifiedly – not as well-known in NLP as the PWN, the digital version of Roget offers a valuable complement to PWN (Jarmasz and Szpakowicz, 2004), which has seen a fair amount of use in NLP (e.g., Morris and Hirst 1991; Jobbins and Evett 1995; Jobbins and Evett 1998; Wilks 1998; Kennedy and Szpakowicz 2008). There are indications in the literature that Roget-style thesauruses can provide an alternative source of lexicalsemantic information, which can be used both to attack other kinds of NLP tasks than a wordnet, and even work better for some of the same tasks, e.g., lexical cohesion, synonym identification, pseudo-word-sense disambiguation, and analogy problems (Morris and Hirst, 1991; Jarmasz and Szpakowicz, 2004; Kennedy and Szpakowicz, 2008; Kennedy and Szpakowicz, 2014). An obstacle to the wider use of Roget in NLP applications is its limited availa"
+2020.globalex-1.9,J91-1002,0,0.89085,"both for disambiguation of ambiguous Bring entries and for addition of new entries to Bring. Keywords: lexicon, word sense disambiguation, topic detection 1. 1.1. Introduction1 nately referred to as “Roget” below; Roget 1852; H¨ullen 2004), which appeared in its first edition in 1852 and has since been published in a large number of editions all over the English-speaking world. Although – perhaps unjustifiedly – not as well-known in NLP as the PWN, the digital version of Roget offers a valuable complement to PWN (Jarmasz and Szpakowicz, 2004), which has seen a fair amount of use in NLP (e.g., Morris and Hirst 1991; Jobbins and Evett 1995; Jobbins and Evett 1998; Wilks 1998; Kennedy and Szpakowicz 2008). There are indications in the literature that Roget-style thesauruses can provide an alternative source of lexicalsemantic information, which can be used both to attack other kinds of NLP tasks than a wordnet, and even work better for some of the same tasks, e.g., lexical cohesion, synonym identification, pseudo-word-sense disambiguation, and analogy problems (Morris and Hirst, 1991; Jarmasz and Szpakowicz, 2004; Kennedy and Szpakowicz, 2008; Kennedy and Szpakowicz, 2014). An obstacle to the wider use of"
+2020.iwltp-1.5,L18-1515,1,0.861276,"Missing"
+2020.iwltp-1.5,L18-1210,1,0.883378,"Missing"
+2020.iwltp-1.5,gavrilidou-etal-2012-meta,1,0.873564,"Missing"
+2020.iwltp-1.5,2020.lrec-1.420,1,0.867196,"Missing"
+2020.iwltp-1.5,L18-1205,1,0.86912,"Missing"
+2020.iwltp-1.5,piperidis-2012-meta,1,0.79099,"semantic and structural mapping had 4.1. META META-SHARE36 has been developed as the infrastructural arm of META-NET37 and has served as a component of a language technology marketplace for researchers, developers, professionals and industrial players, catering for the full development cycle of language technology, from research to innovative products and services. It has been designed as a network of repositories that store language resources (data, tools and processing services) documented with high-quality metadata, aggregated in central inventories allowing for uniform search and access (Piperidis, 2012). Repositories can be local, set up and maintained 28 https://www.sshopencloud.eu/news/using-corporaimplementing-validation-sshoc-masterclass 29 http://delad.net 30 https://ace.ruhosting.nl 31 https://tla.mpi.nl/ 32 https://talkbank.org/ 33 https://gdpr-info.eu/ 34 https://www.europeana.eu/ 35 https://www.eric-forum.eu/the-eric-landscape/ www.meta-share.eu 37 www.meta-net.eu 36 31 cessing service (e.g. sentence splitting, part-of-speech tagging), running either locally or remotely. This implementation has been used for powering the language processing layer of the CLARIN:EL node (Piperidis et"
+2020.iwltp-1.5,2020.lrec-1.407,1,0.850312,"Missing"
+2020.iwltp-1.5,2020.lrec-1.406,1,0.820998,"Missing"
+2020.iwltp-1.5,2020.lrec-1.405,1,0.789844,"Missing"
+2020.ldl-1.4,P98-1013,0,0.488267,"has not been used for any actual typological work. We continue that work and use the parser to extract typological feature values (shown in Table 2) of a language profile. A brief description of the parser and how it has been used for our purposes follows. The parser relies on a lexico-semantic resource, LingFN (Malm et al., 2018), and its frame-labeled data for training machine learning models to build a parser. The development of LingFN itself is based on the theory of frame-semantics (Fillmore, 1976; Fillmore, 1977; Fillmore, 1982), and is motivated by the development of Berkeley FrameNet (Baker et al., 1998) and other, domainspecific framenets (e.g. a framenet to cover medical terminology (Borin et al., 2007), Kicktionary,2 a soccer language framenet). Let us take an example to better understand what LingFN is, and how its frame-labeled data is used to build the frame-semantic parser which in turn is used for automatic extraction of typological features. Consider the following sentence which is taken from a descriptive grammar of the Ulwa language. In Ulwa, adjectives in NPs sometimes precede their head nouns. The sentence contains information about the relative position (sequencing) of two synta"
+2020.ldl-1.4,R19-1143,1,0.92597,"ncrementally develop a large set of rich language profiles. At this stage, we have relied on manual collection of information for the introductory as well as the reference part, although parts of it can be automatized (information about language name and number of speakers can be extracted automatically using the frame based methodology explained below, which was used to build the attributive part automatically). The automatic extraction of typological information from descriptive grammars is a novel task, and there exists only a few studies and systems reported previously (Virk et al., 2017; Virk et al., 2019). In Virk et al. (2019), a framesemantic based approach is proposed for developing a parser to automatically extract typological linguistic information from plain-text grammatical descriptions of natural languages. As a case study, the authors have shown how the parser can be used to extract value of an example typological feature. However, the system has not been used for any actual typological work. We continue that work and use the parser to extract typological feature values (shown in Table 2) of a language profile. A brief description of the parser and how it has been used for our purpose"
+2020.lrec-1.108,adesam-etal-2014-computer,0,0.0292053,"ma level. The majority of the contemporary lexicons in the network have been constructed for natural language processing (NLP) according to the ISO Standard LMF (Francopoulo, 2013) and connected through SALDO’s lexical sense identifier (Borin et al., 2013). Historical resources that originally were not structured for NLP applications were converted to machine readable formats and were interlinked to SALDO through a diachronic pivot (Borin and Forsberg, 2011). Their base forms and morphological inflections were either extracted from the lexicon or inferred through language technology analysis (Adesam et al., 2014). 6.1. Linking Historical Lexical Resources Linking historical resources to a lexical infrastructure requires specific techniques that not only are tailored to the material but also to the technical solutions of the infrastructure. An example of a technique that is implemented in Karp is the ability to access the source document, and the possibility of viewing it in the interface. When a user performs an entry search he/she will be presented with a link to the facsimile, given it is available, as a part of the search results. The user can further click the link and access the facsimile which i"
+2020.lrec-1.108,borin-etal-2012-open,1,0.904283,"guage Bank) is a national research infrastructure funded for the period 2018–2024 by the Swedish Research Council and the ten collaborating partners, seven universities and three national culturalheritage institutions. Its division Språkbanken Text at the University of Gothenburg is committed to making NordiCon widely available to researchers. Språkbanken Text is also a CLARIN B center, which will ensure that the dataset will be available as part of the European research infrastructure provided through CLARIN ERIC. NordiCon will be part of Karp, Språkbanken Text’s open lexical infrastructure (Borin et al., 2012a). Karp has a backend and a frontend side. The backend side gathers and organizes contemporary and historical lexicons in a large network.11 Lexical entries in the different lexicons are interlinked in the network either on the lexical sense level or on the lemma level. The majority of the contemporary lexicons in the network have been constructed for natural language processing (NLP) according to the ISO Standard LMF (Francopoulo, 2013) and connected through SALDO’s lexical sense identifier (Borin et al., 2013). Historical resources that originally were not structured for NLP applications we"
+2020.lrec-1.108,borin-etal-2012-korp,1,0.904786,"guage Bank) is a national research infrastructure funded for the period 2018–2024 by the Swedish Research Council and the ten collaborating partners, seven universities and three national culturalheritage institutions. Its division Språkbanken Text at the University of Gothenburg is committed to making NordiCon widely available to researchers. Språkbanken Text is also a CLARIN B center, which will ensure that the dataset will be available as part of the European research infrastructure provided through CLARIN ERIC. NordiCon will be part of Karp, Språkbanken Text’s open lexical infrastructure (Borin et al., 2012a). Karp has a backend and a frontend side. The backend side gathers and organizes contemporary and historical lexicons in a large network.11 Lexical entries in the different lexicons are interlinked in the network either on the lexical sense level or on the lemma level. The majority of the contemporary lexicons in the network have been constructed for natural language processing (NLP) according to the ISO Standard LMF (Francopoulo, 2013) and connected through SALDO’s lexical sense identifier (Borin et al., 2013). Historical resources that originally were not structured for NLP applications we"
+borin-2000-something,W99-0705,0,\N,Missing
+borin-2000-something,C00-1015,1,\N,Missing
+borin-2000-something,P98-2123,0,\N,Missing
+borin-2000-something,C98-2118,0,\N,Missing
+borin-2000-something,P98-2164,0,\N,Missing
+borin-2000-something,C98-2159,0,\N,Missing
+borin-2000-something,P98-1029,0,\N,Missing
+borin-2000-something,C98-1029,0,\N,Missing
+borin-etal-2010-diabase,elenius-etal-2008-language,0,\N,Missing
+borin-etal-2010-diabase,fillmore-etal-2002-framenet,0,\N,Missing
+borin-etal-2010-diabase,W04-2607,0,\N,Missing
+borin-etal-2012-open,W11-4609,1,\N,Missing
+borin-etal-2012-open,borin-etal-2010-diabase,1,\N,Missing
+borin-etal-2014-bring,J91-1002,0,\N,Missing
+borin-etal-2014-bring,P08-1048,0,\N,Missing
+borin-etal-2014-bring,P98-1100,0,\N,Missing
+borin-etal-2014-bring,C98-1097,0,\N,Missing
+borin-etal-2014-bring,de-melo-weikum-2008-mapping,1,\N,Missing
+borin-etal-2014-bring,borin-etal-2012-open,1,\N,Missing
+borin-etal-2014-bring,O95-1004,0,\N,Missing
+borin-etal-2014-linguistic,W11-4646,1,\N,Missing
+C00-1015,W98-1615,1,0.829151,"t, although the former will probably still stay ahead of the latter in terms of performance. similarity (both between and within languages), and part of speech are some of the information sources used, and also (heuristically based) stemming to increase type frequencies for the distributional measures (see, e.g. Tiedemann (to appear a), Tiedemann (to appear b); Melamed (1995), Melamed (1998)). In our work in the ETAP project we are looking for additional such information sources, and so far we have concentrated our efforts on exploring linguistically rich information, such as word similarity (Borin, 1998) and the combination of word alignment and POS tagging (Borin, to appear a). There must certainly exist other sources of information, in addition to those mentioned above, that can be used to improve word alignment. This paper discusses one particular such source, namely the use of a third language in the alignment process. Apart from an earlier presentation by the present author (Borin, to appear b), I have not seen any mention in the literature of the possibility of using a third language in this way for improving word alignment. Simard (1999) describes how the use of a third language can be"
+C00-1015,W95-0115,0,0.0122796,"ories. 3 We must stress that we are talking about the language-independent case here. For any particular language pair, language-specific linguistic (and possibly other) information can be used to improve both sentence and word alignment, although the former will probably still stay ahead of the latter in terms of performance. similarity (both between and within languages), and part of speech are some of the information sources used, and also (heuristically based) stemming to increase type frequencies for the distributional measures (see, e.g. Tiedemann (to appear a), Tiedemann (to appear b); Melamed (1995), Melamed (1998)). In our work in the ETAP project we are looking for additional such information sources, and so far we have concentrated our efforts on exploring linguistically rich information, such as word similarity (Borin, 1998) and the combination of word alignment and POS tagging (Borin, to appear a). There must certainly exist other sources of information, in addition to those mentioned above, that can be used to improve word alignment. This paper discusses one particular such source, namely the use of a third language in the alignment process. Apart from an earlier presentation by th"
+C00-1015,W99-0602,0,0.0645198,"ically rich information, such as word similarity (Borin, 1998) and the combination of word alignment and POS tagging (Borin, to appear a). There must certainly exist other sources of information, in addition to those mentioned above, that can be used to improve word alignment. This paper discusses one particular such source, namely the use of a third language in the alignment process. Apart from an earlier presentation by the present author (Borin, to appear b), I have not seen any mention in the literature of the possibility of using a third language in this way for improving word alignment. Simard (1999) describes how the use of a third language can be brought to bear upon the simpler problem of sentence alignment, but he does not consider the harder problem of word alignment. Perhaps it has not being thought of for the simple reason that it is possible only with multilingual parallel corpora, and—for obvious reasons—not with bilingual corpora, which has been the kind of parallel corpus that has received most attention from researchers in the field. 4 Pivot alignment Since the third language acts as, as it were, a pivot for the alignment of the two other languages, we refer to the method as p"
+J11-2002,E06-2023,0,0.0283012,"Missing"
+J11-2002,J09-3007,0,0.0242931,"Missing"
+J11-2002,P09-1120,0,0.0217614,"Missing"
+J11-2002,W06-3209,0,0.359976,"Missing"
+J11-2002,P03-1036,0,0.168876,"Missing"
+J11-2002,J01-2001,0,0.865178,"lexeme (if meaning is taken into account). The converse need not hold; it is perfectly possible to answer the question of whether two words are of the same stem with high accuracy, without having to commit to what the actual stem should be. Many recent articles fail to deal properly with previous and related work, some reinvent heuristics that have been proposed earlier, and there is little modularization taking place. Previous surveys and overviews for a general audience are Borin (1991), Batchelder (1997, pages 66–68), Powers (1998), Clark (2001, pages 80–82), Xanthos (2007, pages 95–107), Goldsmith (2001), Daelemans (2004, page 1898), Roark and Sproat (2007, pages 116–136), Hammarström (2007b, pages 10–15), Chan (2008, pages 48–60), Hammarström (2009b, pages 14–21), Borin (2009), Goldsmith (2010), and, to a more limited extent, the related-work sections of individual research papers. Kurimo, Creutz, and Turunen (2007), Kurimo, Creutz, and Varjokallio (2008a, 2008b), Kurimo and Turunen (2008), Kurimo and Varjokallio (2008), and McNamee (2008) are overviews of systems in the MorphoChallenge of the respective year. However, we will try to be more comprehensive than previous surveys and discuss th"
+J11-2002,W05-0504,0,0.057591,"Missing"
+J11-2002,W05-0503,0,0.0508602,"Missing"
+J11-2002,N03-2015,0,0.257432,"Missing"
+J11-2002,W08-0704,0,0.0764252,"Missing"
+J11-2002,I08-3007,0,0.0168517,"Missing"
+J11-2002,J97-3003,0,0.113821,"and Yang 2003, for example) Such approaches are excluded from the present survey, unless the required data (e.g., paradigm members) are extracted from raw text in an unsupervised manner as well. We also exclude the special case of the second approach where morphology learning means not “learning the morphological system of a language,” but rather “learning the inﬂectional classes of out-of-vocabulary words,” namely, approaches where an existing morphological analysis component is used as the basis for guessing in which existing paradigm an unknown text word should belong (e.g., Antworth 1990; Mikheev 1997; Bharati et al. 2001; Forsberg, Hammarström, and Ranta 2006; Lindén 2008; Lindén 2009). One of the matters that varies the most between different authors is the desired outcome. It is useful to set up the implicational hierarchy shown in Table 1 (which 4 There are, however, rare cases of languages which allow the permutation of speciﬁc pairs of preﬁxes, such as Kagulu (Petzell 2007), Yimas and Karawari (Foley 1991, pages 31–32) as well as Chintang, Bantawa, and possibly other Kiranti languages where preﬁx ordering in general is very free (Rai 1984; Bickel et al. 2007). 5 Clitics are afﬁx-like"
+J11-2002,P04-2012,0,0.0411274,"Missing"
+J11-2002,W07-1315,0,0.0926385,"Missing"
+J11-2002,W04-0107,0,0.0455356,"Missing"
+J11-2002,W08-0708,0,0.0213709,"Missing"
+J11-2002,D09-1070,0,0.0924872,"Missing"
+J11-2002,W02-0604,0,0.344829,"singular–plural pairs,” or “all members of a paradigm” (Garvin 1967; Klein and Dennison 1976; Golding and Thompson 1985; Wothke 1985; McClelland and Rumelhart 1986; Brasington, Jones, and Biggs 1988; Tuﬁs 1989; Zhang and Kim 1990; Borin 1991; Theron and Cloete 1997; Oﬂazer, McShane, and Nirenburg 2001, for example) approaches where some (small) amount of annotated data, some (small) amount of existing rule sets, or resources such as a machinereadable dictionary or a parallel corpus, are mandatory (Yarowsky and Wicentowski 2000; Yarowsky, Ngai, and Wicentowski 2001; Cucerzan and Yarowsky 2002; Neuvel and Fulop 2002; Johnson and Martin 2003; Rogati, McCarley, and Yang 2003, for example) Such approaches are excluded from the present survey, unless the required data (e.g., paradigm members) are extracted from raw text in an unsupervised manner as well. We also exclude the special case of the second approach where morphology learning means not “learning the morphological system of a language,” but rather “learning the inﬂectional classes of out-of-vocabulary words,” namely, approaches where an existing morphological analysis component is used as the basis for guessing in which existing paradigm an unknown t"
+J11-2002,J01-1003,0,0.119818,"Missing"
+J11-2002,W04-0102,0,0.0344388,"Missing"
+J11-2002,N09-1024,0,0.133856,"Missing"
+J11-2002,W98-1241,0,0.0627657,"f two words are of the same stem (if meaning is disregarded) or the same lexeme (if meaning is taken into account). The converse need not hold; it is perfectly possible to answer the question of whether two words are of the same stem with high accuracy, without having to commit to what the actual stem should be. Many recent articles fail to deal properly with previous and related work, some reinvent heuristics that have been proposed earlier, and there is little modularization taking place. Previous surveys and overviews for a general audience are Borin (1991), Batchelder (1997, pages 66–68), Powers (1998), Clark (2001, pages 80–82), Xanthos (2007, pages 95–107), Goldsmith (2001), Daelemans (2004, page 1898), Roark and Sproat (2007, pages 116–136), Hammarström (2007b, pages 10–15), Chan (2008, pages 48–60), Hammarström (2009b, pages 14–21), Borin (2009), Goldsmith (2010), and, to a more limited extent, the related-work sections of individual research papers. Kurimo, Creutz, and Turunen (2007), Kurimo, Creutz, and Varjokallio (2008a, 2008b), Kurimo and Turunen (2008), Kurimo and Varjokallio (2008), and McNamee (2008) are overviews of systems in the MorphoChallenge of the respective year. However"
+J11-2002,J07-2013,0,0.0451564,"Missing"
+J11-2002,P03-1050,0,0.0220207,"Missing"
+J11-2002,W00-0712,0,0.50558,"se greatly, in the wake of a general increased attention during the 1990s to statistical and information-theoretically informed approaches in natural language processing. In speech processing, the problem of word segmentation is ever-present, and as the computational tools for taking on this problem became increasingly sophisticated and increasingly available not least as the result of a general development of computing hardware and software, researchers in linguistics and computational linguistics started taking a fresh look at the problems of word segmentation and ULM. The work of Goldsmith (2000, 2001, 2006) represents a kind of focal point here. He pulls together a number of strands from earlier work, sets them against a theoretical background informed both by information theory (MDL) and linguistics, and uses them speciﬁcally to address the problem of ULM—in particular, unsupervised learning of inﬂectional morphology—and not, for instance, that of word segmentation or of stemming for information retrieval, and so forth. Further, there has been the idea that ULM could contribute to various open questions in the ﬁeld of ﬁrst-language acquisition (see, e.g., Brent, Murthy, and Lundberg 1995; Batch"
+J11-2002,W02-0601,0,0.0787926,"Missing"
+J11-2002,P01-1063,0,0.0508513,"Missing"
+J11-2002,W02-0602,0,0.22247,"Missing"
+J11-2002,P08-1084,0,0.0850514,"Missing"
+J11-2002,I08-1003,0,0.022629,"Missing"
+J11-2002,A97-1016,0,0.146801,"rpheme segmentation rather than word segmentation. We prefer the term segmentation to analysis because, in general in ULM, the algorithm does not attempt to label the segments. There have been other approaches to machine learning of morphology than pure ULM as deﬁned here, the most popular ones being: r r approaches that require selective input, such as “singular–plural pairs,” or “all members of a paradigm” (Garvin 1967; Klein and Dennison 1976; Golding and Thompson 1985; Wothke 1985; McClelland and Rumelhart 1986; Brasington, Jones, and Biggs 1988; Tuﬁs 1989; Zhang and Kim 1990; Borin 1991; Theron and Cloete 1997; Oﬂazer, McShane, and Nirenburg 2001, for example) approaches where some (small) amount of annotated data, some (small) amount of existing rule sets, or resources such as a machinereadable dictionary or a parallel corpus, are mandatory (Yarowsky and Wicentowski 2000; Yarowsky, Ngai, and Wicentowski 2001; Cucerzan and Yarowsky 2002; Neuvel and Fulop 2002; Johnson and Martin 2003; Rogati, McCarley, and Yang 2003, for example) Such approaches are excluded from the present survey, unless the required data (e.g., paradigm members) are extracted from raw text in an unsupervised manner as well. We a"
+J11-2002,E89-1020,0,0.308484,"e present survey are to be understood as morpheme segmentation rather than word segmentation. We prefer the term segmentation to analysis because, in general in ULM, the algorithm does not attempt to label the segments. There have been other approaches to machine learning of morphology than pure ULM as deﬁned here, the most popular ones being: r r approaches that require selective input, such as “singular–plural pairs,” or “all members of a paradigm” (Garvin 1967; Klein and Dennison 1976; Golding and Thompson 1985; Wothke 1985; McClelland and Rumelhart 1986; Brasington, Jones, and Biggs 1988; Tuﬁs 1989; Zhang and Kim 1990; Borin 1991; Theron and Cloete 1997; Oﬂazer, McShane, and Nirenburg 2001, for example) approaches where some (small) amount of annotated data, some (small) amount of existing rule sets, or resources such as a machinereadable dictionary or a parallel corpus, are mandatory (Yarowsky and Wicentowski 2000; Yarowsky, Ngai, and Wicentowski 2001; Cucerzan and Yarowsky 2002; Neuvel and Fulop 2002; Johnson and Martin 2003; Rogati, McCarley, and Yang 2003, for example) Such approaches are excluded from the present survey, unless the required data (e.g., paradigm members) are extract"
+J11-2002,2007.mtsummit-papers.65,0,0.0379096,"Missing"
+J11-2002,W04-0109,0,0.0445354,"Missing"
+J11-2002,J09-4012,0,0.0381362,"Missing"
+J11-2002,C86-1069,0,0.637012,"Missing"
+J11-2002,W06-3205,0,0.208036,"Missing"
+J11-2002,H01-1035,0,0.0289933,"Missing"
+J11-2002,P00-1027,0,0.211268,"deﬁned here, the most popular ones being: r r approaches that require selective input, such as “singular–plural pairs,” or “all members of a paradigm” (Garvin 1967; Klein and Dennison 1976; Golding and Thompson 1985; Wothke 1985; McClelland and Rumelhart 1986; Brasington, Jones, and Biggs 1988; Tuﬁs 1989; Zhang and Kim 1990; Borin 1991; Theron and Cloete 1997; Oﬂazer, McShane, and Nirenburg 2001, for example) approaches where some (small) amount of annotated data, some (small) amount of existing rule sets, or resources such as a machinereadable dictionary or a parallel corpus, are mandatory (Yarowsky and Wicentowski 2000; Yarowsky, Ngai, and Wicentowski 2001; Cucerzan and Yarowsky 2002; Neuvel and Fulop 2002; Johnson and Martin 2003; Rogati, McCarley, and Yang 2003, for example) Such approaches are excluded from the present survey, unless the required data (e.g., paradigm members) are extracted from raw text in an unsupervised manner as well. We also exclude the special case of the second approach where morphology learning means not “learning the morphological system of a language,” but rather “learning the inﬂectional classes of out-of-vocabulary words,” namely, approaches where an existing morphological ana"
+J11-2002,C90-2074,0,0.339703,"urvey are to be understood as morpheme segmentation rather than word segmentation. We prefer the term segmentation to analysis because, in general in ULM, the algorithm does not attempt to label the segments. There have been other approaches to machine learning of morphology than pure ULM as deﬁned here, the most popular ones being: r r approaches that require selective input, such as “singular–plural pairs,” or “all members of a paradigm” (Garvin 1967; Klein and Dennison 1976; Golding and Thompson 1985; Wothke 1985; McClelland and Rumelhart 1986; Brasington, Jones, and Biggs 1988; Tuﬁs 1989; Zhang and Kim 1990; Borin 1991; Theron and Cloete 1997; Oﬂazer, McShane, and Nirenburg 2001, for example) approaches where some (small) amount of annotated data, some (small) amount of existing rule sets, or resources such as a machinereadable dictionary or a parallel corpus, are mandatory (Yarowsky and Wicentowski 2000; Yarowsky, Ngai, and Wicentowski 2001; Cucerzan and Yarowsky 2002; Neuvel and Fulop 2002; Johnson and Martin 2003; Rogati, McCarley, and Yang 2003, for example) Such approaches are excluded from the present survey, unless the required data (e.g., paradigm members) are extracted from raw text in"
+J11-2002,2003.jeptalnrecital-long.27,0,0.0339796,"Missing"
+J11-2002,N07-1020,0,\N,Missing
+J11-2002,monson-etal-2008-linguistic,0,\N,Missing
+J11-2002,W02-0606,0,\N,Missing
+J11-2002,W04-0106,0,\N,Missing
+J11-2002,N01-1024,0,\N,Missing
+J11-2002,C69-1201,0,\N,Missing
+J11-2002,fishel-kirik-2010-linguistically,0,\N,Missing
+J11-2002,C04-1152,0,\N,Missing
+J11-2002,W05-0617,0,\N,Missing
+J11-2002,N06-1062,0,\N,Missing
+J11-2002,C69-6209,0,\N,Missing
+J11-2002,P07-1116,0,\N,Missing
+J11-2002,W02-0603,0,\N,Missing
+J11-2002,N09-2019,0,\N,Missing
+J11-2002,P10-1010,0,\N,Missing
+J11-2002,W02-0605,0,\N,Missing
+J11-2002,W02-2006,0,\N,Missing
+J11-2002,W99-0904,0,\N,Missing
+J11-2002,W04-1302,0,\N,Missing
+kokkinakis-etal-2014-hfst,U07-1010,0,\N,Missing
+kokkinakis-etal-2014-hfst,W06-0503,0,\N,Missing
+kokkinakis-etal-2014-hfst,E99-1001,0,\N,Missing
+kokkinakis-etal-2014-hfst,W09-1119,0,\N,Missing
+kokkinakis-etal-2014-hfst,C08-1034,0,\N,Missing
+kokkinakis-etal-2014-hfst,P10-1015,0,\N,Missing
+kokkinakis-etal-2014-hfst,W03-0419,0,\N,Missing
+kokkinakis-etal-2014-hfst,P09-3003,0,\N,Missing
+kokkinakis-etal-2014-hfst,C02-1130,0,\N,Missing
+kokkinakis-etal-2014-hfst,W12-5701,0,\N,Missing
+kokkinakis-etal-2014-hfst,sekine-nobata-2004-definition,0,\N,Missing
+kokkinakis-etal-2014-hfst,C96-1079,0,\N,Missing
+kokkinakis-etal-2014-hfst,W98-1603,1,\N,Missing
+L18-1426,baccianella-etal-2010-sentiwordnet,0,0.0978116,"ations independently of SALDO, e.g., for lemmatization and morphological analysis of Swedish text. For the work described here, we use SALDO v. 2.3, which contains 131,020 word senses. SALDO is freely available (under a CC-BY license). Different ways of modeling sentiment for a word sense or unit of text are possible. The simplest (but not necessarily the less appropriate) model is the bipolar model, which assigns to each lexical unit a scalar, which is often normalized in the interval [−1, +1], with −1 representing the most negative possible sentiment, and +1 the most positive. SentiWordNet (Baccianella et al., 2010) and its gold standard Micro-WNOp (Cerini et al., 2007) use a model with two degrees of freedom. Each semantic unit in WordNet (Fellbaum, 1998) is assigned a three-dimensional vector (pos, neg, neu) with positive, negative and neutral components, normalized so that pos+neg+neu = 1 (this effectively gives 2 degrees of freedom). This model can be trivially converted to the previous one using sen = pos − neg. 3. Annotation We aim to have a gold standard that assigns a sentiment to each SALDO entry. The bipolar sentiment model should be supported, but we also want to investigate the feasibility an"
+L18-1426,P14-2063,0,0.0794638,"Worst Scaling. In addition to obtaining a gold standard, we analyze the data from our process and we draw conclusions about the optimal sentiment model. Keywords: sentiment analysis, Swedish, gold standard, lexical resource 1. Introduction There is an increasing demand for multilingual sentiment analysis, and most work on sentiment lexicons is still carried out based on English lexicons like WordNet (Fellbaum, 1998). In addition, many of the non-English sentiment lexicons that do exist have been compiled by (machine) translation from English resources, e.g., by Mohammad and Turney (2010)1 and Chen and Skiena (2014), thereby arguably obscuring possible language-specific characteristics of sentiment-loaded vocabulary. In this paper we describe the creation of a gold standard for the sentiment annotation of Swedish terms as a first step towards the creation of a full- fledged sentiment lexicon for Swedish – i.e., a lexicon containing information about prior sentiment (also called polarity) values of lexical items (words or disambiguated word senses), along a scale negative–positive. For this purpose, we use human annotations of items sampled from a general-purpose computational lexical resource. More speci"
+L18-1426,P92-1032,0,0.0608644,"Missing"
+L18-1426,N16-1095,0,0.147382,"on of a gold standard for the sentiment annotation of Swedish terms as a first step towards the creation of a full- fledged sentiment lexicon for Swedish – i.e., a lexicon containing information about prior sentiment (also called polarity) values of lexical items (words or disambiguated word senses), along a scale negative–positive. For this purpose, we use human annotations of items sampled from a general-purpose computational lexical resource. More specifically, we employ a multi-stage approach combining corpus-based frequency sampling, direct score annotation and Best- Worst Scaling (BWS) (Kiritchenko and Mohammad, 2016). 2. State of the art We base our gold standard on SALDO (Språkbanken, 2015a), which is an existing Swedish lexical-semantic computational resource (Borin et al., 2013). It is organized as a lexical-semantic network of word senses, whose topology reflects semantic distance among the word senses. Each word sense in SALDO is additionally connected to one or more form units (lemmas plus part of speech and full inflectional and compounding information). These are formally organized as an independent lexical resource – SALDO’s Morphology (Språkbanken, 2015b) – which consequently can be used in NLP"
+L18-1426,W16-1401,0,0.0389883,"Missing"
+L18-1426,L18-1662,1,0.814476,"cient advantages to outweigh the simplicity and efficiency of the bipolar model. 1.0 negBWS 0.8 0.6 0.4 0.2 0.0 0.00 0.25 0.50 posBWS 0.75 1.00 5. (a) Scatterplot of the BWS annotation The obtained gold standard is now being used to train and compare different lexicon-based algorithms for creating a complete sentiment lexicon for Swedish. In particular, we have experimented with growing sentiment lexicons based on a set of initial items and the lexical-semantic network structure of resources such as SALDO, plus contextual information from large corpora. We describe this work in more detail in Rouces et al. (2018). The resulting lexical resource, SenSALDO (Språkbanken, 2018), is freely available under a CC-BY license. In parallel, we are also considering translating sentiment lexicons (from English). This is still future work, which will provide us with an opportunity to compare the results of the two approaches of building a Swedish sentiment lexicon from scratch based on monolingual resources, or of basing it on translation of an existing sentiment lexicon for another language.6 The more linguistic aspects of our work on the gold standard are treated in a companion publication to the present paper (R"
+L18-1662,baccianella-etal-2010-sentiwordnet,0,0.311169,"1). The values were averaged over three annotators (so if an entry is labeled as positive by two annotators and as neutral by one, the final value would be 2/3). Table 1 shows the results for each method. We employed two different sets of measures for measuring the quality of the gold standard: one is based on ranks and other is based on discrete labels. • The rank-based measures are the Spearman rankorder correlation coefficient (ρ) (Kokoska and Zwillinger, 2000), in the interval [−1, 1], the p-normalized Kendall tau distance (τp ) (Fagin et al., 2004) in the interval [0, 1] (the one used in Baccianella et al. (2010)), and Kendall’s tau-b (τb ) (Kendall, 1945) (the one used in Rothe et al. (2016)). Both τp and τb are suited to handle ties —which in our case means word senses with equal sentiment values— but they do so in different ways. In addition to the direct annotation values in the test set, we also used more fine-grained sentiment values of 278 entries that are available as part of the same gold standard (Rouces et al., 2018), which were obtained using Best-Worst Scaling (BWS) and also comprised in the [−1, 1] range. The reason for this is that these values are more fine-grained than the Direct Anno"
+L18-1662,W17-5104,0,0.214664,"Missing"
+L18-1662,borin-etal-2014-bring,1,0.901408,"Missing"
+L18-1662,P14-2063,0,0.311079,"Missing"
+L18-1662,D16-1057,0,0.126102,"Missing"
+L18-1662,N15-1164,0,0.0612209,"Missing"
+L18-1662,N16-1091,0,0.274542,"ated, we use a manually curated version which forms part of an emerging Swedish enriched wordnet, Swesaurus (Språkbanken, 2017b),8 where an experienced lexicographer has (i) removed incorrect entries and (ii) replaced each remaining entry with its corresponding SALDO word sense. In some cases the degree of synonymy (the weight) has also been modified. We use the original weights in the [0, 1] interval. meta-parameters (C, γ) were estimated using 5-fold crossvalidation over the training set. Although not equivalent, the linear nature of the logit classifier makes it comparable to the method in Rothe et al. (2016). These methods output labels, but scores are obtained computing p((pos) − p((neg)), where p is the probability for a given entry to belong to the positive or negative classes. For the logit classifier, p is straightforward. For the support vector classifier, an extension of Platt scaling for multiple classes is used (Wu et al., 2004). 4. For training and testing the different methods, we used the direct annotation gold standard developed in Rouces et al. (2018), composed of 1998 entries from SALDO entries labeled as negative (value −1), neutral (value 0), or positive (value +1). The values we"
+L18-1662,L18-1426,1,0.864766,"as obtained. The original 150 entries were sampled using equally sized stratification over the three confidence levels. 3. Methods We model the sentiment associated to a word sense using a real value in the interval [−1, 1]. After first considering 7 In Nusko et al. (2016) the seeds and their children are referred as “core words” and “seeds” respectively. using a three-dimensional model like that of SentiWordNet (Baccianella et al., 2010), we collected some experimental evidence indicating that this was largely unnecessary since the additional degree of freedom was all but unused in practice (Rouces et al., 2018). We implement different methods, which we describe below, extending the methods in Rosell and Kann (2010) and Nusko et al. (2016) and also try a corpus-oriented approach similar to the one in Hamilton et al. (2016). For all methods, we produce continuous scores and discrete labels (positive, neutral, negative). What is relevant about the scores is not their magnitudes but the relative order that they produce. The values and their distributions depend on idiosyncrasies of the methods employed and do not necessarily resemble what would be produced by direct human annotations, but instead can be"
+nilsson-borin-2002-living,P98-1069,0,\N,Missing
+nilsson-borin-2002-living,C98-1066,0,\N,Missing
+R19-1143,P98-1013,0,0.122004,"place, manner) are called frame elements. Some of the them (the perpetrator, the victim, and the goods) are necessary for the situation to make sense and are called core frame elements. Others like the place where the robbery took place, the manner in which it took place are called non-core frame elements (see Ruppenhofer et al., 2016 for details). Now, with the availability of a structured representation of the robbery situation, words like hold up, mug, ransack, rifle, rob, stick up can be better understood and analyzed. 2.2 FrameNet The development of a lexico-semantic resource – FrameNet (Baker et al., 1998) – based on the theory of frame semantics was initiated in 1998 for English. In this lexical resource, generally referred to as simply FrameNet or Berkeley FrameNet (BFN), each of the semantic frames has a set of associated words (or triggers) which can evoke that particular semantic frame. The linguistic expressions for participants, props, and other characteristic elements of the situations (called frame elements) are also identified for each frame. In addition, each semantic frame is accompanied by example sentences taken from naturally occurring natural language text, annotated with trigge"
+R19-1143,C18-1267,0,0.021357,"e. frame-element classification. So the frameelement identification and classification tasks will label the text segment The genitive as ‘Participant_1’, sometimes as ‘Frequency’, noun as ‘Participant_2’, in gender as ‘Grammatical_Category’ and Gondi as the ‘Reference_Language’. All of these three steps can be formulated as supervised machine learning classification tasks. Gildea and Jurafsky (2002) were the first to report their experiments with an automatic framesemantic parsing system, and since then there have been a number of studies (Johansson and Nugues, 2008; Swayamdipta et al., 2017; Kabbach et al., 2018) and a shared task (Surdeanu et al., 2008) devoted to exploring and improving the task of frame-semantic parsing. 3 LingFN – a FrameNet for the Linguistic Domain Linguistics has established a rich set of domainspecific terms and concepts such as verbs, nouns, determiners, inflection, agreement, affixation, etc. Inspired by other domain-specific FrameNets (mentioned in Section 2.2), the development of a FrameNet for the linguistic domain (LingFN) has been previously reported (Malm et al., 2018). LingFN contains two types of frames: the filler frames and the eventful frames. The former are to co"
+R19-1143,P14-5010,0,0.00532588,"to show how frame-semantic parsing can be exploited to extract linguistic features from descriptive grammars, we have opted to use the same feature set as described by Johansson and Nugues (2008). While a detailed explanation of the features can be found in Johansson and Nugues (2008), Table 5 lists 15 features used for training both the frameelement identification and frame-element classification models. The procedure for generating the training instances and computing the features values is as follows: Each sentence of the training data set was parsed using the Stanford constituency parser (Manning et al., 2014) resulting into parse trees as shown in Figure 3. Each node of the tree is then taken as one training instance and the required feature values are computed. The features values given in the last column of Table 5 were computed for the NP node referring to the qualified nouns (the one enclosed within the dotted area) as the argument node (i.e. the frame-element node) and with agree as the target word (i.e. frame triggering word). When computing for the whole tree, if a given argument node has been annotated as a frame element in the annotation the computed feature vector will get ‘Y’ as its cla"
+R19-1143,D13-1079,0,0.0216527,"ypological and other linguistic information from descriptive grammars (Virk et al., 2017; Borin et al., 2018). In these studies, the authors have reported simple pattern matching and syntactic parsing based approaches, and have shown that their strategy is useful, yielding reasonable precision and recall values. Even though simple pattern matching based systems are easy to comprehend, implement, and maintain, they require a deep understanding of the rules/patterns which may not be very obvious in certain cases. Further, such systems are heuristics based and also require a large manual effort (Chiticariu et al., 2013). For these reasons the patternmatching based systems are becoming a less and 1247 Proceedings of Recent Advances in Natural Language Processing, pages 1247–1256, Varna, Bulgaria, Sep 2–4, 2019. https://doi.org/10.26615/978-954-452-056-4_143 less attractive choice and machine learning and big-data based approaches are taking their place. In this paper, we report a novel methodology and a system for automatic extraction of typological information from descriptive grammars. The system is based on the theory of frame semantics and frame-semantic parsing, and employs a machine learning based appro"
+R19-1143,N06-1025,0,0.0425666,"Missing"
+R19-1143,J02-3001,0,0.0593402,"needs to checked for whether it expresses a frame element or not. This is the frame-element identification task. When a particular word or word-combination has been recognized as a frame element, it should be labeled next i.e. frame-element classification. So the frameelement identification and classification tasks will label the text segment The genitive as ‘Participant_1’, sometimes as ‘Frequency’, noun as ‘Participant_2’, in gender as ‘Grammatical_Category’ and Gondi as the ‘Reference_Language’. All of these three steps can be formulated as supervised machine learning classification tasks. Gildea and Jurafsky (2002) were the first to report their experiments with an automatic framesemantic parsing system, and since then there have been a number of studies (Johansson and Nugues, 2008; Swayamdipta et al., 2017; Kabbach et al., 2018) and a shared task (Surdeanu et al., 2008) devoted to exploring and improving the task of frame-semantic parsing. 3 LingFN – a FrameNet for the Linguistic Domain Linguistics has established a rich set of domainspecific terms and concepts such as verbs, nouns, determiners, inflection, agreement, affixation, etc. Inspired by other domain-specific FrameNets (mentioned in Section 2."
+R19-1143,D07-1002,0,0.00916147,"rean, Italian, Japanese, Portuguese, Spanish, and Swedish. 2.3 Frame-Semantic Parsing In addition to the annotated examples, FrameNets are also often accompanied by varying amounts of frame-annotated natural running text intended 1248 2 http://www.kicktionary.de/ both to illustrate particular semantic-frame usages and to demonstrate the utility of frame semantics as a model of meaning in language. One of the uses of such annotated text is to develop automatic frame-semantic parsers, which in turn have proved useful in a number of natural language processing tasks including question answering (Shen and Lapata, 2007), coreference resolution (Ponzetto and Strube, 2006), paraphrase extraction (Hasegawa et al., 2011), machine translation (Wu and Fung, 2009), and information extraction (Surdeanu et al., 2003). Frame-semantic parsing necessarily involves three basic steps. These are frame identification, frame element identification, and frame-element classification. Consider the annotated sentence shown in Figure 1 to better understand those basic steps of the frame semantic parsing. If the annotation shown is to be done automatically, the first step would be to consider each word of the sentence and check if"
+R19-1143,P03-1002,0,0.168629,"notated natural running text intended 1248 2 http://www.kicktionary.de/ both to illustrate particular semantic-frame usages and to demonstrate the utility of frame semantics as a model of meaning in language. One of the uses of such annotated text is to develop automatic frame-semantic parsers, which in turn have proved useful in a number of natural language processing tasks including question answering (Shen and Lapata, 2007), coreference resolution (Ponzetto and Strube, 2006), paraphrase extraction (Hasegawa et al., 2011), machine translation (Wu and Fung, 2009), and information extraction (Surdeanu et al., 2003). Frame-semantic parsing necessarily involves three basic steps. These are frame identification, frame element identification, and frame-element classification. Consider the annotated sentence shown in Figure 1 to better understand those basic steps of the frame semantic parsing. If the annotation shown is to be done automatically, the first step would be to consider each word of the sentence and check if it evokes a particular frame or not, and disambiguate in case if the candidate word evokes more than one frame. As a result, the word agrees (shown in bold) will be recognized as a lexical un"
+R19-1143,W08-2121,0,0.0324476,"rameelement identification and classification tasks will label the text segment The genitive as ‘Participant_1’, sometimes as ‘Frequency’, noun as ‘Participant_2’, in gender as ‘Grammatical_Category’ and Gondi as the ‘Reference_Language’. All of these three steps can be formulated as supervised machine learning classification tasks. Gildea and Jurafsky (2002) were the first to report their experiments with an automatic framesemantic parsing system, and since then there have been a number of studies (Johansson and Nugues, 2008; Swayamdipta et al., 2017; Kabbach et al., 2018) and a shared task (Surdeanu et al., 2008) devoted to exploring and improving the task of frame-semantic parsing. 3 LingFN – a FrameNet for the Linguistic Domain Linguistics has established a rich set of domainspecific terms and concepts such as verbs, nouns, determiners, inflection, agreement, affixation, etc. Inspired by other domain-specific FrameNets (mentioned in Section 2.2), the development of a FrameNet for the linguistic domain (LingFN) has been previously reported (Malm et al., 2018). LingFN contains two types of frames: the filler frames and the eventful frames. The former are to cover simple linguistic terms such as noun,"
+R19-1143,C08-1050,0,0.0407373,"nized as a frame element, it should be labeled next i.e. frame-element classification. So the frameelement identification and classification tasks will label the text segment The genitive as ‘Participant_1’, sometimes as ‘Frequency’, noun as ‘Participant_2’, in gender as ‘Grammatical_Category’ and Gondi as the ‘Reference_Language’. All of these three steps can be formulated as supervised machine learning classification tasks. Gildea and Jurafsky (2002) were the first to report their experiments with an automatic framesemantic parsing system, and since then there have been a number of studies (Johansson and Nugues, 2008; Swayamdipta et al., 2017; Kabbach et al., 2018) and a shared task (Surdeanu et al., 2008) devoted to exploring and improving the task of frame-semantic parsing. 3 LingFN – a FrameNet for the Linguistic Domain Linguistics has established a rich set of domainspecific terms and concepts such as verbs, nouns, determiners, inflection, agreement, affixation, etc. Inspired by other domain-specific FrameNets (mentioned in Section 2.2), the development of a FrameNet for the linguistic domain (LingFN) has been previously reported (Malm et al., 2018). LingFN contains two types of frames: the filler fra"
+R19-1143,N09-2004,0,0.0111927,"often accompanied by varying amounts of frame-annotated natural running text intended 1248 2 http://www.kicktionary.de/ both to illustrate particular semantic-frame usages and to demonstrate the utility of frame semantics as a model of meaning in language. One of the uses of such annotated text is to develop automatic frame-semantic parsers, which in turn have proved useful in a number of natural language processing tasks including question answering (Shen and Lapata, 2007), coreference resolution (Ponzetto and Strube, 2006), paraphrase extraction (Hasegawa et al., 2011), machine translation (Wu and Fung, 2009), and information extraction (Surdeanu et al., 2003). Frame-semantic parsing necessarily involves three basic steps. These are frame identification, frame element identification, and frame-element classification. Consider the annotated sentence shown in Figure 1 to better understand those basic steps of the frame semantic parsing. If the annotation shown is to be done automatically, the first step would be to consider each word of the sentence and check if it evokes a particular frame or not, and disambiguate in case if the candidate word evokes more than one frame. As a result, the word agree"
+rehm-etal-2014-strategic,P07-2045,0,\N,Missing
+rehm-etal-2014-strategic,piperidis-etal-2014-meta,1,\N,Missing
+rehm-etal-2014-strategic,piperidis-2012-meta,1,\N,Missing
+volodina-etal-2014-flexible,E93-1064,0,\N,Missing
+volodina-etal-2014-flexible,W13-2904,0,\N,Missing
+volodina-etal-2014-flexible,W13-1705,0,\N,Missing
+volodina-etal-2014-flexible,W13-1715,0,\N,Missing
+volodina-etal-2014-flexible,W13-1739,0,\N,Missing
+volodina-etal-2014-flexible,pilan-volodina-2014-reusing,1,\N,Missing
+volodina-etal-2014-flexible,volodina-kokkinakis-2012-introducing,1,\N,Missing
+volodina-etal-2014-flexible,W13-1702,0,\N,Missing
+volodina-etal-2014-flexible,W10-1002,0,\N,Missing
+volodina-etal-2014-flexible,borin-etal-2012-open,1,\N,Missing
+W07-0901,C02-1130,0,0.0290102,"em we use originates from the work conducted in the Nomen Nescio project; for details see Johannessen et al. (2005). In brief, the Swedish system is a multipurpose NER system, comprised by a number of modules applied in a pipeline fash-ion. Six major components can be distinguished, making a clear separation between lexical, gram-matical and processing resources. The six compo-nents are: • lists of multiword names, taken from various Internet sites or extracted from various corpora, running directly over the tokenised text being processed; • • • 4.1 erarchies for various tasks, both specific (Fleischman and Hovy, 2002) and generic (Sekine, 2004). Our current system implements a rather finegrained named entity taxonomy with 8 main named entitiy types as well as 57 subtypes. Details can be found in Johannessen et al., 2005, and Kokkinakis, 2004. The eight main categories are: • Person (PRS): people names (forenames, surnames), groups of people, animal/pet names, mythological, theonyms; a rule-based, shallow parsing component that uses finite-state grammars, one grammar for each type of entity recognized; a module that uses the annotations produced by the previous two components, which have a high rate in prec"
+W07-0901,P06-1141,0,0.0134061,"d the obtained results. text word Dalarne Asptomten Härnevi* Sabbathsberg Wenern* # 6 1 1 1 7 Kaknäs Kallmar 1 1 gazeteer Dalarna --Arnevi Sabbatsberg Werner,Waern Vänern Valnäs,Ramnäs Kalmar LD 1 --2 1 2 2 2 1 ann. loc --prs loc prs loc loc loc ?? yes no yes no yes yes biguous words, and information for disambiguation is derived from the entire document. Similarly, label consistency, the preference of the same annotation for the same word sequence everywhere in a particular discourse, is a comparable approach for achieving qualitatively higher recall rates with minimal resource overhead (cf. Krishnan and Manning, 2006). Such an approach has been used, e.g., by Aramaki et al. (2006), for the identification of personal health information (age, id, date, phone, location and doctor´s and patient´s names). Table 1. LD between potential NEs and the gazeteers; ‘*’: both are locations;‘??’: correct annot.? 5 The Document Centered Approach There is a known tradeoff between rule-based and statistical systems. Handcrafted grammar-based systems typically obtain better results, but at the cost of considerable manual effort by domain experts. Statistical NER systems typically require a large amount of manually annotated"
+W07-0901,sekine-nobata-2004-definition,0,0.0298924,"cted in the Nomen Nescio project; for details see Johannessen et al. (2005). In brief, the Swedish system is a multipurpose NER system, comprised by a number of modules applied in a pipeline fash-ion. Six major components can be distinguished, making a clear separation between lexical, gram-matical and processing resources. The six compo-nents are: • lists of multiword names, taken from various Internet sites or extracted from various corpora, running directly over the tokenised text being processed; • • • 4.1 erarchies for various tasks, both specific (Fleischman and Hovy, 2002) and generic (Sekine, 2004). Our current system implements a rather finegrained named entity taxonomy with 8 main named entitiy types as well as 57 subtypes. Details can be found in Johannessen et al., 2005, and Kokkinakis, 2004. The eight main categories are: • Person (PRS): people names (forenames, surnames), groups of people, animal/pet names, mythological, theonyms; a rule-based, shallow parsing component that uses finite-state grammars, one grammar for each type of entity recognized; a module that uses the annotations produced by the previous two components, which have a high rate in precision, in order to make dec"
+W07-0901,W01-0716,0,0.0191305,"e subject (e.g. berätta ‘to tell’, fundera ‘to think’, tröttna ‘to become tired’). These are used in conjunction with orthographic markers in the text, such as capitalization, for the recognition of personal names. In this work, we consider the first group (designators) as relevant knowledge to be extracted from the person name recognizer, which is explored for the annotation of animate instances in the literary texts. The designators are implemented as a separate module in the current pipeline, and constitute a piece of information which is considered important for a wide range of tasks (cf. Orasan and Evans, 2001). The designators are divided into four groups: designators that denote the nationality or the ethnic/racial group of a person (e.g. tysken ‘the German [person]’); designators that denote a profession (e.g. läkaren ‘the doctor’); those that denote family ties and relationships (e.g. svärson ‘son in law’); and finally a group that indicates a human individual but cannot be unambiguously categorized into any of the three other groups (e.g. patienten ‘the patient’). Apart from this grouping, inherent qualities, for at least a large group of the designators, (internal evidence/morphological cues)"
+W11-3314,J99-4008,0,0.0197438,"sed query expansion becomes feasible. Another possible application for these resources is Machine Translation (MT). The hierarchical structure of wordnets ensures that a translation can be found (going up or down in the hierarchy) even if a precise equivalent is not present between the specific languages. During the last decades, wordnets have been developed for several languages in the Nordic and Baltic countries including Finnish, Danish, Estonian, Icelandic and Swedish. Of these wordnets, Estonian WordNet is the oldest one since it was built as part of the EuroWordNet project in the 1990s (Vossen, 1999). In contrast, most of the other wordnets have been recently initiated, e.g. the Danish wordnet has been under development since 2005 (cf. Pedersen et al., 2009). The builders of these wordnets have applied different compilation strategies: where the Danish, Icelandic and Swedish wordnets are being developed via monolingual dictionaries and corpora and subsequently linked to Princeton WordNet, the Finnish wordnet has applied the translation method by translating Princeton WordNet into Finnish for later adjustment. From the above mentioned different time perspectives and compilation, there is a"
+W11-3314,varadi-etal-2008-clarin,0,0.0913447,"ted by the METANET4U project, while the METANORD project aims to establish an open linguis1 http://ec.europa.eu/information_society/activities/ict_psp/d ocuments/ict_psp_wp2010_final.pdf 2 http://www.meta-net.eu/ 107 Proceedings of Workshop on Language Resources, Technology and Services in the Sharing Paradigm, pages 107–114, Chiang Mai, Thailand, November 12, 2011. tic infrastructure in the Baltic and Nordic countries. This paper describes the key objectives and activities of the META-NORD project, presents its first results and discusses cooperation with other similar projects, e.g. CLARIN (Váradi et al., 2008). It is an integral part of the META-NET and other related initiatives like CLARIN to create a pan-European open linguistic resource exchange platform. 2 The META-NORD Project The META-NORD project focuses on 8 European languages – Danish, Estonian, Finnish, Icelandic, Latvian, Lithuanian, Norwegian and Swedish, – each with less than 10 million speakers. The project partners are University of Copenhagen, University of Tartu, University of Bergen, University of Helsinki, University of Iceland, Institute of Lithuanian Language, University of Gothenburg, and Tilde (coordinator). META-NORD contrib"
+W11-4609,W04-2607,0,0.0178605,"igners and a corpus of popular-scientific articles. A small encyclopedia and some other sources provided the large number (over 3,000) of proper names found in SAL. Eventually, a list of the headwords from Svensk ordbok (SO, 1986) was acquired from the NLP and Lexicology Unit at the University of Gothenburg, and the second paper edition of SAL (L¨onngren, 1992) contained 71,750 entries. At the time of writing, SALDO contains slightly over 104,000 entries, and new entries are added almost daily. The central semantic relation of SALDO is association, a “non-classical” lexical-semantic relation (Morris and Hirst, 2004). SALDO describes all words semantically, not only the open word classes. By way of illustration, figure 1 shows the semantic ‘neighbors’ (rendered in blue/non-bold) in SALDO of the word telefon ‘telephone (noun)’. It is associated i.a. with words like samtala ‘hold a conversation’, telefonledes ‘by phone’, pulsval ‘pulse dialling’, ringa ‘call (verb’, mobiltelefon ‘mobile phone’, the proper name Bell, and many others, as shown in figure 1.2 We soon realized that in order to be useful in language technology applications, SAL would have to be provided at least with part-of-speech and inflection"
+W11-4622,P07-1083,0,0.0139232,"the world’s languages.2 This group uses a modified Levenshtein distance between the lexical items as the measure of the inter-language distance. Singh and Surana (2007) use corpus based measures for estimating the distances between South Asian languages from noisy corpora of nine languages. They use a phonetics based similarity measure called computational phonetic model of scripts (CPMS; Singh et al. 2007) for pruning the possible cognate pairs between languages. The mean of the similarity between the pruned cognate pairs using this measure is estimated as the distance between the languages. Bergsma and Kondrak (2007) conduct experiments for cognate identification using alignment-based discriminative string similarity. They automatically extract cognate candidate pairs from the Europarl corpus (Koehn, 2005) and from bilingual dictionaries for the language pairs English–French, English–German, English– Greek, English–Japanese, English–Russian, and English–Spanish. Bouchard-Cˆot´e et al. (2007) also use the Europarl corpus to extract cognates for the task of modeling the diachronic phonology of the Romance languages. In neither case is the goal of the authors to group the languages genetically by family, as"
+W11-4622,D07-1093,0,0.0398107,"Missing"
+W11-4622,P06-1035,0,0.0198081,"ance measures such as edit distance, Dice coefficient and longest common subsequence ratio (LCSR) for the task of cognate identification. The measures were tested on vocabulary lists for the Algonquian language family and Dyen’s (1992) Indo-European lists. Many studies based on lexicostatistics and phylogenetic software have been conducted using Swadesh lists for different language families. Among the notable studies for Indo-European are the lexicostatistical experiments of Dyen et al. (1992) and the phylogeny experiments of Ringe et al. (2002) and Gray and Atkinson (2003). In another study, Ellison and Kirby (2006) used intra-language lexical divergence for measuring the inter-language distances for the Indo-European language family. Recently, a group of scholars (Wichmann et al., 2010; Holman et al., 2008) have collected 40-item Swadesh word lists for about two thirds of the world’s languages.2 This group uses a modified Levenshtein distance between the lexical items as the measure of the inter-language distance. Singh and Surana (2007) use corpus based measures for estimating the distances between South Asian languages from noisy corpora of nine languages. They use a phonetics based similarity measure"
+W11-4622,W02-0902,0,0.0146948,"ven if they actually in most cases identify correlates. There have been numerous studies employing string similarity measures for the identification of cognates. The most commonly used measure is normalized edit distance. It is defined as the minimum number of deletions, substitutions and insertions required to transform one string to another. There have also been studies on employing identification of cognates using string similarity measures for the tasks of sentence alignment (Simard et al., 1993), statistical machine translation (Kondrak et al., 2003) and translational lexicon extraction (Koehn and Knight, 2002). The rest of this paper is structured as follows. Section 2 discusses related work. Section 3 explains the motivation for using a parallel corpus and describes the approach. 2 Related work Kondrak (2002) compares a number of algorithms based on phonetic and orthographical similarity for judging the cognateness of a word pair. His work surveys string similarity/ distance measures such as edit distance, Dice coefficient and longest common subsequence ratio (LCSR) for the task of cognate identification. The measures were tested on vocabulary lists for the Algonquian language family and Dyen’s (1"
+W11-4622,P07-2045,0,0.006326,". French, Italian, Portuguese and Spanish are Romance languages, with the latter two forming a more closely related Ibero-Romance subgroup, joining French at the next level up in the family tree, and Italian being more distantly related to the other three; 3. Greek forms a branch of its own (but was not included in our experiment; see above). We would consequently expect our experiments to show evidence of this grouping, including the isolated status of Finnish with respect to the other Europarl corpus languages. 5 Experiments The freely available statistical machine translation system MOSES (Koehn et al., 2007) was used for aligning the words. The system also extracts the word alignments from the GIZA++ alignments and computes the conditional probabilities for every aligned word pair. For every language pair, the word pairs that have an LCSR value smaller than the cutoff are discarded. Table 1 shows the number of pairwise cognates. We experiment with three string similarity measures in this paper. Levenshtein distance and LCSR are described in the earlier sections. The other measures are Dice and LCSR. Dice is defined as twice the total number of shared character bigrams between two words divided by"
+W11-4622,2005.mtsummit-papers.11,0,0.293681,"ng the distances between South Asian languages from noisy corpora of nine languages. They use a phonetics based similarity measure called computational phonetic model of scripts (CPMS; Singh et al. 2007) for pruning the possible cognate pairs between languages. The mean of the similarity between the pruned cognate pairs using this measure is estimated as the distance between the languages. Bergsma and Kondrak (2007) conduct experiments for cognate identification using alignment-based discriminative string similarity. They automatically extract cognate candidate pairs from the Europarl corpus (Koehn, 2005) and from bilingual dictionaries for the language pairs English–French, English–German, English– Greek, English–Japanese, English–Russian, and English–Spanish. Bouchard-Cˆot´e et al. (2007) also use the Europarl corpus to extract cognates for the task of modeling the diachronic phonology of the Romance languages. In neither case is the goal of the authors to group the languages genetically by family, as in the work presented here. The previous work which comes closest to the work presented here is that of Koehn (2005), who trains pair-wise statistical translation systems for the 11 languages o"
+W11-4622,N03-2016,0,0.0359454,"ese methods as methods for the identification of cognates, even if they actually in most cases identify correlates. There have been numerous studies employing string similarity measures for the identification of cognates. The most commonly used measure is normalized edit distance. It is defined as the minimum number of deletions, substitutions and insertions required to transform one string to another. There have also been studies on employing identification of cognates using string similarity measures for the tasks of sentence alignment (Simard et al., 1993), statistical machine translation (Kondrak et al., 2003) and translational lexicon extraction (Koehn and Knight, 2002). The rest of this paper is structured as follows. Section 2 discusses related work. Section 3 explains the motivation for using a parallel corpus and describes the approach. 2 Related work Kondrak (2002) compares a number of algorithms based on phonetic and orthographical similarity for judging the cognateness of a word pair. His work surveys string similarity/ distance measures such as edit distance, Dice coefficient and longest common subsequence ratio (LCSR) for the task of cognate identification. The measures were tested on voc"
+W11-4622,2005.mtsummit-papers.40,0,0.0931962,"Missing"
+W11-4622,J99-1003,0,0.0604681,"requires that the word pairs are translations of each other and also have a high orthographic similarity. Section 4 introduces the use of the Europarl corpus for cognate identification. We extract the cognate pairs between a pair of languages in the following manner. For every language pair, the corpus is word aligned using GIZA++ (Och and Ney, 2003) and the word pairs are extracted from the alignments. Word pairs with punctuation are removed from the final set. Positive and negative training examples are generated by thresholding with a LCSR cutoff of 0.58. The cutoff of 0.58 was proposed by Melamed (1999) for aligning bitexts for statistical machine translation. The reason for this cutoff is to prevent the LCSR’s inherent bias towards shorter words. For example, the word pairs saw/osa and jacinth/hyacinthe3 have the same LCSR of 2/3 and 4/6 which is counter-intuitive. If the words are identical, then the LCSR for the longer pair and the short pair are the same. A word alignment tool like GIZA++ aligns the words which are probable translations of each other in a particular sentence. Given cognate lists for two languages, the distance between two languages la , lb can be expressed using the foll"
+W11-4622,J03-1002,0,0.00313046,"injure’ ∼ bless. False negatives are word pairs which are actually cognates but were identified as unrelated. For our task, we focus on identifying cognates with a high precision – i.e., few false friends – and a low recall – i.e., many false negatives. The method requires that the word pairs are translations of each other and also have a high orthographic similarity. Section 4 introduces the use of the Europarl corpus for cognate identification. We extract the cognate pairs between a pair of languages in the following manner. For every language pair, the corpus is word aligned using GIZA++ (Och and Ney, 2003) and the word pairs are extracted from the alignments. Word pairs with punctuation are removed from the final set. Positive and negative training examples are generated by thresholding with a LCSR cutoff of 0.58. The cutoff of 0.58 was proposed by Melamed (1999) for aligning bitexts for statistical machine translation. The reason for this cutoff is to prevent the LCSR’s inherent bias towards shorter words. For example, the word pairs saw/osa and jacinth/hyacinthe3 have the same LCSR of 2/3 and 4/6 which is counter-intuitive. If the words are identical, then the LCSR for the longer pair and the"
+W11-4622,W07-1306,0,0.0160282,"ropean are the lexicostatistical experiments of Dyen et al. (1992) and the phylogeny experiments of Ringe et al. (2002) and Gray and Atkinson (2003). In another study, Ellison and Kirby (2006) used intra-language lexical divergence for measuring the inter-language distances for the Indo-European language family. Recently, a group of scholars (Wichmann et al., 2010; Holman et al., 2008) have collected 40-item Swadesh word lists for about two thirds of the world’s languages.2 This group uses a modified Levenshtein distance between the lexical items as the measure of the inter-language distance. Singh and Surana (2007) use corpus based measures for estimating the distances between South Asian languages from noisy corpora of nine languages. They use a phonetics based similarity measure called computational phonetic model of scripts (CPMS; Singh et al. 2007) for pruning the possible cognate pairs between languages. The mean of the similarity between the pruned cognate pairs using this measure is estimated as the distance between the languages. Bergsma and Kondrak (2007) conduct experiments for cognate identification using alignment-based discriminative string similarity. They automatically extract cognate can"
+W11-4646,A94-1008,0,0.0488049,"Saxena and Lars Borin (a) Comparison and assignment to equivalence classes of some adjectives (b) Comparison of all adjectives (c) Comparison of all nouns (d) Comparison of all words in the word list Table 1: Some results of the comparisons 308 Dialect classification in the Himalayas: a computational approach The main methodological advantage of our approach is its consistency, and not as claimed for the work just referred to, that it should be languageindependent. Instead, in our case we try to apply a principle sometimes formulated in computational linguistics as “Don’t guess if you know” (Tapanainen and Voutilainen, 1994, 47), which leads us to include language-specific knowledge in the form of correspondence rules among dialects. The following proceedure was used in this investigation, developed in collaboration between a computational linguist (Borin) and the linguist who collected the language data (Saxena): • After the data collection and initial processing of the data, • a list of observations of relationships among varieties was made by the linguist. • This list formed the basis for developing a set of principles for comparing the linguistic correspondences in these Kinnauri varieties. These were formul"
+W12-1004,P03-1068,0,0.0240251,"ailored manual linguistic information to produce descriptions that are targeted to a specific group of readers (Androutsopoulos et al., 2001; Dan18 Proceedings of the 6th EACL Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities, pages 18–23, c Avignon, France, 24 April 2012. 2012 Association for Computational Linguistics nélls, 2008; Konstantopoulos et al., 2009). Although valuable information for generating natural languages is found in computational lexical-semantic resources such as the Berkeley FrameNet (section 3) which exist today in several languages (Erk et al., 2003; Subirats and Petruck, 2003; Ohara et al., 2003; Borin et al., 2010), there has been little emphasis on how to manage digitized data from digital libraries using these open source resources. In this paper we demonstrate how the information available in such electronically available resources can be exploited for generating multilingual artwork descriptions. In the remainder of this paper we describe a case study on English and Swedish that underscores the importance of using a lexical resource such as a framenet (section 2). We present the kind of information that is offered by two existing f"
+W12-1004,W09-0302,0,0.0282055,"he target language, both in the constructions found and in their distribution. Previous work on natural language generation of cultural heritage information from semantic web ontologies has relied on a large amount of specially tailored manual linguistic information to produce descriptions that are targeted to a specific group of readers (Androutsopoulos et al., 2001; Dan18 Proceedings of the 6th EACL Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities, pages 18–23, c Avignon, France, 24 April 2012. 2012 Association for Computational Linguistics nélls, 2008; Konstantopoulos et al., 2009). Although valuable information for generating natural languages is found in computational lexical-semantic resources such as the Berkeley FrameNet (section 3) which exist today in several languages (Erk et al., 2003; Subirats and Petruck, 2003; Ohara et al., 2003; Borin et al., 2010), there has been little emphasis on how to manage digitized data from digital libraries using these open source resources. In this paper we demonstrate how the information available in such electronically available resources can be exploited for generating multilingual artwork descriptions. In the remainder of thi"
+W12-1004,bel-etal-2000-simple,0,\N,Missing
+W12-1902,P06-2057,1,0.828888,"tion has seen some use in monolingual applications: for instance, Burchardt et al. (2005) and Johansson and Nugues (2007) attempted to extend the coverage of FrameNet by making use of WordNet. Padó and Lapata (2005a) used word alignment in sentencealigned parallel corpora to find possible lexical units in new languages. There have been several studies of the feasibility of automatically producing the role-semantic annotation in new languages, although never for languages as structurally dissimilar as Swedish and Finnish. Padó and Lapata (2005b) projected annotation from English to German, and Johansson and Nugues (2006) implemented a complete pipeline for English–Swedish by (1) automatic annotation on the English side; (2) annotation transfer; and (3) training a Swedish semantic role labeler using the automatically produced annotation. 3 Frames from Swedish to Finnish 3.1 Outline of the Experiment We start off by locating such Swedish word senses that are both represented in SweFN and linked to PWN in two Finnish–Swedish parallel corpora. The sentences that include such a word make up the evaluation data set. After this, the Swedish half is enriched with frame labels using the framenet-based semantic role la"
+W12-1902,H05-1108,0,0.022207,"were cross-linguistically meaningful, a number of interesting discrepancies were found. Whether the number of discrepancies is higher in a pair of more typologically different languages is an important question. As far as we are aware, there has been no previous attempt in using multilingual WordNets or similar lexicons when deriving lexical units in frames in new languages. The WordNet–FrameNet combination has seen some use in monolingual applications: for instance, Burchardt et al. (2005) and Johansson and Nugues (2007) attempted to extend the coverage of FrameNet by making use of WordNet. Padó and Lapata (2005a) used word alignment in sentencealigned parallel corpora to find possible lexical units in new languages. There have been several studies of the feasibility of automatically producing the role-semantic annotation in new languages, although never for languages as structurally dissimilar as Swedish and Finnish. Padó and Lapata (2005b) projected annotation from English to German, and Johansson and Nugues (2006) implemented a complete pipeline for English–Swedish by (1) automatic annotation on the English side; (2) annotation transfer; and (3) training a Swedish semantic role labeler using the a"
+W12-1902,I11-1041,0,\N,Missing
+W12-1902,N04-1043,0,\N,Missing
+W12-1902,W12-1915,0,\N,Missing
+W12-1902,koen-2004-pharaoh,0,\N,Missing
+W12-1902,W04-3252,0,\N,Missing
+W12-1902,nivre-etal-2006-talbanken05,0,\N,Missing
+W12-1902,W12-1912,0,\N,Missing
+W12-1902,J93-2004,0,\N,Missing
+W12-1902,W10-2922,0,\N,Missing
+W12-1902,N12-1052,0,\N,Missing
+W12-1902,D10-1120,0,\N,Missing
+W12-1902,W08-2112,0,\N,Missing
+W12-1902,W07-0604,0,\N,Missing
+W12-1902,D08-1016,0,\N,Missing
+W12-1902,W03-0105,0,\N,Missing
+W12-1902,N09-3017,0,\N,Missing
+W12-1902,S07-1005,0,\N,Missing
+W12-1902,H94-1048,0,\N,Missing
+W12-1902,H01-1035,0,\N,Missing
+W12-1902,W06-2920,0,\N,Missing
+W12-1902,C96-2141,0,\N,Missing
+W12-1902,C04-1192,0,\N,Missing
+W12-1902,X96-1049,0,\N,Missing
+W12-1902,C08-1042,0,\N,Missing
+W12-1902,C10-2052,0,\N,Missing
+W12-1902,C08-1113,0,\N,Missing
+W12-1902,N06-1041,0,\N,Missing
+W12-1902,E99-1010,0,\N,Missing
+W12-1902,N09-1012,0,\N,Missing
+W12-1902,P11-1048,0,\N,Missing
+W12-1902,P11-1087,0,\N,Missing
+W12-1902,D10-1056,0,\N,Missing
+W12-1902,P02-1033,0,\N,Missing
+W12-1902,P10-1131,0,\N,Missing
+W12-1902,P08-1085,0,\N,Missing
+W12-1902,D10-1117,0,\N,Missing
+W12-1902,J94-2001,0,\N,Missing
+W12-1902,P08-1086,0,\N,Missing
+W12-1902,D11-1109,0,\N,Missing
+W12-1902,J92-4003,0,\N,Missing
+W12-1902,N07-1030,0,\N,Missing
+W12-1902,N09-1010,0,\N,Missing
+W12-1902,P05-1048,0,\N,Missing
+W12-1902,A00-1031,0,\N,Missing
+W12-1902,D07-1007,0,\N,Missing
+W12-1902,P07-1005,0,\N,Missing
+W12-1902,P06-1055,0,\N,Missing
+W12-1902,P09-1057,0,\N,Missing
+W12-1902,petrov-etal-2012-universal,0,\N,Missing
+W12-1902,W03-0419,0,\N,Missing
+W12-1902,P03-1058,0,\N,Missing
+W12-1902,P11-2056,0,\N,Missing
+W12-1902,P11-1138,0,\N,Missing
+W12-1902,D11-1036,0,\N,Missing
+W12-1902,D11-1006,0,\N,Missing
+W12-1902,W07-2416,1,\N,Missing
+W12-1902,P06-1124,0,\N,Missing
+W12-1902,P08-1076,0,\N,Missing
+W12-1902,P10-1040,0,\N,Missing
+W12-1902,W12-1913,0,\N,Missing
+W12-1902,D11-1005,0,\N,Missing
+W12-1902,D12-1121,0,\N,Missing
+W12-1902,W12-1914,0,\N,Missing
+W12-1902,P09-1116,0,\N,Missing
+W12-1902,P10-2036,0,\N,Missing
+W12-1902,P07-1031,0,\N,Missing
+W12-1902,P05-1001,0,\N,Missing
+W12-1902,2005.mtsummit-papers.11,0,\N,Missing
+W12-1902,majlis-zabokrtsky-2012-language,0,\N,Missing
+W12-1902,W12-1910,0,\N,Missing
+W12-1902,johansson-etal-2012-semantic,1,\N,Missing
+W12-1902,U08-1016,0,\N,Missing
+W12-1902,sekine-nobata-2004-definition,0,\N,Missing
+W12-1902,D07-1096,0,\N,Missing
+W12-1902,W99-0612,0,\N,Missing
+W12-1902,erjavec-etal-2010-jos,0,\N,Missing
+W12-1902,W04-3234,0,\N,Missing
+W12-1902,D10-1083,0,\N,Missing
+W12-1902,D07-1031,0,\N,Missing
+W12-1902,C96-1079,0,\N,Missing
+W12-1902,afonso-etal-2002-floresta,0,\N,Missing
+W12-1902,W10-2608,0,\N,Missing
+W12-1902,P07-1094,0,\N,Missing
+W12-1902,P10-2040,0,\N,Missing
+W12-1902,P02-1001,0,\N,Missing
+W12-1902,P07-1033,0,\N,Missing
+W12-1902,W09-3003,0,\N,Missing
+W12-1902,P05-1044,0,\N,Missing
+W12-1902,D07-1043,0,\N,Missing
+W12-1902,W97-0309,0,\N,Missing
+W12-1902,P10-2039,0,\N,Missing
+W12-1902,W10-1701,0,\N,Missing
+W12-1902,D11-1117,0,\N,Missing
+W12-1902,N06-1020,0,\N,Missing
+W12-1902,N07-1018,0,\N,Missing
+W12-1902,D08-1036,0,\N,Missing
+W12-1902,D11-1059,0,\N,Missing
+W12-3614,P98-1013,0,0.00779948,"return S We omit the description of further implementation details. In particular, the fSUM and fMIN objectives can be computed by incremental updates, which speeds up their evaluation greatly. 3 A Case Study: Diversity and Relevance in a Lexicographic Project We applied the search result diversification method in a new annotation user interface used in the Swedish FrameNet (SweFN) project. This is a lexical resource under development (Borin et al., 2010; Friberg Heppin and Toporowska Gronostaj, 2012) that is based on the English version of FrameNet constructed by the Berkeley research group (Baker et al., 1998). It is found on the SweFN website1 , and is available as a free resource. All lexical resources 1 http://spraakbanken.gu.se/eng/swefn used for constructing SweFN are freely available for downloading. The lexicographers working in this project typically define frames that are fairly close in meaning to their counterparts in the Berkeley FrameNet. When a frame has been defined, lexical units are added. For each lexical unit, a set of example sentences are then selected from KORP, a collection of corpora of different types (Borin et al., 2012). Finally, the lexicographers annotate the frame elem"
+W12-3614,W09-4407,0,0.0554959,"Missing"
+W12-3614,C98-1013,0,\N,Missing
+W12-3614,heppin-gronostaj-2012-rocky,1,\N,Missing
+W13-5616,bhattacharyya-2010-indowordnet,0,0.0392967,"omplete or missing synsets in one or another of the wordnets (Tufis, Ion & Ide 2004). Other works included mapping algorithms for aligning, tuning and validating wordnets as presented in Daudé, Padró & Rigau 1999, & Daudé, Padró & Rigau 2003 and several others. More recent collaborative wordnet projects include MultiWordNet (http://multiwordnet.itc.it) which relates Italian and Princeton wordnets, Asian WordNet which also applies the expand method for several Asian languages through a common management interface (Robkop et al. 2010), and IndoWordNet which include a series of Indian languages (Bhattacharyya 2010). Last but not least should be mentioned a recent initiative, Open Multilingual WordNet http://casta-net.jp/~kuribayashi/multi/ which aligns wordnets available through the Global WordNet Association’s WordNet Grid (http://www.globalwordnet.org/gwa/gwa_grid.html). In contrast, several recent European wordnets that have typically been compiled on a more local basis apply the merge technique (cf. Derwojedowa 2008, Borin & Forsberg 2010, Pedersen et al. 2009) applying monolingual language resources such as existing dictionaries and corpora as the initial source. There are obvious risks related to"
+W13-5616,W99-0603,0,0.160623,"Missing"
+W13-5616,W11-4643,1,0.771943,"Ties (wordties.cst.dk) is a web interface developed to visualize monolingual wordnets as well as their alignments with the other wordnets, cf. Figure 1. In this browser the user can chose either of the (currently four) relevant wordnets as a source language and see how a concept is linked to its sister wordnets. Proceedings of the 19th Nordic Conference of Computational Linguistics (NODALIDA 2013); Linköping Electronic Conference Proceedings #85 [page 152 of 474] Figure 1: Introductory screen of WordTies WordTies builds on a monolingual browser, AndreOrd, which was built to browse DanNet, cf. Johannsen & Pedersen (2011). In this browser, the semantic relations are made available in a more graphical fashion compared to what is found in most other wordnet browsers which tend to focus primarily on visualizing the hyponymy structure of the wordnet. The particular choice of graph very compactly encodes large numbers of relations – each represented by its own colour – and thus gives a good overview of the general structure of the wordnet. In order to make room for all relations in the graph – also the inherited ones –, only one representative sense is visualized per synset. However, all senses are presented below"
+W13-5616,W05-1715,0,0.035094,"nd the agentive role (purpose and origin). Qualia roles are encoded in DanNet in terms of relations such as used_for and made_by as well as by means of features such as SEX and CONNOTATION. DanNet is licensed under the Princeton WordNet licence. 3.5 Swedish wordnet (Swesaurus) Swesaurus (Borin & Forsberg 2010, Borin & Forsberg 2011) is a Swedish wordnet developed at Språkbanken, University of Gothenburg. It is being built by reusing lexical-semantic relations collected from a number of pre-existing, freely available lexical resources: SALDO (Borin & Forsberg 2009), SDB (Järborg 2001), Synlex (Kann & Rosell 2006), and Swedish Wiktionary. A novel feature of Swesaurus is its fuzzy synsets derived from the graded synonymy relations of Synlex. Swesaurus and several other lexical resources are available for download and inspection at http://spraakbanken.gu.se/karp. Swesaurus is an integral part of a large and diverse lexical macroresource compiled in the Swedish FrameNet++ project (Borin et al. 2010). It includes 13,724 senses and is licensed under a CC-BY license. Due to its slightly different structure, Swesaurus is currently only partly visible through WordTies. 3.6 Norwegian Wordnet A Norwegian Wordnet"
+W13-5616,pedersen-etal-2010-merging,1,0.766177,"linguistic grounds (corpora and existing lexica) for that particular language. On the other hand, such wordnets typically differ so much from Princeton WordNet in structure that a merge becomes indeed very hard and extremely complex. These differences originate partly from different language cultures, partly from different levels of specialization depending on the source material used. For instance, a typical feature of wordnets based on monolingual lexica is that they adopt a perspective which is more geared towards the layman and therefore typically not so deep in taxonomical structure (cf. Pedersen et al. 2010). Proceedings of the 19th Nordic Conference of Computational Linguistics (NODALIDA 2013); Linköping Electronic Conference Proceedings #85 [page 149 of 474] 3 Status of wordnets in the Nordic and Baltic countries 3.1 About META-NORD During the last decade, linguistic resources have grown rapidly for all EU languages, including lesser-resourced languages such as the Nordic and Baltic ones. However they have typically been located in different places, have developed in different standards and in many cases were not well documented. The META-NORD project has aimed to establish an open linguistic i"
+W13-5616,tufis-etal-2004-word,0,0.0851173,"Missing"
+W13-5616,bel-etal-2000-simple,0,\N,Missing
+W13-5619,borin-etal-2012-korp,1,0.920055,"SCARRIE lexicon, and the Lithuanian Standard language lexical database. Terminology resources, such as the Icelandic Term Bank and UHR’s Termbase for Norwegian higher education institutions, have been converted into TBX 16 format (Term Base eXchange; ISO 30042:2008; Melby 2012). Most of the corpus resources uploaded are now available in TEI-compatible formats. A specific example of how this format harmonisation has enhanced interoperability is the relative ease 17 with which the open-source Korp corpus processing and presentation platform, developed in Sweden at the University of Gothenburg (Borin et al. 2012)18, has been deployed in Finland by the University of Helsinki for their Finnish corpora 19. Content model conversion/mapping/linking, e.g., harmonising POS tagsets among corpora, or linking word senses among lexical resources with different sense granularities. The Danish STO lexicon, the Swedish lexicons developed at Språkbanken, University of Gothenburg, and Swedish corpus annotations have been partly linked to the ISOCAT DCR (Data Category Registry; ISO 12620:2009; Windhouwer and Wright 2012), although no explicit attempt has been made to use the same categories across the languages, excep"
+W13-5619,borin-etal-2012-open,1,0.870902,"Missing"
+W13-5619,braasch-olsen-2004-sto,1,0.846342,"Missing"
+W13-5619,broeder-etal-2010-data,0,0.0283968,"Missing"
+W13-5619,francopoulo-etal-2006-lexical,0,0.0900195,"Missing"
+W13-5619,gavrilidou-etal-2012-meta,0,0.0140866,"talogue of the pan-European infrastructure12. Besides META-SHARE repositories, we have a natural interest to integrate into our infrastructure several existing collections and databases of specific linguistic resources, such as term banks and treebanks. These repositories are collections of language resources, where each individual resource is a candidate to be listed in the META-SHARE catalogue. This could be done manually by entering all resource descriptions in the META-SHARE editor or by exporting the metadata from the respective repository, converting it into META-SHARE compliant schema (Gavrilidou et al., 2012), and importing into META-SHARE node. However, such approaches are time-consuming and need regular manual updates. Our proposed and implemented solution for this infrastructure is to integrate complex linguistic resources or repositories of resources by adapting them to relevant data access and sharing specifications and interlinking them with META-SHARE. This means that a language resourcespecific repository could seamlessly become a part of the META-SHARE network by enabling the harvesting of metadata through the META-SHARE communication protocol and ensuring the mapping of the respective da"
+W13-5619,W13-5616,1,0.879624,"Missing"
+W13-5619,piperidis-2012-meta,0,0.0205972,"chnology systems make it vital to develop both an open infrastructure and a more coherent research cooperation in order to spur greater sharing and reuse of language resources. 4 The table is also available at http://www.meta-net.eu/whitepapers/key-results-and-cross-language-comparison Proceedings of the 19th Nordic Conference of Computational Linguistics (NODALIDA 2013); Linköping Electronic Conference Proceedings #85 [page 198 of 474] 3 META-SHARE infrastructure in the Baltic and Nordic countries For distribution and sharing of language resources, the distributed online platform META-SHARE (Piperidis, 2012) is used. It consists of independent META-SHARE nodes set up in different countries and interlinked into a federated repository. This freely accessible distributed online infrastructure provides facilities for describing, storing, preserving of language resources, and making them publicly available. Among various language data that can be considered useful for different purposes, META-SHARE places a strong focus on language data that are important in language technology development for building applications that are useful to EU citizens, primarily in their everyday communication and informati"
+W13-5619,W11-3314,1,0.83743,"Missing"
+W13-5619,varadi-etal-2008-clarin,0,0.0150457,"e often hard to find and difficult to use. Resources are dispersed among different institutions and local repositories, and they are often coded in proprietary formats lacking interoperability and uniformity. There are also restricted or unclear intellectual property rights. These factors are major stumbling blocks for the development and research of language technology. To overcome these difficulties, the Nordic and Baltic countries play a leading role in pan-European activities regarding the creation of the European open linguistic infrastructure. Major progress is achieved by the CLARIN 1 (Váradi et al., 2008) initiative creating a language resource infrastructure for research in humanities. Another complementary infrastructure is under development by the META-NET network2 focusing on the practical needs of developers, users, and researchers of multilingual resources. The Baltic and Nordic countries are active participants in both — CLARIN and META-NET — networks. Official languages of these countries (Danish, Estonian, Finnish, Icelandic, Latvian, Lithuanian, Norwegian, and Swedish), as well as other languages spoken in these countries, are under-resourced in respect to availability of at least so"
+W13-5619,W01-1506,0,\N,Missing
+W13-5639,W09-4642,0,0.0307214,"components, corresponding, e.g., to different research needs. Here, we will focus on the standard corpus and lexicon search interfaces Korp and Karp – designed primarily for linguistic searches – but the same backend web services are also used, e.g., in a corpus-driven grammar and vocabulary exercise generator (Volodina et al., 2012). 2 The search interface of Korp The search interface of Korp (Borin et al., 2012b; <http://http://spraakbanken.gu.se/korp&gt;) has been inspired by corpus search interfaces such as SketchEngine (Kilgarriff et al., 2008), Glossa (Nygaard et al., 2008), and DeepDict (Bick, 2009). At first glance, the search interface of Korp is a concordance tool that displays search results in the standard KWIC (keywords in context) layout (figure 1), here with the example word svininfluensa (noun) ‘swine flu’. This basic functionality is extended by various visualisations of statistical data, such as the basic table (figure 2) and and interactive trend diagram (figure 4) plotting relative frequency over time. Furthermore, the interface features so called word pictures that provides an overview of a selected set of syntactic relations for a word (figure 3). The purpose is to quickly"
+W13-5639,borin-etal-2010-diabase,1,0.835881,"ive frequency over time. Furthermore, the interface features so called word pictures that provides an overview of a selected set of syntactic relations for a word (figure 3). The purpose is to quickly gain an understanding of the contexts in which a word most commonly appears. We are also working on increasing the diachronic coverage of the corpora, by including Swedish texts from the 19th century back to the 13th century. Ultimately, our goal is to develop tools for all types of text, at various levels of annotation, such as part-of-speech, morphosyntactic information, and dependency parses (Borin et al., 2010; Borin and Forsberg, 2011; Adesam et al., 2012). Our primary source material for Old Swedish (ca 1225–1526) comes from Fornsvenska textbanken,<http://project2.sol.lu.se/fornsvenska&gt; a 3 MW collection of around 160 digitized texts, mainly from the 13th to the 16th century. Further, a 1 MW corpus of medieval letters from the Swedish National Archives <http://riksarkivet.se&gt; is available. Work in progress concerns newspaper texts (17th–19th century) and a collection of law texts (13th century – present). A number of issues are problematic for annotation of historical texts. For example, sentence"
+W13-5639,borin-etal-2012-open,1,0.91547,", both components have a backend, or server-side part, accessed through an API made up of set of well-defined web services. This means that there can be any number of different user interfaces to these components, corresponding, e.g., to different research needs. Here, we will focus on the standard corpus and lexicon search interfaces Korp and Karp – designed primarily for linguistic searches – but the same backend web services are also used, e.g., in a corpus-driven grammar and vocabulary exercise generator (Volodina et al., 2012). 2 The search interface of Korp The search interface of Korp (Borin et al., 2012b; <http://http://spraakbanken.gu.se/korp&gt;) has been inspired by corpus search interfaces such as SketchEngine (Kilgarriff et al., 2008), Glossa (Nygaard et al., 2008), and DeepDict (Bick, 2009). At first glance, the search interface of Korp is a concordance tool that displays search results in the standard KWIC (keywords in context) layout (figure 1), here with the example word svininfluensa (noun) ‘swine flu’. This basic functionality is extended by various visualisations of statistical data, such as the basic table (figure 2) and and interactive trend diagram (figure 4) plotting relative fr"
+W13-5639,borin-etal-2012-korp,1,0.777986,", both components have a backend, or server-side part, accessed through an API made up of set of well-defined web services. This means that there can be any number of different user interfaces to these components, corresponding, e.g., to different research needs. Here, we will focus on the standard corpus and lexicon search interfaces Korp and Karp – designed primarily for linguistic searches – but the same backend web services are also used, e.g., in a corpus-driven grammar and vocabulary exercise generator (Volodina et al., 2012). 2 The search interface of Korp The search interface of Korp (Borin et al., 2012b; <http://http://spraakbanken.gu.se/korp&gt;) has been inspired by corpus search interfaces such as SketchEngine (Kilgarriff et al., 2008), Glossa (Nygaard et al., 2008), and DeepDict (Bick, 2009). At first glance, the search interface of Korp is a concordance tool that displays search results in the standard KWIC (keywords in context) layout (figure 1), here with the example word svininfluensa (noun) ‘swine flu’. This basic functionality is extended by various visualisations of statistical data, such as the basic table (figure 2) and and interactive trend diagram (figure 4) plotting relative fr"
+W13-5639,nygaard-etal-2008-glossa,0,0.0303038,"of different user interfaces to these components, corresponding, e.g., to different research needs. Here, we will focus on the standard corpus and lexicon search interfaces Korp and Karp – designed primarily for linguistic searches – but the same backend web services are also used, e.g., in a corpus-driven grammar and vocabulary exercise generator (Volodina et al., 2012). 2 The search interface of Korp The search interface of Korp (Borin et al., 2012b; <http://http://spraakbanken.gu.se/korp&gt;) has been inspired by corpus search interfaces such as SketchEngine (Kilgarriff et al., 2008), Glossa (Nygaard et al., 2008), and DeepDict (Bick, 2009). At first glance, the search interface of Korp is a concordance tool that displays search results in the standard KWIC (keywords in context) layout (figure 1), here with the example word svininfluensa (noun) ‘swine flu’. This basic functionality is extended by various visualisations of statistical data, such as the basic table (figure 2) and and interactive trend diagram (figure 4) plotting relative frequency over time. Furthermore, the interface features so called word pictures that provides an overview of a selected set of syntactic relations for a word (figure 3)"
+W14-0129,borin-etal-2012-open,1,0.789464,"echhofer, 2009). The macro-resource, of which Swesaurus is a part, is large and diverse, consisting of 23 lexical resources, ranging from the Swedish FrameNet to Old Swedish dictionaries, containing a total of 686,237 lexical entries at the time of writing. To be able to work productively with this macroresource, we need good tools for interacting with the data, for abstracting, ordering, searching and visualizing the data itself, for inferring and presenting relations among data items, and for editing the data. To meet these demands, a generalized lexical infrastructure is under development (Borin et al., 2012a; Borin et al., 2013b), geared towards dealing with large networks of interconnected lexicons (Borin, 2010; Borin et al., 2010) that have been encoded in the LMF format (Lexical Markup Framework; see ISO 2008; Francopoulo 2013). One essential component of the lexical infrastructure is a generic search interface that provides a plug-and-play search tool for resources already in LMF, where the LMF format is employed both internally within the infrastructure and, trivially, as an export format. The lexical infrastructure also maintains a strong bidirectional connection to a general and flexible"
+W14-0129,borin-etal-2012-korp,1,0.718033,"echhofer, 2009). The macro-resource, of which Swesaurus is a part, is large and diverse, consisting of 23 lexical resources, ranging from the Swedish FrameNet to Old Swedish dictionaries, containing a total of 686,237 lexical entries at the time of writing. To be able to work productively with this macroresource, we need good tools for interacting with the data, for abstracting, ordering, searching and visualizing the data itself, for inferring and presenting relations among data items, and for editing the data. To meet these demands, a generalized lexical infrastructure is under development (Borin et al., 2012a; Borin et al., 2013b), geared towards dealing with large networks of interconnected lexicons (Borin, 2010; Borin et al., 2010) that have been encoded in the LMF format (Lexical Markup Framework; see ISO 2008; Francopoulo 2013). One essential component of the lexical infrastructure is a generic search interface that provides a plug-and-play search tool for resources already in LMF, where the LMF format is employed both internally within the infrastructure and, trivially, as an export format. The lexical infrastructure also maintains a strong bidirectional connection to a general and flexible"
+W14-0129,W05-1715,0,0.0563299,"the process, some important special cases were recognized which require very little manual post-processing, such as noun compound entries where the form of the primary descriptor corresponds to the last member of the compound, e.g., livförsäkring : försäkring ‘life insurance : insurance’, and where the entry in the overwhelming majority of cases is a hyponym of the primary descriptor. In this way, a large number of synonyms, near-synonyms, hyperonyms, antonyms, and related senses could be extracted from SALDO, representing all parts of speech. 3.2 Synlex Synlex (the People’s Synonym Lexicon; Kann and Rosell 2006) is a lexical resource that has been created by asking members of the public – users of an online Swedish-English dictionary – to judge the degree of synonymy of a random, automatically generated synonym pair candidate, on a scale from 0 (not synonyms) to 5 (fully synonymous). A synonym pair list containing all pairs that average 3.0 or more on a large number of judgements is available for download under an open-source license. The latest version of the list at the time of writing is dated 2013-05-23, and contains 19,269 graded synonym pairs (38,538 if symmetry of synonymy is not taken into ac"
+W15-2001,borin-etal-2014-bring,1,0.84875,"Missing"
+W15-2001,O95-1004,0,0.371098,"ting the production of a Swedish counterpart of Roget with a large and upto-date vocabulary coverage. This is not to be done by translation, as in previous work by de Melo and Weikum (2008) and Borin et al. (2014). Instead, an existing but largely outdated Roget-style thesaurus will provide the scaffolding, where new word senses can be inserted with the help of two different kinds of semantic relatedness measures: as the PWN, the digital version of Roget offers a valuable complement to PWN (Jarmasz and Szpakowicz, 2004), which has seen a fair amount of use in NLP (e.g., Morris and Hirst 1991; Jobbins and Evett 1995; Jobbins and Evett 1998; Wilks 1998; Kennedy and Szpakowicz 2008). It has been proposed in the literature that Roget-style thesauruses could provide an alternative source of lexical-semantic information, which can be used both to attack other kinds of NLP tasks than a wordnet, and even work better for some of the same tasks, e.g., lexical cohesion, synonym identification, pseudo-word-sense disambiguation, and analogy problems (Morris and Hirst, 1991; Jarmasz and Szpakowicz, 2004; Kennedy and Szpakowicz, 2008; Kennedy and Szpakowicz, 2014). An obstacle to the wider use of Roget in NLP applicat"
+W15-2001,P98-1100,0,0.289133,"Swedish counterpart of Roget with a large and upto-date vocabulary coverage. This is not to be done by translation, as in previous work by de Melo and Weikum (2008) and Borin et al. (2014). Instead, an existing but largely outdated Roget-style thesaurus will provide the scaffolding, where new word senses can be inserted with the help of two different kinds of semantic relatedness measures: as the PWN, the digital version of Roget offers a valuable complement to PWN (Jarmasz and Szpakowicz, 2004), which has seen a fair amount of use in NLP (e.g., Morris and Hirst 1991; Jobbins and Evett 1995; Jobbins and Evett 1998; Wilks 1998; Kennedy and Szpakowicz 2008). It has been proposed in the literature that Roget-style thesauruses could provide an alternative source of lexical-semantic information, which can be used both to attack other kinds of NLP tasks than a wordnet, and even work better for some of the same tasks, e.g., lexical cohesion, synonym identification, pseudo-word-sense disambiguation, and analogy problems (Morris and Hirst, 1991; Jarmasz and Szpakowicz, 2004; Kennedy and Szpakowicz, 2008; Kennedy and Szpakowicz, 2014). An obstacle to the wider use of Roget in NLP applications is its limited avai"
+W15-2001,N15-1164,1,0.849372,"Missing"
+W15-2001,de-melo-weikum-2008-mapping,0,0.229925,"Missing"
+W15-2001,W10-2803,0,0.0155292,"f having been assigned only one SALDO word sense – Bring lemmaPOS combinations that appear in multiple Bring classes. Second, during the practical disambiguation work conducted in order to prepare the evaluation dataset for the experiments described below, the typical case was not – as would have been expected if the above assumption were correct – that ambiguous items occurring in several Bring classes would receive different word sense assignments. On the contrary, this turned out to be very much a minor phenomenon. A “word sense” is not a well-defined notion (Kilgarriff, 1997; Hanks, 2000; Erk, 2010; Hanks, 2013), and it may well be simply that this is what we are seeing here. Specifically, the Swedish lexicographical tradition to which SALDO belongs reflects a “lumping” view on word sense discrimination. If we aspire to link resources such as Roget, Bring, SALDO, etc. between languages, issues such as this need to be resolved one way or another, so there is clearly need for more research here. broms-2 ‘horsefly’, but it is only the second sense that should be listed in this Bring class. In this work we consider the task of selecting a SALDO sense for a Bring entry, but we imagine that t"
+W15-2001,W98-0710,0,0.112152,"of terms related to animals. SALDO defines two senses for this word: broms-1 ‘brake’ and Proceedings of the workshop on Semantic resources and semantic annotation for Natural Language Processing and the Digital Humanities at NODALIDA 2015 4 as well as phrases and clauses. This in turn determines the granularity – the degree of polysemy – posited for lexical entries. One thing that seems to be assumed about Roget – and which if true consequently ought to hold for Bring as well – is that multiple occurrences of the same lemma (with the same part of speech) represent different word senses (e.g., Kwong 1998; Nastase and Szpakowicz 2001). This is consistent with a “splitting” approach to polysemy, similar to that exhibited by PWN and more generally by an Anglo-Saxon lexicographical tradition. However, this is not borne out by the Bring– SALDO linking. First, there are many unambiguous – in the sense of having been assigned only one SALDO word sense – Bring lemmaPOS combinations that appear in multiple Bring classes. Second, during the practical disambiguation work conducted in order to prepare the evaluation dataset for the experiments described below, the typical case was not – as would have bee"
+W15-2001,W15-2000,0,0.271331,"Missing"
+W15-2001,P94-1019,0,0.254815,"t φ (fil-4) = { fil-4 ‘(computer) file (n)’, datorminne-1 ‘computer memory (n)’, datalagring-1 ‘data storage (n)’, lagring-1 ‘storage (n)’, lagra-1 ‘store (v)’, lager-2 ‘stock/store (n)’, f¨orr˚ad-1 ‘store (n)’, f¨orvara-1 ‘store/keep (v)’, ha-1 ‘have (v)’ }. Computationally, these sets are implemented as high-dimensional sparse vectors, which we normalize to unit length. Although in this work we do not explicitly use the notion of similarity functions, we note that the cosine similarity applied to this representation gives rise to a network-based measure similar in spirit to that proposed by Wu and Palmer (1994): sim(s1 , s2 ) = p 3.2 Disambiguating by comparing to a prototype The fact that corpus-based representations for SALDO senses are located in a real-valued vector space allows us to generate a prototype for a certain Bring conceptual class by means of averaging the sense vectors belonging to a that class in Bring. This prototype is in the same vector space that the sense representations, so we are able to measure distances between sense vectors and prototypes and determine which sense is closer to the concept embodied in the class prototype. Thus, our first method for disambiguating links betw"
+W15-2001,J91-1002,0,\N,Missing
+W15-2001,P08-1048,0,\N,Missing
+W15-2001,C98-1097,0,\N,Missing
+W19-4520,W14-2110,0,0.0154693,"xercise, and outline what the next steps of this effort should be, based on these results. Introduction Argumentation mining – the automatic recognition and classification of arguments and their components in text – is a useful technology for a number of practical text-processing applications, both commercial and academic, and in the latter case not least as a component of research tools in the digital humanities and social sciences. Many different annotation schemes for argument analysis have been proposed in the literature (Lippi and Torroni, 2016; Macagno et al., 2017; Visser et al., 2018; Song et al., 2014), and a central concern in the context of argumentation mining is to arrive at a scheme which is both expressive enough for the intended tasks and explicitly defined in a way which makes it amenable to high-accuracy automatic processing. Automatic linguistic annotation often requires the use of a ground-truth data set – a gold standard – for evaluating – and often training – different kinds of algorithms and software. Since the gold standard annotations will invariably need to be introduced by humans, we require an annotation scheme which human annotators can learn (in a reasonable amount of t"
+W19-4520,J17-3005,0,0.0985119,"A H YPOTHESIS: Premise: If hypothesis A is true, then a proposition B, reporting an event, will be observed to be true. Premise: B has been observed to be true in a given instance . Conclusion: A is true. c = 2 ∗ |m|/(|a1 |+ |a2 |) A RGUMENT FROM C ORRELATION TO C AUSE: We don’t use measures such as Fleiss’ kappa or Krippendorff’s alpha because these measures calculate agreement over annotation tasks that consist of assigning a discrete label or score to each element in a set, which is different to annotating spans over continuous text. Previous work on argumentation annotation such as as in Stab and Gurevych (2017) uses them because their annotation task is defined as marking whether predefined spans of texts do or do not contain annotations or units, but in our annotation task the annotators themselves create the spans. Premise: There is a positive correlation between A and B. Conclusion: A causes B. 4 (1) Evaluation In order to measure inter-annotator agreement (IA) we use the measure in Equation 1 based on the Sørensen–Dice coefficient, where a1 and a2 are the sets of annotations from each annotator, and m is the set of pairs of annotations from a1 and a2 that are matching (i.e. they are considered e"
+W98-1615,J96-1003,0,\N,Missing
+W98-1615,C90-2074,0,\N,Missing
+W98-1615,E95-1009,0,\N,Missing
+W98-1615,J96-4002,0,\N,Missing
+W99-1004,W98-1615,1,0.853635,"Missing"
+W99-1004,borin-2000-something,1,0.865723,"Missing"
+W99-1004,W95-0115,0,0.0256235,"e many independent ‘experts’, using various kinds of information sources, access and modify the same, increasingly richer linguistic representation, performing POS tagging, alignment, and possibly other kinds of linguistic analysis and annotation as well, utilizing the relevant information that other experts have left there.^ We already know that distributional parallelism, language-internal and cross language coocurrence, string similarity (also both between and within languages), and part of speech are useful information sources for word alignment (Tiedemann 1998, this volume, forthcoming; Melamed 1995,1998; Borin forthcoming c). The view of word alignment as being achieved by the use of many (mutually inde pendent) kinds of knowledge in concert naturally makes one look for additional such kinds of knowledge, information sources that could be used to further improve word alignment. This paper discusses one such source which to the best of my knowledge has not been considered earlier, namely the use of a third language in the alignment process. Perhaps the reason that it has not been considered earlier is that it is possible only with mu/f/lingual parallel corpora, and—for obvious reasons—n"
+W99-1004,W98-1613,0,0.0403568,"OS tagging, as a cooperative process, where many independent ‘experts’, using various kinds of information sources, access and modify the same, increasingly richer linguistic representation, performing POS tagging, alignment, and possibly other kinds of linguistic analysis and annotation as well, utilizing the relevant information that other experts have left there.^ We already know that distributional parallelism, language-internal and cross language coocurrence, string similarity (also both between and within languages), and part of speech are useful information sources for word alignment (Tiedemann 1998, this volume, forthcoming; Melamed 1995,1998; Borin forthcoming c). The view of word alignment as being achieved by the use of many (mutually inde pendent) kinds of knowledge in concert naturally makes one look for additional such kinds of knowledge, information sources that could be used to further improve word alignment. This paper discusses one such source which to the best of my knowledge has not been considered earlier, namely the use of a third language in the alignment process. Perhaps the reason that it has not been considered earlier is that it is possible only with mu/f/lingual par"

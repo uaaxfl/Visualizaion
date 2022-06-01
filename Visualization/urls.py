@@ -26,5 +26,5 @@ urlpatterns = [
     path('download/', download_picture),
     path('showlist/', showlist),
     url(r'^index_alt/([0-9]+)', index_id),
-    url(r'^picture/details/id=(?P<id>[0-9]+)&mode=(?P<mode>(0|1))&isKeyPaper=(?P<isKeyPaper>(0|1|0+(.[1-9])))&inheritance=(?P<inheritance>(0|1|0.5))/', download_detail),
+    url(r'^picture/id=(?P<id>[0-9]+)&mode=(?P<mode>(0|1))&isKeyPaper=(?P<isKeyPaper>(0|1|0+(.[1-9])))&extends_prob=(?P<extends_prob>(0|1|0+(.[1-9])))/', download_detail),
 ]

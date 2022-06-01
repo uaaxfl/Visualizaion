@@ -1,0 +1,109 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>List</title>
+    <link rel="icon" href="/src/image/favicon.ico" type="image/x-icon"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/src/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <link href="/src/css/bootstrap-table.css" rel="stylesheet">
+    <link href="/src/css/style.css" rel='stylesheet' type='text/css' />
+
+    <script src="/src/js/jquery.min.js"></script>
+    <script src="/src/js/bootstrap.js"></script>
+    <script src="/src/js/bootstrap.bundle.js"></script>
+    <script src="/src/js/bootstrap-table.js"></script>
+</head>
+<body>
+    <div id="home" class="header" style="background-image: linear-gradient(to right, #0C0C0C, #00C6D7);">
+        <div class="container">
+            <div class="top-header">
+                <div class="top-nav">
+                    <div class="navigation">
+                        <div class="logo">
+                            <h1><span>V</span>isualization</h1>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                <div class="banner-info">
+                    <table id="table" class="table table-sm" style="background-color: #dddddd" data-toggle="table" data-custom-sort="customSort">
+                        <thead>
+                            <tr>
+                                <th data-sortable="true">Author Rank</th>
+                                <th data-sortable="true">Author Name</th>
+                                <th data-sortable="true">Fellow</th>
+                                <th data-sortable="true">Citation Count</th>
+                                <th data-sortable="true">h-index</th>
+                                <th data-sortable="true">Paper Count</th>
+                                <th>Search</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        {% for scholar in scholar_list %}
+                            <tr>
+                                <td>{{ scholar.seq }}</td>
+                                <td>{{ scholar.name }}</td>
+                                <td>{{ scholar.fellow }}</td>
+                                <td>{{ scholar.citationCount }}</td>
+                                <td>{{ scholar.hindex }}</td>
+                                <td>{{ scholar.num }}</td>
+                                <td>
+                                    <a class="btn-sm btn-primary" href="/index_alt/{{ scholar.seq }}" id="{{ scholar.score }}">search</a>
+                                </td>
+                            </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function customSort(sortName, sortOrder, data) {
+            var order = sortOrder === 'desc' ? -1 : 1;
+            data.sort(function (a, b) {
+                if (sortName == 1) {
+                    if (a[sortName] < b[sortName]) {
+                        return order * -1;
+                    }
+                    if (a[sortName] > b[sortName]) {
+                        return order;
+                    }
+                    return 0;
+                }
+                if (sortName == 2) {
+                    var aa = Number(a[6].slice(-13, -12));
+                    var bb = Number(b[6].slice(-13, -12));
+                    if (aa < bb) {
+                        return order * -1;
+                    }
+                    if (aa > bb) {
+                        return order;
+                    }
+                    if  (aa == bb) {
+                        var aaa = Number(a[3]);
+                        var bbb = Number(b[3]);
+                        if (aaa < bbb) {
+                            return order * -1;
+                        }
+                        if (aaa > bbb) {
+                            return order;
+                        }
+                        return 0;
+                    }
+                }
+                var aa = +((a[sortName] + '').replace(/[^\d]/g, ''));
+                var bb = +((b[sortName] + '').replace(/[^\d]/g, ''));
+                if (aa < bb) {
+                    return order * -1;
+                }
+                if (aa > bb) {
+                    return order;
+                }
+                return 0;
+            })
+        }
+    </script>
+</body>
+</html>
